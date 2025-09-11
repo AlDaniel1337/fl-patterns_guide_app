@@ -8,13 +8,14 @@ class Navigation{
   static const String home = HomePage.route;
   
   static List<GetPage> getRoutes(){    
-    List<GetPage> pages = [
-      GetPage(name: HomePage.route, page:() => const HomePage()),
-    ];
+
+    List<GetPage> pages = Routes.values.map( 
+      (route) => GetPage(name: route.url, page:() => route.page) 
+    ).toList();
     
     return pages;
   }
 
-  static goToPage({required Routes page}) => Get.toNamed( page.url );
+  static void goToPage({required Routes page}) => Get.toNamed( page.url );
 
 }  
