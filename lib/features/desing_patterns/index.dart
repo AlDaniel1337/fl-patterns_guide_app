@@ -1,1 +1,0 @@
-export 'package:patterns_guide_app/features/desing_patterns/menu/menu.page.dart';
