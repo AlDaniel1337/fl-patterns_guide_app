@@ -1,0 +1,27 @@
+{
+  "切ります": {
+    "variants": ["切る"],
+    "romaji": "kirimasu",
+    "onyomi": "セツ, サイ",
+    "kunyomi": "き.る, き.れる",
+    "es": "cortar",
+    "en": "to cut",
+    "fr": "couper",
+    "de": "schneiden",
+    "it": "tagliare",
+    "pt": "cortar",
+    "kr": {
+      "korean": "자르다",
+      "trans": "jareuda"
+    },
+    "ru": {
+      "russian": "резать",
+      "trans": "rezat'"
+    },
+    "ch": {
+      "simplified": "切",
+      "traditional": "切",
+      "pinyin": "qiē"
+    }
+  }
+}

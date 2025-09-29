@@ -11,13 +11,54 @@ class DesingPatternsMenuPage extends StatelessWidget {
     return Scaffold(
    
       appBar: AppBar(
-         title: const Text('DesingPatternsMenuPage'),
-         centerTitle: true,
+        title: const Text('Builder'),
+        centerTitle: true,
       ),
    
-      body: const Center(
-         child: Text('DesingPatternsMenuPage'),
+      body: Column(
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: [
+          
+          Text('Construir objetos complejos paso a paso.', 
+            style: TextStyle( 
+              fontSize: 20, 
+              fontWeight: FontWeight.bold 
+            ),
+          ),
+
+          const SizedBox(height: 20),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              CustomTextBtn(title: "Propósito"),
+            ],
+          ),
+      
+        ],
       ),
+    );
+  }
+}
+
+class CustomTextBtn extends StatelessWidget {
+
+  final String title;
+
+  const CustomTextBtn({
+    super.key,
+    required this.title,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return TextButton(
+      onPressed: (){}, 
+      child: Text(title, 
+        style: TextStyle(
+          fontSize: 20, 
+          fontWeight: FontWeight.w400
+        ),
+      )
     );
   }
 }

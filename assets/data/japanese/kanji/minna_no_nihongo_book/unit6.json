@@ -1,0 +1,1250 @@
+{
+  "食べます": {
+    "variants": ["食べる"],
+    "romaji": "tabemasu",
+    "onyomi": "",
+    "kunyomi": "た.べる, く.う, く.らう",
+    "es": "comer",
+    "en": "to eat",
+    "fr": "manger",
+    "de": "essen",
+    "it": "mangiare",
+    "pt": "comer",
+    "kr": {
+      "korean": "먹다",
+      "trans": "meokda"
+    },
+    "ru": {
+      "russian": "есть",
+      "trans": "yest'"
+    },
+    "ch": {
+      "simplified": "吃",
+      "traditional": "吃",
+      "pinyin": "chī"
+    }
+  },
+
+  "飲みます": {
+    "variants": ["飲む"],
+    "romaji": "nomimasu",
+    "onyomi": "イン, オン",
+    "kunyomi": "の.む, の.み",
+    "es": "beber, tomar",
+    "en": "to drink",
+    "fr": "boire",
+    "de": "trinken",
+    "it": "bere",
+    "pt": "beber",
+    "kr": {
+      "korean": "마시다",
+      "trans": "masida"
+    },
+    "ru": {
+      "russian": "пить",
+      "trans": "pit'"
+    },
+    "ch": {
+      "simplified": "喝",
+      "traditional": "喝",
+      "pinyin": "hē"
+    }
+  },
+
+  "吸います": {
+    "variants": ["吸う"],
+    "romaji": "suimasu",
+    "onyomi": "キュウ",
+    "kunyomi": "す.う",
+    "es": "fumar, aspirar, inhalar",
+    "en": "to smoke, to inhale, to suck",
+    "fr": "fumer, aspirer",
+    "de": "rauchen, einatmen",
+    "it": "fumare, inalare",
+    "pt": "fumar, inalar",
+    "kr": {
+      "korean": "피우다, 들이마시다",
+      "trans": "piuda, deuri masida"
+    },
+    "ru": {
+      "russian": "курить, вдыхать",
+      "trans": "kurit', vdykhat'"
+    },
+    "ch": {
+      "simplified": "吸",
+      "traditional": "吸",
+      "pinyin": "xī"
+    }
+  },
+
+  "見ます": {
+    "variants": ["見る"],
+    "romaji": "mimasu",
+    "onyomi": "ケン",
+    "kunyomi": "み.る, み.える, み.せる",
+    "es": "ver, mirar",
+    "en": "to see, to look at, to watch",
+    "fr": "voir, regarder",
+    "de": "sehen, anschauen",
+    "it": "vedere, guardare",
+    "pt": "ver, olhar",
+    "kr": {
+      "korean": "보다",
+      "trans": "boda"
+    },
+    "ru": {
+      "russian": "смотреть, видеть",
+      "trans": "smotret', videt'"
+    },
+    "ch": {
+      "simplified": "看",
+      "traditional": "看",
+      "pinyin": "kàn"
+    }
+  },
+
+  "聞きます": {
+    "variants": ["聞く"],
+    "romaji": "kikimasu",
+    "onyomi": "ブン, モン",
+    "kunyomi": "き.く, き.こえる",
+    "es": "escuchar, oír, preguntar",
+    "en": "to listen, to hear, to ask",
+    "fr": "écouter, entendre, demander",
+    "de": "hören, fragen",
+    "it": "ascoltare, sentire, chiedere",
+    "pt": "ouvir, escutar, perguntar",
+    "kr": {
+      "korean": "듣다, 묻다",
+      "trans": "deutda, mutda"
+    },
+    "ru": {
+      "russian": "слушать, слышать, спрашивать",
+      "trans": "slushat', slyshat', sprashivat'"
+    },
+    "ch": {
+      "simplified": "听, 问",
+      "traditional": "聽, 問",
+      "pinyin": "tīng, wèn"
+    }
+  },
+
+  "読みます": {
+    "variants": ["読む"],
+    "romaji": "yomimasu",
+    "onyomi": "ドク, トク, トウ",
+    "kunyomi": "よ.む, よ.み",
+    "es": "leer",
+    "en": "to read",
+    "fr": "lire",
+    "de": "lesen",
+    "it": "leggere",
+    "pt": "ler",
+    "kr": {
+      "korean": "읽다",
+      "trans": "ikda"
+    },
+    "ru": {
+      "russian": "читать",
+      "trans": "chitat'"
+    },
+    "ch": {
+      "simplified": "读",
+      "traditional": "讀",
+      "pinyin": "dú"
+    }
+  },
+
+  "書きます": {
+    "variants": ["書く"],
+    "romaji": "kakimasu",
+    "onyomi": "ショ",
+    "kunyomi": "か.く, が.き, がき",
+    "es": "escribir",
+    "en": "to write",
+    "fr": "écrire",
+    "de": "schreiben",
+    "it": "scrivere",
+    "pt": "escrever",
+    "kr": {
+      "korean": "쓰다",
+      "trans": "sseuda"
+    },
+    "ru": {
+      "russian": "писать",
+      "trans": "pisat'"
+    },
+    "ch": {
+      "simplified": "写",
+      "traditional": "寫",
+      "pinyin": "xiě"
+    }
+  },
+
+  "買います": {
+    "variants": ["買う"],
+    "romaji": "kaimasu",
+    "onyomi": "バイ",
+    "kunyomi": "か.う",
+    "es": "comprar",
+    "en": "to buy",
+    "fr": "acheter",
+    "de": "kaufen",
+    "it": "comprare",
+    "pt": "comprar",
+    "kr": {
+      "korean": "사다",
+      "trans": "sada"
+    },
+    "ru": {
+      "russian": "покупать",
+      "trans": "pokupat'"
+    },
+    "ch": {
+      "simplified": "买",
+      "traditional": "買",
+      "pinyin": "mǎi"
+    }
+  },
+
+  "撮ります": {
+    "variants": ["撮る"],
+    "romaji": "torimasu",
+    "onyomi": "",
+    "kunyomi": "と.る, つま.む",
+    "es": "tomar (foto), sacar (foto)",
+    "en": "to take (a photo)",
+    "fr": "prendre (une photo)",
+    "de": "fotografieren",
+    "it": "scattare (una foto)",
+    "pt": "tirar (foto)",
+    "kr": {
+      "korean": "찍다",
+      "trans": "jjikda"
+    },
+    "ru": {
+      "russian": "фотографировать",
+      "trans": "fotografirovat'"
+    },
+    "ch": {
+      "simplified": "拍（照）",
+      "traditional": "拍（照）",
+      "pinyin": "pāi (zhào)"
+    }
+  },
+
+  "写真": {
+    "variants": [],
+    "romaji": "shashin",
+    "onyomi": "シャ, シン",
+    "kunyomi": "うつ.す, うつ.る, しゃしん",
+    "es": "foto, fotografía",
+    "en": "photo, photograph",
+    "fr": "photo, photographie",
+    "de": "Foto, Fotografie",
+    "it": "foto, fotografia",
+    "pt": "foto, fotografia",
+    "kr": {
+      "korean": "사진",
+      "trans": "sajin"
+    },
+    "ru": {
+      "russian": "фотография",
+      "trans": "fotografiya"
+    },
+    "ch": {
+      "simplified": "照片",
+      "traditional": "照片",
+      "pinyin": "zhàopiàn"
+    }
+  },
+
+  "会います": {
+    "variants": ["会う"],
+    "romaji": "aimasu",
+    "onyomi": "カイ, エ",
+    "kunyomi": "あ.う, あ.わせる, あつ.まる",
+    "es": "encontrarse, reunirse, ver a (alguien)",
+    "en": "to meet, to see (someone)",
+    "fr": "rencontrer, voir (quelqu'un)",
+    "de": "sich treffen, begegnen",
+    "it": "incontrare, vedere (qualcuno)",
+    "pt": "encontrar, ver (alguém)",
+    "kr": {
+      "korean": "만나다",
+      "trans": "mannada"
+    },
+    "ru": {
+      "russian": "встречать(ся)",
+      "trans": "vstrechat'sya"
+    },
+    "ch": {
+      "simplified": "见面",
+      "traditional": "見面",
+      "pinyin": "jiànmiàn"
+    }
+  },
+
+  "朝ごはん": {
+    "variants": ["朝ご飯"],
+    "romaji": "asagohan",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
+    "es": "desayuno",
+    "en": "breakfast",
+    "fr": "petit-déjeuner",
+    "de": "Frühstück",
+    "it": "colazione",
+    "pt": "café da manhã",
+    "kr": {
+      "korean": "아침밥",
+      "trans": "achim bap"
+    },
+    "ru": {
+      "russian": "завтрак",
+      "trans": "zavtrak"
+    },
+    "ch": {
+      "simplified": "早餐",
+      "traditional": "早餐",
+      "pinyin": "zǎocān"
+    }
+  },
+
+  "昼ごはん": {
+    "variants": ["昼ご飯"],
+    "romaji": "hirugohan",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
+    "es": "almuerzo",
+    "en": "lunch",
+    "fr": "déjeuner",
+    "de": "Mittagessen",
+    "it": "pranzo",
+    "pt": "almoço",
+    "kr": {
+      "korean": "점심밥",
+      "trans": "jeomsim bap"
+    },
+    "ru": {
+      "russian": "обед",
+      "trans": "obed"
+    },
+    "ch": {
+      "simplified": "午餐",
+      "traditional": "午餐",
+      "pinyin": "wǔcān"
+    }
+  },
+
+  "晩ごはん": {
+    "variants": ["晩ご飯", "夕ごはん", "夕ご飯"],
+    "romaji": "bangohan",
+    "onyomi": "バン",
+    "kunyomi": "ばん, ゆう",
+    "es": "cena",
+    "en": "dinner, supper",
+    "fr": "dîner, souper",
+    "de": "Abendessen",
+    "it": "cena",
+    "pt": "jantar",
+    "kr": {
+      "korean": "저녁밥",
+      "trans": "jeonyeok bap"
+    },
+    "ru": {
+      "russian": "ужин",
+      "trans": "uzhin"
+    },
+    "ch": {
+      "simplified": "晚餐",
+      "traditional": "晚餐",
+      "pinyin": "wǎncān"
+    }
+  },
+
+  "パン": {
+    "variants": [],
+    "romaji": "pan",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "pan",
+    "en": "bread",
+    "fr": "pain",
+    "de": "Brot",
+    "it": "pane",
+    "pt": "pão",
+    "kr": {
+      "korean": "빵",
+      "trans": "ppang"
+    },
+    "ru": {
+      "russian": "хлеб",
+      "trans": "khleb"
+    },
+    "ch": {
+      "simplified": "面包",
+      "traditional": "麵包",
+      "pinyin": "miànbāo"
+    }
+  },
+
+  "卵": {
+    "variants": [],
+    "romaji": "tamago",
+    "onyomi": "ラン",
+    "kunyomi": "たまご",
+    "es": "huevo",
+    "en": "egg",
+    "fr": "œuf",
+    "de": "Ei",
+    "it": "uovo",
+    "pt": "ovo",
+    "kr": {
+      "korean": "달걀, 계란",
+      "trans": "dalgyal, gyeran"
+    },
+    "ru": {
+      "russian": "яйцо",
+      "trans": "yaytso"
+    },
+    "ch": {
+      "simplified": "蛋",
+      "traditional": "蛋",
+      "pinyin": "dàn"
+    }
+  },
+
+  "肉": {
+    "variants": [],
+    "romaji": "niku",
+    "onyomi": "ニク",
+    "kunyomi": "しし",
+    "es": "carne",
+    "en": "meat",
+    "fr": "viande",
+    "de": "Fleisch",
+    "it": "carne",
+    "pt": "carne",
+    "kr": {
+      "korean": "고기",
+      "trans": "gogi"
+    },
+    "ru": {
+      "russian": "мясо",
+      "trans": "myaso"
+    },
+    "ch": {
+      "simplified": "肉",
+      "traditional": "肉",
+      "pinyin": "ròu"
+    }
+  },
+
+  "魚": {
+    "variants": [],
+    "romaji": "sakana",
+    "onyomi": "ギョ",
+    "kunyomi": "さかな, うお",
+    "es": "pescado, pez",
+    "en": "fish",
+    "fr": "poisson",
+    "de": "Fisch",
+    "it": "pesce",
+    "pt": "peixe",
+    "kr": {
+      "korean": "물고기",
+      "trans": "mulgogi"
+    },
+    "ru": {
+      "russian": "рыба",
+      "trans": "ryba"
+    },
+    "ch": {
+      "simplified": "鱼",
+      "traditional": "魚",
+      "pinyin": "yú"
+    }
+  },
+
+  "野菜": {
+    "variants": [],
+    "romaji": "yasai",
+    "onyomi": "",
+    "kunyomi": "やさい",
+    "es": "verdura, vegetal",
+    "en": "vegetable",
+    "fr": "légume",
+    "de": "Gemüse",
+    "it": "verdura",
+    "pt": "verdura, vegetal",
+    "kr": {
+      "korean": "야채",
+      "trans": "yachae"
+    },
+    "ru": {
+      "russian": "овощи",
+      "trans": "ovoshchi"
+    },
+    "ch": {
+      "simplified": "蔬菜",
+      "traditional": "蔬菜",
+      "pinyin": "shūcài"
+    }
+  },
+
+  "果物": {
+    "variants": [],
+    "romaji": "kudamono",
+    "onyomi": "",
+    "kunyomi": "くだもの",
+    "es": "fruta",
+    "en": "fruit",
+    "fr": "fruit",
+    "de": "Obst",
+    "it": "frutta",
+    "pt": "fruta",
+    "kr": {
+      "korean": "과일",
+      "trans": "gwail"
+    },
+    "ru": {
+      "russian": "фрукты",
+      "trans": "frukty"
+    },
+    "ch": {
+      "simplified": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐguǒ"
+    }
+  },
+
+  "水": {
+    "variants": [],
+    "romaji": "mizu",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "es": "agua",
+    "en": "water",
+    "fr": "eau",
+    "de": "Wasser",
+    "it": "acqua",
+    "pt": "água",
+    "kr": {
+      "korean": "물",
+      "trans": "mul"
+    },
+    "ru": {
+      "russian": "вода",
+      "trans": "voda"
+    },
+    "ch": {
+      "simplified": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ"
+    }
+  },
+
+  "お茶": {
+    "variants": [],
+    "romaji": "ocha",
+    "onyomi": "チャ, サ",
+    "kunyomi": "ちゃ, さ",
+    "es": "té (verde japonés)",
+    "en": "tea (Japanese green tea)",
+    "fr": "thé (vert japonais)",
+    "de": "Tee (japanischer grüner Tee)",
+    "it": "tè (verde giapponese)",
+    "pt": "chá (verde japonês)",
+    "kr": {
+      "korean": "차",
+      "trans": "cha"
+    },
+    "ru": {
+      "russian": "чай (японский зелёный чай)",
+      "trans": "chay"
+    },
+    "ch": {
+      "simplified": "茶",
+      "traditional": "茶",
+      "pinyin": "chá"
+    }
+  },
+
+  "紅茶": {
+    "variants": [],
+    "romaji": "koucha",
+    "onyomi": "コウ, チャ",
+    "kunyomi": "",
+    "es": "té negro",
+    "en": "black tea",
+    "fr": "thé noir",
+    "de": "Schwarzer Tee",
+    "it": "tè nero",
+    "pt": "chá preto",
+    "kr": {
+      "korean": "홍차",
+      "trans": "hongcha"
+    },
+    "ru": {
+      "russian": "чёрный чай",
+      "trans": "chyornyy chay"
+    },
+    "ch": {
+      "simplified": "红茶",
+      "traditional": "紅茶",
+      "pinyin": "hóngchá"
+    }
+  },
+
+  "牛乳": {
+    "variants": [],
+    "romaji": "gyuunyuu",
+    "onyomi": "ギュウ, ニュウ",
+    "kunyomi": "うし, ちち",
+    "es": "leche (de vaca)",
+    "en": "milk (cow's milk)",
+    "fr": "lait (de vache)",
+    "de": "Milch (Kuhmilch)",
+    "it": "latte (di mucca)",
+    "pt": "leite (de vaca)",
+    "kr": {
+      "korean": "우유",
+      "trans": "uyu"
+    },
+    "ru": {
+      "russian": "молоко (коровье)",
+      "trans": "moloko"
+    },
+    "ch": {
+      "simplified": "牛奶",
+      "traditional": "牛奶",
+      "pinyin": "niúnǎi"
+    }
+  },
+
+  "ジュース": {
+    "variants": [],
+    "romaji": "juusu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "jugo, zumo",
+    "en": "juice",
+    "fr": "jus",
+    "de": "Saft",
+    "it": "succo",
+    "pt": "suco",
+    "kr": {
+      "korean": "주스",
+      "trans": "juseu"
+    },
+    "ru": {
+      "russian": "сок",
+      "trans": "sok"
+    },
+    "ch": {
+      "simplified": "果汁",
+      "traditional": "果汁",
+      "pinyin": "guǒzhī"
+    }
+  },
+
+  "ビール": {
+    "variants": [],
+    "romaji": "biiru",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "cerveza",
+    "en": "beer",
+    "fr": "bière",
+    "de": "Bier",
+    "it": "birra",
+    "pt": "cerveja",
+    "kr": {
+      "korean": "맥주",
+      "trans": "maekju"
+    },
+    "ru": {
+      "russian": "пиво",
+      "trans": "pivo"
+    },
+    "ch": {
+      "simplified": "啤酒",
+      "traditional": "啤酒",
+      "pinyin": "píjiǔ"
+    }
+  },
+
+  "お酒": {
+    "variants": ["酒"],
+    "romaji": "osake",
+    "onyomi": "シュ",
+    "kunyomi": "さけ, さか",
+    "es": "alcohol, sake (licor japonés)",
+    "en": "alcohol, sake (Japanese rice wine)",
+    "fr": "alcool, saké (alcool japonais)",
+    "de": "Alkohol, Sake (japanischer Reiswein)",
+    "it": "alcol, sake (liquore giapponese)",
+    "pt": "álcool, saquê (licor japonês)",
+    "kr": {
+      "korean": "술, 사케",
+      "trans": "sul, sake"
+    },
+    "ru": {
+      "russian": "алкоголь, сакэ (японское рисовое вино)",
+      "trans": "alkogol', sake"
+    },
+    "ch": {
+      "simplified": "酒, 清酒",
+      "traditional": "酒, 清酒",
+      "pinyin": "jiǔ, qīngjiǔ"
+    }
+  },
+
+  "たばこ": {
+    "variants": [],
+    "romaji": "tabako",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "tabaco, cigarrillo",
+    "en": "tobacco, cigarette",
+    "fr": "tabac, cigarette",
+    "de": "Tabak, Zigarette",
+    "it": "tabacco, sigaretta",
+    "pt": "tabaco, cigarro",
+    "kr": {
+      "korean": "담배",
+      "trans": "dambae"
+    },
+    "ru": {
+      "russian": "табак, сигарета",
+      "trans": "tabak, sigareta"
+    },
+    "ch": {
+      "simplified": "烟, 香烟",
+      "traditional": "煙, 香煙",
+      "pinyin": "yān, xiāngyān"
+    }
+  },
+
+  "手紙": {
+    "variants": [],
+    "romaji": "tegami",
+    "onyomi": "ショ",
+    "kunyomi": "てがみ",
+    "es": "carta",
+    "en": "letter",
+    "fr": "lettre",
+    "de": "Brief",
+    "it": "lettera",
+    "pt": "carta",
+    "kr": {
+      "korean": "편지",
+      "trans": "pyeonji"
+    },
+    "ru": {
+      "russian": "письмо",
+      "trans": "pis'mo"
+    },
+    "ch": {
+      "simplified": "信",
+      "traditional": "信",
+      "pinyin": "xìn"
+    }
+  },
+
+  "レポート": {
+    "variants": [],
+    "romaji": "repooto",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "informe, reporte",
+    "en": "report",
+    "fr": "rapport",
+    "de": "Bericht",
+    "it": "relazione, rapporto",
+    "pt": "relatório",
+    "kr": {
+      "korean": "보고서",
+      "trans": "bogoseo"
+    },
+    "ru": {
+      "russian": "отчёт, доклад",
+      "trans": "otchot, doklad"
+    },
+    "ch": {
+      "simplified": "报告",
+      "traditional": "報告",
+      "pinyin": "bàogào"
+    }
+  },
+
+  "ビデオ": {
+    "variants": [],
+    "romaji": "bideo",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "video",
+    "en": "video",
+    "fr": "vidéo",
+    "de": "Video",
+    "it": "video",
+    "pt": "vídeo",
+    "kr": {
+      "korean": "비디오",
+      "trans": "bidio"
+    },
+    "ru": {
+      "russian": "видео",
+      "trans": "video"
+    },
+    "ch": {
+      "simplified": "视频",
+      "traditional": "視頻",
+      "pinyin": "shìpín"
+    }
+  },
+
+  "店": {
+    "variants": [],
+    "romaji": "mise",
+    "onyomi": "テン",
+    "kunyomi": "みせ",
+    "es": "tienda",
+    "en": "shop, store",
+    "fr": "magasin, boutique",
+    "de": "Geschäft, Laden",
+    "it": "negozio",
+    "pt": "loja",
+    "kr": {
+      "korean": "가게",
+      "trans": "gage"
+    },
+    "ru": {
+      "russian": "магазин",
+      "trans": "magazin"
+    },
+    "ch": {
+      "simplified": "店",
+      "traditional": "店",
+      "pinyin": "diàn"
+    }
+  },
+
+  "庭": {
+    "variants": [],
+    "romaji": "niwa",
+    "onyomi": "テイ",
+    "kunyomi": "にわ",
+    "es": "jardín, patio",
+    "en": "garden, yard",
+    "fr": "jardin, cour",
+    "de": "Garten, Hof",
+    "it": "giardino, cortile",
+    "pt": "jardim, quintal",
+    "kr": {
+      "korean": "정원",
+      "trans": "jeongwon"
+    },
+    "ru": {
+      "russian": "сад, двор",
+      "trans": "sad, dvor"
+    },
+    "ch": {
+      "simplified": "庭院",
+      "traditional": "庭院",
+      "pinyin": "tíngyuàn"
+    }
+  },
+
+  "宿題": {
+    "variants": [],
+    "romaji": "shukudai",
+    "onyomi": "シュク, ダイ",
+    "kunyomi": "",
+    "es": "tarea, deberes",
+    "en": "homework, assignment",
+    "fr": "devoirs",
+    "de": "Hausaufgabe",
+    "it": "compiti",
+    "pt": "lição de casa",
+    "kr": {
+      "korean": "숙제",
+      "trans": "sukje"
+    },
+    "ru": {
+      "russian": "домашнее задание",
+      "trans": "domashnee zadanie"
+    },
+    "ch": {
+      "simplified": "作业",
+      "traditional": "作業",
+      "pinyin": "zuòyè"
+    }
+  },
+
+  "テニス": {
+    "variants": [],
+    "romaji": "tenisu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "tenis",
+    "en": "tennis",
+    "fr": "tennis",
+    "de": "Tennis",
+    "it": "tennis",
+    "pt": "tênis",
+    "kr": {
+      "korean": "테니스",
+      "trans": "teniseu"
+    },
+    "ru": {
+      "russian": "теннис",
+      "trans": "tennis"
+    },
+    "ch": {
+      "simplified": "网球",
+      "traditional": "網球",
+      "pinyin": "wǎngqiú"
+    }
+  },
+
+  "サッカー": {
+    "variants": [],
+    "romaji": "sakkaa",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "fútbol",
+    "en": "soccer, football",
+    "fr": "football",
+    "de": "Fußball",
+    "it": "calcio",
+    "pt": "futebol",
+    "kr": {
+      "korean": "축구",
+      "trans": "chukgu"
+    },
+    "ru": {
+      "russian": "футбол",
+      "trans": "futbol"
+    },
+    "ch": {
+      "simplified": "足球",
+      "traditional": "足球",
+      "pinyin": "zúqiú"
+    }
+  },
+
+  "お花見": {
+    "variants": [],
+    "romaji": "ohanami",
+    "onyomi": "",
+    "kunyomi": "はなみ",
+    "es": "ver flores (cerezos), hanami",
+    "en": "cherry blossom viewing, hanami",
+    "fr": "contemplation des cerisiers en fleurs",
+    "de": "Kirschblütenschau",
+    "it": "hanami, osservazione dei ciliegi in fiore",
+    "pt": "hanami, ver flores de cerejeira",
+    "kr": {
+      "korean": "꽃구경",
+      "trans": "kkot gugyeong"
+    },
+    "ru": {
+      "russian": "любование цветами сакуры",
+      "trans": "lyubovaniye tsvetami sakury"
+    },
+    "ch": {
+      "simplified": "赏花",
+      "traditional": "賞花",
+      "pinyin": "shǎnghuā"
+    }
+  },
+
+  "何": {
+    "variants": ["なに", "なん"],
+    "romaji": "nani",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん",
+    "es": "qué",
+    "en": "what",
+    "fr": "quoi",
+    "de": "was",
+    "it": "che cosa",
+    "pt": "o que",
+    "kr": {
+      "korean": "무엇",
+      "trans": "mueot"
+    },
+    "ru": {
+      "russian": "что",
+      "trans": "chto"
+    },
+    "ch": {
+      "simplified": "什么",
+      "traditional": "什麼",
+      "pinyin": "shénme"
+    }
+  },
+
+  "一緒に": {
+    "variants": [],
+    "romaji": "issho ni",
+    "onyomi": "",
+    "kunyomi": "いっしょに",
+    "es": "juntos, junto con",
+    "en": "together, with",
+    "fr": "ensemble, avec",
+    "de": "zusammen, mit",
+    "it": "insieme, con",
+    "pt": "juntos, com",
+    "kr": {
+      "korean": "같이, 함께",
+      "trans": "gachi, hamkke"
+    },
+    "ru": {
+      "russian": "вместе, с",
+      "trans": "vmeste, s"
+    },
+    "ch": {
+      "simplified": "一起",
+      "traditional": "一起",
+      "pinyin": "yìqǐ"
+    }
+  },
+
+  "ちょっと": {
+    "variants": [],
+    "romaji": "chotto",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "un poco, un momento",
+    "en": "a little, a moment",
+    "fr": "un peu, un instant",
+    "de": "ein bisschen, einen Moment",
+    "it": "un po', un attimo",
+    "pt": "um pouco, um momento",
+    "kr": {
+      "korean": "조금, 잠깐",
+      "trans": "jogeum, jamkkan"
+    },
+    "ru": {
+      "russian": "немного, минутку",
+      "trans": "nemnogo, minutku"
+    },
+    "ch": {
+      "simplified": "一点, 一会儿",
+      "traditional": "一點, 一會兒",
+      "pinyin": "yìdiǎn, yíhuìr"
+    }
+  },
+
+  "いつも": {
+    "variants": [],
+    "romaji": "itsumo",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "siempre",
+    "en": "always",
+    "fr": "toujours",
+    "de": "immer",
+    "it": "sempre",
+    "pt": "sempre",
+    "kr": {
+      "korean": "항상",
+      "trans": "hangsang"
+    },
+    "ru": {
+      "russian": "всегда",
+      "trans": "vsegda"
+    },
+    "ch": {
+      "simplified": "总是",
+      "traditional": "總是",
+      "pinyin": "zǒngshì"
+    }
+  },
+
+  "時々": {
+    "variants": [],
+    "romaji": "tokidoki",
+    "onyomi": "",
+    "kunyomi": "ときどき",
+    "es": "a veces",
+    "en": "sometimes",
+    "fr": "parfois",
+    "de": "manchmal",
+    "it": "a volte",
+    "pt": "às vezes",
+    "kr": {
+      "korean": "가끔",
+      "trans": "gakkeum"
+    },
+    "ru": {
+      "russian": "иногда",
+      "trans": "inogda"
+    },
+    "ch": {
+      "simplified": "有时",
+      "traditional": "有時",
+      "pinyin": "yǒushí"
+    }
+  },
+
+  "それから": {
+    "variants": [],
+    "romaji": "sorekara",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "después, luego, y luego",
+    "en": "after that, then, and then",
+    "fr": "après cela, puis",
+    "de": "danach, dann",
+    "it": "dopo, poi",
+    "pt": "depois, então",
+    "kr": {
+      "korean": "그리고 나서",
+      "trans": "geurigo naseo"
+    },
+    "ru": {
+      "russian": "затем, потом",
+      "trans": "zatem, potom"
+    },
+    "ch": {
+      "simplified": "然后",
+      "traditional": "然後",
+      "pinyin": "ránhòu"
+    }
+  },
+
+  "ええ": {
+    "variants": [],
+    "romaji": "ee",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "sí",
+    "en": "yes",
+    "fr": "oui",
+    "de": "ja",
+    "it": "sì",
+    "pt": "sim",
+    "kr": {
+      "korean": "네",
+      "trans": "ne"
+    },
+    "ru": {
+      "russian": "да",
+      "trans": "da"
+    },
+    "ch": {
+      "simplified": "是的",
+      "traditional": "是的",
+      "pinyin": "shì de"
+    }
+  },
+
+  "いいですね": {
+    "variants": [],
+    "romaji": "ii desu ne",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "qué bien, suena bien",
+    "en": "sounds good, that's nice",
+    "fr": "c'est bien, bonne idée",
+    "de": "das ist gut, klingt gut",
+    "it": "che bello, va bene",
+    "pt": "que bom, está bem",
+    "kr": {
+      "korean": "좋네요",
+      "trans": "johaeyo"
+    },
+    "ru": {
+      "russian": "хорошо, отлично",
+      "trans": "khorosho, otlichno"
+    },
+    "ch": {
+      "simplified": "不错啊",
+      "traditional": "不錯啊",
+      "pinyin": "búcuò a"
+    }
+  },
+
+  "わかりました。": {
+    "variants": ["分かりました"],
+    "romaji": "wakarimashita",
+    "onyomi": "",
+    "kunyomi": "わかる",
+    "es": "entendido, lo entiendo",
+    "en": "understood, I got it",
+    "fr": "compris, d'accord",
+    "de": "verstanden, alles klar",
+    "it": "capito, ho capito",
+    "pt": "entendi, compreendi",
+    "kr": {
+      "korean": "알겠습니다",
+      "trans": "algesseumnida"
+    },
+    "ru": {
+      "russian": "понял(а), понятно",
+      "trans": "ponyal(a), ponyatno"
+    },
+    "ch": {
+      "simplified": "明白了",
+      "traditional": "明白了",
+      "pinyin": "míngbai le"
+    }
+  },
+
+  "何ですか。": {
+    "variants": [],
+    "romaji": "nan desu ka",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "¿qué es?",
+    "en": "what is it?",
+    "fr": "qu'est-ce que c'est ?",
+    "de": "was ist das?",
+    "it": "che cos'è?",
+    "pt": "o que é?",
+    "kr": {
+      "korean": "뭐예요?",
+      "trans": "mwoyeyo?"
+    },
+    "ru": {
+      "russian": "что это?",
+      "trans": "chto eto?"
+    },
+    "ch": {
+      "simplified": "是什么？",
+      "traditional": "是什麼？",
+      "pinyin": "shì shénme?"
+    }
+  },
+
+  "じゃ、また ~ 明日": {
+    "variants": ["じゃ、また明日", "じゃまた明日"],
+    "romaji": "ja, mata ~ ashita",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "bueno, hasta mañana",
+    "en": "well, see you tomorrow",
+    "fr": "alors, à demain",
+    "de": "also, bis morgen",
+    "it": "allora, a domani",
+    "pt": "então, até amanhã",
+    "kr": {
+      "korean": "그럼, 내일 또 봐요",
+      "trans": "geureom, naeil tto bwayo"
+    },
+    "ru": {
+      "russian": "ну, до завтра",
+      "trans": "nu, do zavtra"
+    },
+    "ch": {
+      "simplified": "那么，明天见",
+      "traditional": "那麼，明天見",
+      "pinyin": "nàme, míngtiān jiàn"
+    }
+  }
+
+}

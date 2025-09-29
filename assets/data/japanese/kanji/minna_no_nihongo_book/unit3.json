@@ -1,0 +1,1013 @@
+{
+  "ここ": {
+    "variants": ["此処"],
+    "romaji"  : "koko",
+    "onyomi"  : "ココ",
+    "kunyomi" : "ここ",
+    "es"      : "aquí, acá",
+    "en"      : "here (place here)",
+    "fr"      : "ici",
+    "de"      : "hier",
+    "it"      : "qui, qua",
+    "pt"      : "aqui",
+    "kr"      : {
+      "korean" : "여기",
+      "trans"  : "yeogi"
+    },
+    "ru"      : {
+      "russian" : "здесь",
+      "trans"   : "zdes'"
+    },
+    "ch"      : {
+      "simplified" : "这里",
+      "traditional": "這裡",
+      "pinyin"     : "zhèlǐ"
+    }
+  },
+  "そこ":{
+    "variants": ["其処"],
+    "romaji"  : "soko",
+    "onyomi"  : "ソコ",
+    "kunyomi" : "そこ",
+    "es"      : "ahí",
+    "en"      : "there (place near you)",
+    "fr"      : "là",
+    "de"      : "da",
+    "it"      : "lì",
+    "pt"      : "ali",
+    "kr"      : {
+      "korean" : "그곳",
+      "trans"  : "geugot"
+    },
+    "ru"      : {
+      "russian" : "там",
+      "trans"   : "tam"
+    },
+    "ch"      : {
+      "simplified" : "那里",
+      "traditional": "那裡",
+      "pinyin"     : "nàlǐ"
+    }
+  },
+  
+  "あそこ":{
+    "variants": ["彼処"],
+    "romaji"  : "asoko",
+    "onyomi"  : "アソコ",
+    "kunyomi" : "あそこ",
+    "es"      : "allí, allá",
+    "en"      : "over there (place away from both of us)",
+    "fr"      : "là-bas",
+    "de"      : "dort",
+    "it"      : "là, laggiù",
+    "pt"      : "ali, lá",
+    "kr"      : {
+      "korean" : "저기",
+      "trans"  : "jeogi"
+    },
+    "ru"      : {
+      "russian" : "там",
+      "trans"   : "tam"
+    },
+    "ch"      : {
+      "simplified" : "那里",
+      "traditional": "那裡",
+      "pinyin"     : "nàlǐ"
+    }
+  },
+  "どこ": {
+    "variants": ["何処"],
+    "romaji"  : "doko",
+    "onyomi"  : "ドコ",
+    "kunyomi" : "どこ",
+    "es"      : "dónde",
+    "en"      : "where",
+    "fr"      : "où",
+    "de"      : "wo",
+    "it"      : "dove",
+    "pt"      : "onde",
+    "kr"      : {
+      "korean" : "어디",
+      "trans"  : "eodi"
+    },
+    "ru"      : {
+      "russian" : "где",
+      "trans"   : "gde"
+    },
+    "ch"      : {
+      "simplified" : "哪里",
+      "traditional": "那裡",
+      "pinyin"     : "nǎlǐ"
+    }
+  },
+
+  "こちら": {
+    "variants": ["此方"],
+    "romaji"  : "kochira",
+    "onyomi"  : "コチラ",
+    "kunyomi" : "こちら",
+    "es"      : "aquí, acá (formal)",
+    "en"      : "this way, this person (formal)",
+    "fr"      : "ici, cette personne (formel)",
+    "de"      : "hier, diese Person (formell)",
+    "it"      : "qui, questa persona (formale)",
+    "pt"      : "aqui, esta pessoa (formal)",
+    "kr"      : {
+      "korean" : "이쪽, 이분 (정중한 표현)",
+      "trans"  : "ijjok, ibun (jeongjunghan pyohyeon)"
+    },
+    "ru"      : {
+      "russian" : "здесь, этот человек (вежливое)",
+      "trans"   : "zdes', etot chelovek (vezhlivoe)"
+    },
+    "ch"      : {
+      "simplified" : "这边, 这位 (正式)",
+      "traditional": "這邊, 這位 (正式)",
+      "pinyin"     : "zhè biān, zhè wèi (zhèngshì)"
+    }
+  },
+
+  "そちら": {
+    "variants": ["其方"],
+    "romaji"  : "sochira",
+    "onyomi"  : "ソチラ",
+    "kunyomi" : "そちら",
+    "es"      : "ahí, esa persona (formal)",
+    "en"      : "that way, that person (formal)",
+    "fr"      : "là, cette personne (formel)",
+    "de"      : "da, diese Person (formell)",
+    "it"      : "lì, quella persona (formale)",
+    "pt"      : "ali, essa pessoa (formal)",
+    "kr"      : {
+      "korean" : "그쪽, 그분 (정중한 표현)",
+      "trans"  : "geujjok, geubun (jeongjunghan pyohyeon)"
+    },
+    "ru"      : {
+      "russian" : "там, тот человек (вежливое)",
+      "trans"   : "tam, tot chelovek (vezhlivoe)"
+    },
+    "ch"      : {
+      "simplified" : "那边, 那位 (正式)",
+      "traditional": "那邊, 那位 (正式)",
+      "pinyin"     : "nà biān, nà wèi (zhèngshì)"
+    }
+  },
+
+  "あちら": {
+    "variants": ["彼方"],
+    "romaji"  : "achira",
+    "onyomi"  : "アチラ",
+    "kunyomi" : "あちら",
+    "es"      : "allí, allá (formal)",
+    "en"      : "that way, that person (formal, away from both of us)",
+    "fr"      : "là-bas, cette personne (formel)",
+    "de"      : "dort, diese Person (formell)",
+    "it"      : "là, laggiù, quella persona (formale)",
+    "pt"      : "ali, lá, essa pessoa (formal)",
+    "kr"      : {
+      "korean" : "저쪽, 저분 (정중한 표현)",
+      "trans"  : "jeojjok, jeobun (jeongjunghan pyohyeon)"
+    },
+    "ru"      : {
+      "russian" : "там, тот человек (вежливое)",
+      "trans"   : "tam, tot chelovek (vezhlivoe)"
+    },
+    "ch"      : {
+      "simplified" : "那边, 那位 (正式)",
+      "traditional": "那邊, 那位 (正式)",
+      "pinyin"     : "nà biān, nà wèi (zhèngshì)"
+    }
+  },
+
+  "どちら": {
+    "variants": ["何方"],
+    "romaji"  : "dochira",
+    "onyomi"  : "ドチラ",
+    "kunyomi" : "どちら",
+    "es"      : "dónde, qué persona (formal)",
+    "en"      : "where, which person (formal)",
+    "fr"      : "où, quelle personne (formel)",
+    "de"      : "wo, welche Person (formell)",
+    "it"      : "dove, quale persona (formale)",
+    "pt"      : "onde, qual pessoa (formal)",
+    "kr"      : {
+      "korean" : "어디, 어느 분 (정중한 표현)",
+      "trans"  : "eodi, eoneun bun (jeongjunghan pyohyeon)"
+    },
+    "ru"      : {
+      "russian" : "где, какой человек (вежливое)",
+      "trans"   : "gde, kakoy chelovek (vezhlivoe)"
+    },
+    "ch"      : {
+      "simplified" : "哪里, 哪位 (正式)",
+      "traditional": "哪裡, 哪位 (正式)",
+      "pinyin"     : "nǎlǐ, nǎ wèi (zhèngshì)"
+    }
+  },
+
+  "教室": {
+    "variants": [""],
+    "romaji"  : "kyōshitsu",
+    "onyomi"  : "キョウシツ",
+    "kunyomi" : "きょうしつ",
+    "es"      : "aula",
+    "en"      : "classroom",
+    "fr"      : "salle de classe",
+    "de"      : "Klassenzimmer",
+    "it"      : "aula",
+    "pt"      : "sala de aula",
+    "kr"      : {
+      "korean" : "교실",
+      "trans"  : "gyosil"
+    },
+    "ru"      : {
+      "russian" : "классная комната",
+      "trans"   : "klassnaya komnata"
+    },
+    "ch"      : {
+      "simplified" : "教室",
+      "traditional": "教室",
+      "pinyin"     : "jiàoshì"
+    }
+  },
+
+  "食堂": {
+    "variants": [""],
+    "romaji"  : "shokudō",
+    "onyomi"  : "ショクドウ",
+    "kunyomi" : "しょくどう",
+    "es"      : "comedor",
+    "en"      : "cafeteria",
+    "fr"      : "cantine",
+    "de"      : "Mensa",
+    "it"      : "mensa",
+    "pt"      : "cantina",
+    "kr"      : {
+      "korean" : "식당",
+      "trans"  : "sikdang"
+    },
+    "ru"      : {
+      "russian" : "столовая",
+      "trans"   : "stolovaya"
+    },
+    "ch"      : {
+      "simplified" : "食堂",
+      "traditional": "食堂",
+      "pinyin"     : "shítáng"
+    }
+  },
+  
+  "事務所": {
+    "variants": [""],
+    "romaji"  : "jimusho",
+    "onyomi"  : "ジムショ",
+    "kunyomi" : "じむしょ",
+    "es"      : "oficina",
+    "en"      : "office",
+    "fr"      : "bureau",
+    "de"      : "Büro",
+    "it"      : "ufficio",
+    "pt"      : "escritório",
+    "kr"      : {
+      "korean" : "사무소",
+      "trans"  : "samuso"
+    },
+    "ru"      : {
+      "russian" : "офис",
+      "trans"   : "ofis"
+    },
+    "ch"      : {
+      "simplified" : "事务所",
+      "traditional": "事務所",
+      "pinyin"     : "shìwùsuǒ"
+    }
+  },
+
+  "会議室": {
+    "variants": [""],
+    "romaji"  : "kaigishitsu",
+    "onyomi"  : "カイギシツ",
+    "kunyomi" : "かいぎしつ",
+    "es"      : "sala de reuniones",
+    "en"      : "meeting room",
+    "fr"      : "salle de réunion",
+    "de"      : "Besprechungszimmer",
+    "it"      : "sala riunioni",
+    "pt"      : "sala de reuniões",
+    "kr"      : {
+      "korean" : "회의실",
+      "trans"  : "hoeuisil"
+    },
+    "ru"      : {
+      "russian" : "зал заседаний",
+      "trans"   : "zal zasedaniy"
+    },
+    "ch"      : {
+      "simplified" : "会议室",
+      "traditional": "會議室",
+      "pinyin"     : "huìyìshì"
+    }
+  },
+
+  "受付": {
+    "variants": [""],
+    "romaji"  : "uketsuke",
+    "onyomi"  : "ウケツケ",
+    "kunyomi" : "うけつけ",
+    "es"      : "recepción",
+    "en"      : "reception",
+    "fr"      : "réception",
+    "de"      : "Empfang",
+    "it"      : "reception",
+    "pt"      : "recepção",
+    "kr"      : {
+      "korean" : "접수처",
+      "trans"  : "jeopsucheo"
+    },
+    "ru"      : {
+      "russian" : "ресепшн",
+      "trans"   : "resepshn"
+    },
+    "ch"      : {
+      "simplified" : "接待处",
+      "traditional": "接待處",
+      "pinyin"     : "jiēdàichù"
+    }
+  },
+
+  "ロビー": {
+    "variants": [""],
+    "romaji"  : "robī",
+    "onyomi"  : "ロビー",
+    "kunyomi" : "ろびー",
+    "es"      : "vestíbulo",
+    "en"      : "lobby",
+    "fr"      : "hall",
+    "de"      : "Lobby",
+    "it"      : "atrio",
+    "pt"      : "saguão",
+    "kr"      : {
+      "korean" : "로비",
+      "trans"  : "robi"
+    },
+    "ru"      : {
+      "russian" : "вестибюль",
+      "trans"   : "vestibul'"
+    },
+    "ch"      : {
+      "simplified" : "大堂",
+      "traditional": "大堂",
+      "pinyin"     : "dàtáng"
+    }
+  },
+
+  "部屋": {
+    "variants": [""],
+    "romaji"  : "heya",
+    "onyomi"  : "ヘヤ",
+    "kunyomi" : "へや",
+    "es"      : "habitación",
+    "en"      : "room",
+    "fr"      : "chambre",
+    "de"      : "Zimmer",
+    "it"      : "stanza",
+    "pt"      : "quarto",
+    "kr"      : {
+      "korean" : "방",
+      "trans"  : "bang"
+    },
+    "ru"      : {
+      "russian" : "комната",
+      "trans"   : "komnata"
+    },
+    "ch"      : {
+      "simplified" : "房间",
+      "traditional": "房間",
+      "pinyin"     : "fángjiān"
+    }
+  },
+
+  "トイレ": {
+    "variants": ["お手洗い", "便所"],
+    "romaji"  : "toire",
+    "onyomi"  : "トイレ",
+    "kunyomi" : "といれ",
+    "es"      : "baño, aseo",
+    "en"      : "toilet, restroom",
+    "fr"      : "toilettes",
+    "de"      : "Toilette",
+    "it"      : "bagno",
+    "pt"      : "banheiro",
+    "kr"      : {
+      "korean" : "화장실",
+      "trans"  : "hwajangsil"
+    },
+    "ru"      : {
+      "russian" : "туалет",
+      "trans"   : "tualet"
+    },
+    "ch"      : {
+      "simplified" : "厕所",
+      "traditional": "廁所",
+      "pinyin"     : "cèsuǒ"
+    }
+  },
+
+  "階段": {
+    "variants": [""],
+    "romaji"  : "kaidan",
+    "onyomi"  : "カイダン",
+    "kunyomi" : "かいだん",
+    "es"      : "escaleras",
+    "en"      : "stairs",
+    "fr"      : "escaliers",
+    "de"      : "Treppe",
+    "it"      : "scale",
+    "pt"      : "escadas",
+    "kr"      : {
+      "korean" : "계단",
+      "trans"  : "gyedan"
+    },
+    "ru"      : {
+      "russian" : "лестница",
+      "trans"   : "lestnitsa"
+    },
+    "ch"      : {
+      "simplified" : "楼梯",
+      "traditional": "樓梯",
+      "pinyin"     : "lóutī"
+    }
+  },
+
+  "エレベーター": {
+    "variants": [""],
+    "romaji"  : "erebētā",
+    "onyomi"  : "エレベーター",
+    "kunyomi" : "えれべーたー",
+    "es"      : "ascensor",
+    "en"      : "elevator",
+    "fr"      : "ascenseur",
+    "de"      : "Aufzug",
+    "it"      : "ascensore",
+    "pt"      : "elevador",
+    "kr"      : {
+      "korean" : "엘리베이터",
+      "trans"  : "ellibeiteo"
+    },
+    "ru"      : {
+      "russian" : "лифт",
+      "trans"   : "lift"
+    },
+    "ch"      : {
+      "simplified" : "电梯",
+      "traditional": "電梯",
+      "pinyin"     : "diàntī"
+    }
+  },
+
+  "エスカレーター": {
+    "variants": [""],
+    "romaji"  : "esukarētā",
+    "onyomi"  : "エスカレーター",
+    "kunyomi" : "えすかれーたー",
+    "es"      : "escalera mecánica",
+    "en"      : "escalator",
+    "fr"      : "escalier mécanique",
+    "de"      : "Rolltreppe",
+    "it"      : "scala mobile",
+    "pt"      : "escada rolante",
+    "kr"      : {
+      "korean" : "에스컬레이터",
+      "trans"  : "eseukeolleiteo"
+    },
+    "ru"      : {
+      "russian" : "эскалатор",
+      "trans"   : "eskalator"
+    },
+    "ch"      : {
+      "simplified" : "自动扶梯",
+      "traditional": "自動扶梯",
+      "pinyin"     : "zìdòng fútī"
+    }
+  },
+
+  "自動販売機": {
+    "variants": ["自販機"],
+    "romaji"  : "jidōhanbaiki",
+    "onyomi"  : "ジドウハンバイキ",
+    "kunyomi" : "じどうはんばいき",
+    "es"      : "máquina expendedora",
+    "en"      : "vending machine",
+    "fr"      : "distributeur automatique",
+    "de"      : "Verkaufsautomat",
+    "it"      : "distributore automatico",
+    "pt"      : "máquina de vendas automática",
+    "kr"      : {
+      "korean" : "자동 판매기",
+      "trans"  : "jadong panmaegi"
+    },
+    "ru"      : {
+      "russian" : "торговый автомат",
+      "trans"   : "torgovyy avtomat"
+    },
+    "ch"      : {
+      "simplified" : "自动售货机",
+      "traditional": "自動售貨機",
+      "pinyin"     : "zìdòng shòuhuòjī"
+    }
+  },
+
+  "電話": {
+    "variants": [""],
+    "romaji"  : "denwa",
+    "onyomi"  : "デンワ",
+    "kunyomi" : "でんわ",
+    "es"      : "teléfono",
+    "en"      : "telephone",
+    "fr"      : "téléphone",
+    "de"      : "Telefon",
+    "it"      : "telefono",
+    "pt"      : "telefone",
+    "kr"      : {
+      "korean" : "전화",
+      "trans"  : "jeonhwa"
+    },
+    "ru"      : {
+      "russian" : "телефон",
+      "trans"   : "telefon"
+    },
+    "ch"      : {
+      "simplified" : "电话",
+      "traditional": "電話",
+      "pinyin"     : "diànhuà"
+    }
+  },
+
+  "国": {
+    "variants": ["お国, 國"],
+    "romaji"  : "kuni",
+    "onyomi"  : "クニ",
+    "kunyomi" : "くに",
+    "es"      : "país",
+    "en"      : "country",
+    "fr"      : "pays",
+    "de"      : "Land",
+    "it"      : "paese",
+    "pt"      : "país",
+    "kr"      : {
+      "korean" : "나라",
+      "trans"  : "nara"
+    },
+    "ru"      : {
+      "russian" : "страна",
+      "trans"   : "strana"
+    },
+    "ch"      : {
+      "simplified" : "国家",
+      "traditional": "國家",
+      "pinyin"     : "guójiā"
+    }
+  },
+
+  "会社": {
+    "variants": [""],
+    "romaji"  : "kaisha",
+    "onyomi"  : "カイシャ",
+    "kunyomi" : "かいしゃ",
+    "es"      : "empresa",
+    "en"      : "company",
+    "fr"      : "entreprise",
+    "de"      : "Firma",
+    "it"      : "azienda",
+    "pt"      : "empresa",
+    "kr"      : {
+      "korean" : "회사",
+      "trans"  : "hoesa"
+    },
+    "ru"      : {
+      "russian" : "компания",
+      "trans"   : "kompaniya"
+    },
+    "ch"      : {
+      "simplified" : "公司",
+      "traditional": "公司",
+      "pinyin"     : "gōngsī"
+    }
+  },
+
+  "家": {
+    "variants": ["お家, うち"],
+    "romaji"  : "ie",
+    "onyomi"  : "イエ",
+    "kunyomi" : "いえ",
+    "es"      : "casa",
+    "en"      : "house, home",
+    "fr"      : "maison, foyer",
+    "de"      : "Haus, Zuhause",
+    "it"      : "casa, focolare",
+    "pt"      : "casa, lar",
+    "kr"      : {
+      "korean" : "집",
+      "trans"  : "jip"
+    },
+    "ru"      : {
+      "russian" : "дом, семья",
+      "trans"   : "dom, sem'ya"
+    },
+    "ch"      : {
+      "simplified" : "家",
+      "traditional": "家",
+      "pinyin"     : "jiā"
+    }
+  },
+
+  "靴": {
+    "variants": ["お靴, くつ"],
+    "romaji"  : "kutsu",
+    "onyomi"  : "クツ",
+    "kunyomi" : "くつ",
+    "es"      : "zapatos",
+    "en"      : "shoes",
+    "fr"      : "chaussures",
+    "de"      : "Schuhe",
+    "it"      : "scarpe",
+    "pt"      : "sapatos",
+    "kr"      : {
+      "korean" : "신발",
+      "trans"  : "sinbal"
+    },
+    "ru"      : {
+      "russian" : "обувь",
+      "trans"   : "obuv'"
+    },
+    "ch"      : {
+      "simplified" : "鞋",
+      "traditional": "鞋",
+      "pinyin"     : "xié"
+    }
+  },
+
+  "ネクタイ": {
+    "variants": [""],
+    "romaji"  : "nekutai",
+    "onyomi"  : "ネクタイ",
+    "kunyomi" : "ねくたい",
+    "es"      : "corbata",
+    "en"      : "tie",
+    "fr"      : "cravate",
+    "de"      : "Krawatte",
+    "it"      : "cravatta",
+    "pt"      : "gravata",
+    "kr"      : {
+      "korean" : "넥타이",
+      "trans"  : "nektai"
+    },
+    "ru"      : {
+      "russian" : "галстук",
+      "trans"   : "galstuk"
+    },
+    "ch"      : {
+      "simplified" : "领带",
+      "traditional": "領帶",
+      "pinyin"     : "lǐngdài"
+    }
+  },
+
+  "ワイン": {
+    "variants": [""],
+    "romaji"  : "wain",
+    "onyomi"  : "ワイン",
+    "kunyomi" : "わいん",
+    "es"      : "vino",
+    "en"      : "wine",
+    "fr"      : "vin",
+    "de"      : "Wein",
+    "it"      : "vino",
+    "pt"      : "vinho",
+    "kr"      : {
+      "korean" : "와인",
+      "trans"  : "wain"
+    },
+    "ru"      : {
+      "russian" : "вино",
+      "trans"   : "vino"
+    },
+    "ch"      : {
+      "simplified" : "葡萄酒",
+      "traditional": "葡萄酒",
+      "pinyin"     : "pútáojiǔ"
+    }
+  },
+
+  "売り場": {
+    "variants": ["売場"],
+    "romaji"  : "uriba",
+    "onyomi"  : "ウリバ",
+    "kunyomi" : "うりば",
+    "es"      : "sección de ventas",
+    "en"      : "sales floor, department",
+    "fr"      : "rayon de vente, département",
+    "de"      : "Verkaufsfläche, Abteilung",
+    "it"      : "reparto vendite, dipartimento",
+    "pt"      : "piso de vendas, departamento",
+    "kr"      : {
+      "korean" : "매장",
+      "trans"  : "maejang"
+    },
+    "ru"      : {
+      "russian" : "торговый зал, отдел",
+      "trans"   : "torgovyy zal, otdel"
+    },
+    "ch"      : {
+      "simplified" : "销售区, 部门",
+      "traditional": "銷售區, 部門",
+      "pinyin"     : "xiāoshòu qū, bùmén"
+    }
+  },
+
+  "地下":{
+    "variants": [""],
+    "romaji"  : "chika",
+    "onyomi"  : "チカ",
+    "kunyomi" : "ちか",
+    "es"      : "subsuelo",
+    "en"      : "basement",
+    "fr"      : "sous-sol",
+    "de"      : "Untergeschoss",
+    "it"      : "seminterrato",
+    "pt"      : "subsolo",
+    "kr"      : {
+      "korean" : "지하",
+      "trans"  : "jiha"
+    },
+    "ru"      : {
+      "russian" : "подвал",
+      "trans"   : "podval"
+    },
+    "ch"      : {
+      "simplified" : "地下",
+      "traditional": "地下",
+      "pinyin"     : "dìxià"
+    }
+  },
+
+  "階":{
+    "variants": [""],
+    "romaji"  : "kai",
+    "onyomi"  : "カイ",
+    "kunyomi" : "かい",
+    "es"      : "piso, planta",
+    "en"      : "floor, story",
+    "fr"      : "étage",
+    "de"      : "Stockwerk",
+    "it"      : "piano",
+    "pt"      : "andar, piso",
+    "kr"      : {
+      "korean" : "층",
+      "trans"  : "cheung"
+    },
+    "ru"      : {
+      "russian" : "этаж",
+      "trans"   : "etazh"
+    },
+    "ch"      : {
+      "simplified" : "层",
+      "traditional": "層",
+      "pinyin"     : "céng"
+    }
+  },
+
+  "円":{
+    "variants": [""],
+    "romaji"  : "en",
+    "onyomi"  : "エン",
+    "kunyomi" : "えん",
+    "es"      : "redondo, yen (moneda japonesa)",
+    "en"      : "circle, yen (Japanese currency)",
+    "fr"      : "cercle, yen (monnaie japonaise)",
+    "de"      : "Kreis, Yen (japanische Währung)",
+    "it"      : "cerchio, yen (valuta giapponese)",
+    "pt"      : "círculo, iene (moeda japonesa)",
+    "kr"      : {
+      "korean" : "원 (동그라미, 일본 화폐)",
+      "trans"  : "won"
+    },
+    "ru"      : {
+      "russian" : "круг, йена (японская валюта)",
+      "trans"   : "krug, yena"
+    },
+    "ch"      : {
+      "simplified" : "圆 (圆形, 日元)",
+      "traditional": "圓 (圓形, 日元)",
+      "pinyin"     : "yuán"
+    }
+  },
+
+  "いくら":{
+    "variants": [""],
+    "romaji"  : "ikura",
+    "onyomi"  : "イクラ",
+    "kunyomi" : "いくら",
+    "es"      : "cuánto (dinero)",
+    "en"      : "how much (money)",
+    "fr"      : "combien (argent)",
+    "de"      : "wie viel (Geld)",
+    "it"      : "quanto (denaro)",
+    "pt"      : "quanto (dinheiro)",
+    "kr"      : {
+      "korean" : "얼마 (돈)",
+      "trans"  : "eolma"
+    },
+    "ru"      : {
+      "russian" : "сколько (деньги)",
+      "trans"   : "skol'ko (dengi)"
+    },
+    "ch"      : {
+      "simplified" : "多少钱 (钱)",
+      "traditional": "多少錢 (錢)",
+      "pinyin"     : "duōshǎo qián"
+    }
+  },
+
+  "見": {
+    "variants": [""],
+    "romaji"  : "mi",
+    "onyomi"  : "ケン",
+    "kunyomi" : "み",
+    "es"      : "ver",
+    "en"      : "see, look, view",
+    "fr"      : "voir, regarder",
+    "de"      : "sehen, schauen",
+    "it"      : "vedere, guardare",
+    "pt"      : "ver, olhar",
+    "kr"      : {
+      "korean" : "보다",
+      "trans"  : "boda"
+    },
+    "ru"      : {
+      "russian" : "видеть, смотреть",
+      "trans"   : "videt', smotret'"
+    },
+    "ch"      : {
+      "simplified" : "看, 视",
+      "traditional": "看, 視",
+      "pinyin"     : "kàn, shì"
+    }
+  },
+
+  "千": {
+    "variants": [""],
+    "romaji"  : "sen",
+    "onyomi"  : "セン",
+    "kunyomi" : "せん",
+    "es"      : "mil",
+    "en"      : "thousand",
+    "fr"      : "mille",
+    "de"      : "tausend",
+    "it"      : "mille",
+    "pt"      : "mil",
+    "kr"      : {
+      "korean" : "천",
+      "trans"  : "cheon"
+    },
+    "ru"      : {
+      "russian" : "тысяча",
+      "trans"   : "tysyacha"
+    },
+    "ch"      : {
+      "simplified" : "千",
+      "traditional": "千",
+      "pinyin"     : "qiān"
+    }
+  },
+
+  "万": {
+    "variants": [""],
+    "romaji"  : "man",
+    "onyomi"  : "マン",
+    "kunyomi" : "まん",
+    "es"      : "diez mil",
+    "en"      : "ten thousand",
+    "fr"      : "dix mille",
+    "de"      : "zehntausend",
+    "it"      : "diecimila",
+    "pt"      : "dez mil",
+    "kr"      : {
+      "korean" : "만",
+      "trans"  : "man"
+    },
+    "ru"      : {
+      "russian" : "десять тысяч",
+      "trans"   : "desyat' tysyach"
+    },
+    "ch"      : {
+      "simplified" : "万",
+      "traditional": "萬",
+      "pinyin"     : "wàn"
+    }
+  },
+
+  "すみません":{
+    "variants": ["済みません, 済みませぬ, 済みまぜん, 済みましぇん"],
+    "romaji"  : "sumimasen",
+    "onyomi"  : "スミマセン",
+    "kunyomi" : "すみません",
+    "es"      : "disculpe, lo siento",
+    "en"      : "excuse me, I'm sorry",
+    "fr"      : "excusez-moi, je suis désolé",
+    "de"      : "entschuldigen Sie, es tut mir leid",
+    "it"      : "mi scusi, mi dispiace",
+    "pt"      : "com licença, desculpe",
+    "kr"      : {
+      "korean" : "죄송합니다, 실례합니다",
+      "trans"  : "joesonghamnida, silryehamnida"
+    },
+    "ru"      : {
+      "russian" : "извините, прошу прощения",
+      "trans"   : "izvinite, proshu proshcheniya"
+    },
+    "ch"      : {
+      "simplified" : "对不起, 劳驾",
+      "traditional": "對不起, 勞駕",
+      "pinyin"     : "duìbùqǐ, láojià"
+    }
+  },
+
+  "どうも" : {
+    "variants": [""],
+    "romaji"  : "dōmo",
+    "onyomi"  : "ドウモ",
+    "kunyomi" : "どうも",
+    "es"      : "gracias (informal), muy (con adjetivos)",
+    "en"      : "thanks (informal), very (with adjectives)",
+    "fr"      : "merci (informel), très (avec des adjectifs)",
+    "de"      : "danke (informell), sehr (mit Adjektiven)",
+    "it"      : "grazie (informale), molto (con aggettivi)",
+    "pt"      : "obrigado (informal), muito (com adjetivos)",
+    "kr"      : {
+      "korean" : "고마워요 (비격식), 매우 (형용사와 함께)",
+      "trans"  : "gomawoyo (bigyeoksik), maeu (hyeongyongsawa hamkke)"
+    },
+    "ru"      : {
+      "russian" : "спасибо (неформально), очень (с прилагательными)",
+      "trans"   : "spasibo (neformal'no), ochen' (s prilagatel'nymi)"
+    },
+    "ch"      : {
+      "simplified" : "谢谢 (非正式), 很 (与形容词一起)",
+      "traditional": "謝謝 (非正式), 很 (與形容詞一起)",
+      "pinyin"     : "xièxiè (fēi zhèngshì), hěn (yǔ xíngróngcí yīqǐ)"
+    }
+  },
+
+  "いらっしゃいませ": {
+    "variants": [""],
+    "romaji"  : "irasshaimase",
+    "onyomi"  : "イラッシャイマセ",
+    "kunyomi" : "いらっしゃいませ",
+    "es"      : "bienvenido (a una tienda, restaurante, etc.)",
+    "en"      : "welcome (to a store, restaurant, etc.)",
+    "fr"      : "bienvenue (dans un magasin, restaurant, etc.)",
+    "de"      : "willkommen (in einem Geschäft, Restaurant, etc.)",
+    "it"      : "benvenuto (in un negozio, ristorante, ecc.)",
+    "pt"      : "bem-vindo (a uma loja, restaurante, etc.)",
+    "kr"      : {
+      "korean" : "환영합니다 (가게, 식당 등에서)",
+      "trans"  : "hwanyeonghamnida (gage, sikdang deungeseo)"
+    },
+    "ru"      : {
+      "russian" : "добро пожаловать (в магазин, ресторан и т.д.)",
+      "trans"   : "dobro pozhalovat' (v magazin, restoran i t.d.)"
+    },
+    "ch"      : {
+      "simplified" : "欢迎光临 (在商店, 餐厅等)",
+      "traditional": "歡迎光臨 (在商店, 餐廳等)",
+      "pinyin"     : "huānyíng guānglín (zài shāngdiàn, cāntīng děng)"
+    }
+  },
+
+  "見せてください": {
+    "variants": [""],
+    "romaji"  : "misete kudasai",
+    "onyomi"  : "ミセテクダサイ",
+    "kunyomi" : "みせてください",
+    "es"      : "muéstreme, por favor",
+    "en"      : "show me, please",
+    "fr"      : "montrez-moi, s'il vous plaît",
+    "de"      : "zeigen Sie mir, bitte",
+    "it"      : "mostrami, per favore",
+    "pt"      : "mostre-me, por favor",
+    "kr"      : {
+      "korean" : "보여주세요",
+      "trans"  : "boyeojuseyo"
+    },
+    "ru"      : {
+      "russian" : "покажите мне, пожалуйста",
+      "trans"   : "pokazhete mne, pozhaluysta"
+    },
+    "ch"      : {
+      "simplified" : "请给我看",
+      "traditional": "請給我看",
+      "pinyin"     : "qǐng gěi wǒ kàn"
+    }
+  }
+}

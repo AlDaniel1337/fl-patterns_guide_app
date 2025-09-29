@@ -1,0 +1,963 @@
+{
+  "これ": {
+    "variants": ["此れ"],
+    "romaji"  : "kore",
+    "onyomi"  : "コレ",
+    "kunyomi" : "これ",
+    "es"      : "esto, esta",
+    "en"      : "this (thing here)",
+    "fr"      : "ceci, cette",
+    "de"      : "dies, diese",
+    "it"      : "questo, questa",
+    "pt"      : "isto, esta",
+    "kr"      : {
+      "korean" : "이것",
+      "trans"  : "igeot"
+    },
+    "ru"      : {
+      "russian" : "это",
+      "trans"   : "eto"
+    },
+    "ch"      : {
+      "simplified" : "这个",
+      "traditional": "這個",
+      "pinyin"     : "zhège"
+    }
+  },
+
+  "それ": {
+    "variants": ["其れ"],
+    "romaji"  : "sore",
+    "onyomi"  : "ソレ",
+    "kunyomi" : "それ",
+    "es"      : "eso, esa",
+    "en"      : "that (thing near you)",
+    "fr"      : "cela, cette",
+    "de"      : "das, diese",
+    "it"      : "quello, quella",
+    "pt"      : "isso, essa",
+    "kr"      : {
+      "korean" : "그것",
+      "trans"  : "geugeos"
+    },
+    "ru"      : {
+      "russian" : "то",
+      "trans"   : "to"
+    },
+    "ch"      : {
+      "simplified" : "那个",
+      "traditional": "那個",
+      "pinyin"     : "nàge"
+    }
+  },
+
+  "あれ": {
+    "variants": ["彼れ"],
+    "romaji"  : "are",
+    "onyomi"  : "アレ",
+    "kunyomi" : "あれ",
+    "es"      : "aquello, aquella",
+    "en"      : "that (thing over there)",
+    "fr"      : "cela, celle-là",
+    "de"      : "jenes, jene",
+    "it"      : "quello, quella",
+    "pt"      : "aquilo, aquela",
+    "kr"      : {
+      "korean" : "저것",
+      "trans"  : "jeogeos"
+    },
+    "ru"      : {
+      "russian" : "вот то",
+      "trans"   : "vot to"
+    },
+    "ch"      : {
+      "simplified" : "那个",
+      "traditional": "那個",
+      "pinyin"     : "nàge"
+    }
+  },
+  
+  "この": {
+    "variants": ["此の"],
+    "romaji"  : "kono",
+    "onyomi"  : "コノ",
+    "kunyomi" : "この",
+    "es"      : "este, esta",
+    "en"      : "this (thing here)",
+    "fr"      : "ce, cette",
+    "de"      : "dieser, diese",
+    "it"      : "questo, questa",
+    "pt"      : "este, esta",
+    "kr"      : {
+      "korean" : "이",
+      "trans"  : "i"
+    },
+    "ru"      : {
+      "russian" : "этот, эта",
+      "trans"   : "etot, eta"
+    },
+    "ch"      : {
+      "simplified" : "这个",
+      "traditional": "這個",
+      "pinyin"     : "zhège"
+    }
+  },
+
+  "その": {
+    "variants": ["其の"],
+    "romaji"  : "sono",
+    "onyomi"  : "ソノ",
+    "kunyomi" : "その",
+    "es"      : "ese, esa",
+    "en"      : "that (thing near you)",
+    "fr"      : "ce, cette",
+    "de"      : "jener, jene",
+    "it"      : "quello, quella",
+    "pt"      : "esse, essa",
+    "kr"      : {
+      "korean" : "그것",
+      "trans"  : "geugeos"
+    },
+    "ru"      : {
+      "russian" : "то",
+      "trans"   : "to"
+    },
+    "ch"      : {
+      "simplified" : "那个",
+      "traditional": "那個",
+      "pinyin"     : "nàge"
+    }
+  },
+
+  "あの": {
+    "variants": ["彼の"],
+    "romaji"  : "ano",
+    "onyomi"  : "アノ",
+    "kunyomi" : "あの",
+    "es"      : "aquel, aquella",
+    "en"      : "that (thing over there)",
+    "fr"      : "ce, celle-là",
+    "de"      : "jener, jene",
+    "it"      : "quello, quella",
+    "pt"      : "aquele, aquela",
+    "kr"      : {
+      "korean" : "저것",
+      "trans"  : "jeogeos" 
+    },
+    "ru"      : {
+      "russian" : "тот, та",
+      "trans"   : "tot, ta"
+    },
+    "ch"      : {
+      "simplified" : "那个",
+      "traditional": "那個",
+      "pinyin"     : "nàge"
+    }
+  },
+
+  "本": {
+    "variants": [""],
+    "romaji"  : "hon",
+    "onyomi"  : "ホン",
+    "kunyomi" : "もと",
+    "es"      : "libro",
+    "en"      : "book",
+    "fr"      : "livre",
+    "de"      : "Buch",
+    "it"      : "libro",
+    "pt"      : "livro",
+    "kr"      : {
+      "korean" : "책",
+      "trans"  : "chaek"
+    },
+    "ru"      : {
+      "russian" : "книга",
+      "trans"   : "kniga"
+    },
+    "ch"      : {
+      "simplified" : "书",
+      "traditional": "書",
+      "pinyin"     : "shū"
+    }
+  },
+
+  "辞書":{
+    "variants": [""],
+    "romaji"  : "jisho",
+    "onyomi"  : "ジショ",
+    "kunyomi" : "じしょ",
+    "es"      : "diccionario",
+    "en"      : "dictionary",
+    "fr"      : "dictionnaire",
+    "de"      : "Wörterbuch",
+    "it"      : "dizionario",
+    "pt"      : "dicionário",
+    "kr"      : {
+      "korean" : "사전",
+      "trans"  : "sajeon"
+    },
+    "ru"      : {
+      "russian" : "словарь",
+      "trans"   : "slovar'"
+    },
+    "ch"      : {
+      "simplified" : "词典",
+      "traditional": "辭典",
+      "pinyin"     : "cídiǎn"
+    }
+  },
+
+  "雑誌": {
+    "variants": [""],
+    "romaji"  : "zasshi",
+    "onyomi"  : "ザッシ",
+    "kunyomi" : "ざっし",
+    "es"      : "revista",
+    "en"      : "magazine",
+    "fr"      : "magazine",
+    "de"      : "Zeitschrift",
+    "it"      : "rivista",
+    "pt"      : "revista",
+    "kr"      : {
+      "korean" : "잡지",
+      "trans"  : "japji"
+    },
+    "ru"      : {
+      "russian" : "журнал",
+      "trans"   : "zhurnal"
+    },
+    "ch"      : {
+      "simplified" : "杂志",
+      "traditional": "雜誌",
+      "pinyin"     : "zázhì"
+    }
+  },
+
+  "新聞": {
+    "variants": [""],
+    "romaji"  : "shinbun",
+    "onyomi"  : "シンブン",
+    "kunyomi" : "しんぶん",
+    "es"      : "periódico",
+    "en"      : "newspaper",
+    "fr"      : "journal",
+    "de"      : "Zeitung",
+    "it"      : "giornale",
+    "pt"      : "jornal",
+    "kr"      : {
+      "korean" : "신문",
+      "trans"  : "sinmun"
+    },
+    "ru"      : {
+      "russian" : "газета",
+      "trans"   : "gazeta"
+    },
+    "ch"      : {
+      "simplified" : "报纸",
+      "traditional": "報紙",
+      "pinyin"     : "bàozhǐ"
+    }
+  },
+
+  "ノート": {
+    "variants": [""],
+    "romaji"  : "nōto",
+    "onyomi"  : "ノート",
+    "kunyomi" : "ノート",
+    "es"      : "cuaderno",
+    "en"      : "notebook",
+    "fr"      : "cahier",
+    "de"      : "Notizbuch",
+    "it"      : "quaderno",
+    "pt"      : "caderno",
+    "kr"      : {
+      "korean" : "노트",
+      "trans"  : "noteu"
+    },
+    "ru"      : {
+      "russian" : "тетрадь",
+      "trans"   : "tetrad'"
+    },
+    "ch"      : {
+      "simplified" : "笔记本",
+      "traditional": "筆記本",
+      "pinyin"     : "bǐjìběn"
+    }
+  },
+
+  "手帳": {
+    "variants": [""],
+    "romaji"  : "techō",
+    "onyomi"  : "テチョウ",
+    "kunyomi" : "てちょう",
+    "es"      : "agenda",
+    "en"      : "planner",
+    "fr"      : "agenda",
+    "de"      : "Planer",
+    "it"      : "agenda",
+    "pt"      : "agenda",
+    "kr"      : {
+      "korean" : "수첩",
+      "trans"  : "sucheop"
+    },
+    "ru"      : {
+      "russian" : "ежедневник",
+      "trans"   : "ezhednevnik"
+    },
+    "ch"      : {
+      "simplified" : "手帐",
+      "traditional": "手帳",
+      "pinyin"     : "shǒuzhàng"
+    }
+  },
+
+  "名刺": {
+    "variants": [""],
+    "romaji"  : "meishi",
+    "onyomi"  : "メイシ",
+    "kunyomi" : "めいし",
+    "es"      : "tarjeta de presentación",
+    "en"      : "business card",
+    "fr"      : "carte de visite",
+    "de"      : "Visitenkarte",
+    "it"      : "biglietto da visita",
+    "pt"      : "cartão de visita",
+    "kr"      : {
+      "korean" : "명함",
+      "trans"  : "myeongham"
+    },
+    "ru"      : {
+      "russian" : "визитка",
+      "trans"   : "vizitka"
+    },
+    "ch"      : {
+      "simplified" : "名片",
+      "traditional": "名片",
+      "pinyin"     : "míngpiàn"
+    }
+  },
+
+  "カード": {
+    "variants": [""],
+    "romaji"  : "kādo",
+    "onyomi"  : "カード",
+    "kunyomi" : "カード",
+    "es"      : "tarjeta",
+    "en"      : "card",
+    "fr"      : "carte",
+    "de"      : "Karte",
+    "it"      : "carta",
+    "pt"      : "cartão",
+    "kr"      : {
+      "korean" : "카드",
+      "trans"  : "kadeu"
+    },
+    "ru"      : {
+      "russian" : "карта",
+      "trans"   : "karta"
+    },
+    "ch"      : {
+      "simplified" : "卡",
+      "traditional": "卡",
+      "pinyin"     : "kǎ"
+    }
+  },
+
+  "鉛筆": {
+    "variants": [""],
+    "romaji"  : "enpitsu",
+    "onyomi"  : "エンピツ",
+    "kunyomi" : "えんぴつ",
+    "es"      : "lápiz",
+    "en"      : "pencil",
+    "fr"      : "crayon",
+    "de"      : "Bleistift",
+    "it"      : "matita",
+    "pt"      : "lápis",
+    "kr"      : {
+      "korean" : "연필",
+      "trans"  : "yeonpil"
+    },
+    "ru"      : {
+      "russian" : "карандаш",
+      "trans"   : "karandash"
+    },
+    "ch"      : {
+      "simplified" : "铅笔",
+      "traditional": "鉛筆",
+      "pinyin"     : "qiānbǐ"
+    }
+  },
+
+  "ボールペン": {
+    "variants": [""],
+    "romaji"  : "bōrupen",
+    "onyomi"  : "ボールペン",
+    "kunyomi" : "ボールペン",
+    "es"      : "bolígrafo",
+    "en"      : "ballpoint pen",
+    "fr"      : "stylo à bille",
+    "de"      : "Kugelschreiber",
+    "it"      : "penna a sfera",
+    "pt"      : "caneta esferográfica",
+    "kr"      : {
+      "korean" : "볼펜",
+      "trans"  : "bolpen"
+    },
+    "ru"      : {
+      "russian" : "шариковая ручка",
+      "trans"   : "sharikovaya ruchka"
+    },
+    "ch"      : {
+      "simplified" : "圆珠笔",
+      "traditional": "圓珠筆",
+      "pinyin"     : "yuánzhūbǐ"
+    }
+  },
+
+  "シャープペンシル": {
+    "variants": [""],
+    "romaji"  : "shāpu penshiru",
+    "onyomi"  : "シャープペンシル",
+    "kunyomi" : "シャープペンシル",
+    "es"      : "portaminas",
+    "en"      : "mechanical pencil",
+    "fr"      : "porte-mine",
+    "de"      : "Druckbleistift",
+    "it"      : "matita meccanica",
+    "pt"      : "lapiseira",
+    "kr"      : {
+      "korean" : "샤프펜슬",
+      "trans"  : "syapeupenseul"
+    },
+    "ru"      : {
+      "russian" : "механический карандаш",
+      "trans"   : "mekhanicheskiy karandash"
+    },
+    "ch"      : {
+      "simplified" : "自动铅笔",
+      "traditional": "自動鉛筆",
+      "pinyin"     : "zìdòng qiānbǐ"
+    }
+  },
+
+  "鍵": {
+    "variants": [""],
+    "romaji"  : "kagi",
+    "onyomi"  : "カギ",
+    "kunyomi" : "かぎ",
+    "es"      : "llave",
+    "en"      : "key",
+    "fr"      : "clé",
+    "de"      : "Schlüssel",
+    "it"      : "chiave",
+    "pt"      : "chave",
+    "kr"      : {
+      "korean" : "열쇠",
+      "trans"  : "yeolsoe"
+    },
+    "ru"      : {
+      "russian" : "ключ",
+      "trans"   : "klyuch"
+    },
+    "ch"      : {
+      "simplified" : "钥匙",
+      "traditional": "鑰匙",
+      "pinyin"     : "yàoshi"
+    }
+  },
+
+  "時計": {
+    "variants": [""],
+    "romaji"  : "tokei",
+    "onyomi"  : "トケイ",
+    "kunyomi" : "とけい",
+    "es"      : "reloj",
+    "en"      : "watch, clock",
+    "fr"      : "montre, horloge",
+    "de"      : "Uhr",
+    "it"      : "orologio",
+    "pt"      : "relógio",
+    "kr"      : {
+      "korean" : "시계",
+      "trans"  : "sigye"
+    },
+    "ru"      : {
+      "russian" : "часы",
+      "trans"   : "chasy"
+    },
+    "ch"      : {
+      "simplified" : "钟",
+      "traditional": "鐘",
+      "pinyin"     : "zhōng"
+    }
+  },
+
+  "傘": {
+    "variants": [""],
+    "romaji"  : "kasa",
+    "onyomi"  : "カサ",
+    "kunyomi" : "かさ",
+    "es"      : "paraguas",
+    "en"      : "umbrella",
+    "fr"      : "parapluie",
+    "de"      : "Regenschirm",
+    "it"      : "ombrello",
+    "pt"      : "guarda-chuva",
+    "kr"      : {
+      "korean" : "우산",
+      "trans"  : "usan"
+    },
+    "ru"      : {
+      "russian" : "зонт",
+      "trans"   : "zont"
+    },
+    "ch"      : {
+      "simplified" : "伞",
+      "traditional": "傘",
+      "pinyin"     : "sǎn"
+    }
+  },
+
+  "鞄": {
+    "variants": ["かばん"],
+    "romaji"  : "kaban",
+    "onyomi"  : "カバン",
+    "kunyomi" : "かばん",
+    "es"      : "bolsa, bolso, cartera",
+    "en"      : "bag",
+    "fr"      : "sac",
+    "de"      : "Tasche",
+    "it"      : "borsa, borsa, borsa",
+    "pt"      : "saco, bolsa, carteira",
+    "kr"      : {
+      "korean" : "가방",
+      "trans"  : "gabang"
+    },
+    "ru"      : {
+      "russian" : "сумка",
+      "trans"   : "sumka"
+    },
+    "ch"      : {
+      "simplified" : "包",
+      "traditional": "包",
+      "pinyin"     : "bāo"
+    }
+  },
+
+  "テレビ": {
+    "variants": [""],
+    "romaji"  : "terebi",
+    "onyomi"  : "テレビ",
+    "kunyomi" : "テレビ",
+    "es"      : "televisión",
+    "en"      : "television",
+    "fr"      : "télévision",
+    "de"      : "Fernseher",
+    "it"      : "televisione",
+    "pt"      : "televisão",
+    "kr"      : {
+      "korean" : "텔레비전",
+      "trans"  : "telebijeon"
+    },
+    "ru"      : {
+      "russian" : "телевизор",
+      "trans"   : "televizor"
+    },
+    "ch"      : {
+      "simplified" : "电视",
+      "traditional": "電視",
+      "pinyin"     : "diànshì"
+    }
+  },
+
+  "ラジオ": {
+    "variants": [""],
+    "romaji"  : "rajio",
+    "onyomi"  : "ラジオ",
+    "kunyomi" : "ラジオ",
+    "es"      : "radio",
+    "en"      : "radio",
+    "fr"      : "radio",
+    "de"      : "Radio",
+    "it"      : "radio",
+    "pt"      : "rádio",
+    "kr"      : {
+      "korean" : "라디오",
+      "trans"  : "radio"
+    },
+    "ru"      : {
+      "russian" : "радио",
+      "trans"   : "radio"
+    },
+    "ch"      : {
+      "simplified" : "收音机",
+      "traditional": "收音機",
+      "pinyin"     : "shōuyīnjī"
+    }
+  },
+
+  "カメラ": {
+    "variants": [""],
+    "romaji"  : "kamera",
+    "onyomi"  : "カメラ",
+    "kunyomi" : "カメラ",
+    "es"      : "cámara",
+    "en"      : "camera",
+    "fr"      : "appareil photo",
+    "de"      : "Kamera",
+    "it"      : "fotocamera",
+    "pt"      : "câmera",
+    "kr"      : {
+      "korean" : "카메라",
+      "trans"  : "kamera"
+    },
+    "ru"      : {
+      "russian" : "камера",
+      "trans"   : "kamera"
+    },
+    "ch"      : {
+      "simplified" : "相机",
+      "traditional": "相機",
+      "pinyin"     : "xiàngjī"
+    }
+  },
+
+  "車": {
+    "variants": [""],
+    "romaji"  : "kuruma",
+    "onyomi"  : "シャ",
+    "kunyomi" : "くるま",
+    "es"      : "coche, automóvil",
+    "en"      : "car, automobile",
+    "fr"      : "voiture, automobile",
+    "de"      : "Auto, Automobil",
+    "it"      : "auto, automobile",
+    "pt"      : "carro, automóvel",
+    "kr"      : {
+      "korean" : "자동차",
+      "trans"  : "jadongcha"
+    },
+    "ru"      : {
+      "russian" : "машина, автомобиль",
+      "trans"   : "mashina, avtomobil"
+    },
+    "ch"      : {
+      "simplified" : "汽车",
+      "traditional": "汽車",
+      "pinyin"     : "qìchē"
+    }
+  },
+
+  "机": {
+    "variants": [""],
+    "romaji"  : "tsukue",
+    "onyomi"  : "キ",
+    "kunyomi" : "つくえ",
+    "es"      : "escritorio, mesa de estudio",
+    "en"      : "desk, study table",
+    "fr"      : "bureau, table d'étude",
+    "de"      : "Schreibtisch, Studiertisch",
+    "it"      : "scrivania, tavolo da studio",
+    "pt"      : "escritório, mesa de estudo",
+    "kr"      : {
+      "korean" : "책상",
+      "trans"  : "chaeksang"
+    },
+    "ru"      : {
+      "russian" : "письменный стол, учебный стол",
+      "trans"   : "pismennyy stol, uchebnyy stol"
+    },
+    "ch"      : {
+      "simplified" : "书桌",
+      "traditional": "書桌",
+      "pinyin"     : "shūzhuō"
+    }
+  },
+
+  "椅子": {
+    "variants": [""],
+    "romaji"  : "isu",
+    "onyomi"  : "イシ",
+    "kunyomi" : "いす",
+    "es"      : "silla",
+    "en"      : "chair",
+    "fr"      : "chaise",
+    "de"      : "Stuhl",
+    "it"      : "sedia",
+    "pt"      : "cadeira",
+    "kr"      : {
+      "korean" : "의자",
+      "trans"  : "uija"
+    },
+    "ru"      : {
+      "russian" : "стул",
+      "trans"   : "stul"
+    },
+    "ch"      : {
+      "simplified" : "椅子",
+      "traditional": "椅子",
+      "pinyin"     : "yǐzi"
+    }
+  },
+
+  "チョコレート": {
+    "variants": [""],
+    "romaji"  : "chokorēto",
+    "onyomi"  : "チョコレート",
+    "kunyomi" : "チョコレート",
+    "es"      : "chocolate",
+    "en"      : "chocolate",
+    "fr"      : "chocolat",
+    "de"      : "Schokolade",
+    "it"      : "cioccolato",
+    "pt"      : "chocolate",
+    "kr"      : {
+      "korean" : "초콜릿",
+      "trans"  : "chokollit"
+    },
+    "ru"      : {
+      "russian" : "шоколад",
+      "trans"   : "shokolad"
+    },
+    "ch"      : {
+      "simplified" : "巧克力",
+      "traditional": "巧克力",
+      "pinyin"     : "qiǎokèlì"
+    }
+  },
+
+  "コーヒー": {
+    "variants": [""],
+    "romaji"  : "kōhī",
+    "onyomi"  : "コーヒー",
+    "kunyomi" : "コーヒー",
+    "es"      : "café",
+    "en"      : "coffee",
+    "fr"      : "café",
+    "de"      : "Kaffee",
+    "it"      : "caffè",
+    "pt"      : "café",
+    "kr"      : {
+      "korean" : "커피",
+      "trans"  : "keopi"
+    },
+    "ru"      : {
+      "russian" : "кофе",
+      "trans"   : "kofe"
+    },
+    "ch"      : {
+      "simplified" : "咖啡",
+      "traditional": "咖啡",
+      "pinyin"     : "kāfēi"
+    }
+  },
+
+  "お土産": {
+    "variants": ["おみやげ"],
+    "romaji"  : "omiyage",
+    "onyomi"  : "オミヤゲ",
+    "kunyomi" : "おみやげ",
+    "es"      : "recuerdo, souvenir",
+    "en"      : "souvenir, gift",
+    "fr"      : "souvenir, cadeau",
+    "de"      : "Souvenir, Geschenk",
+    "it"      : "souvenir, regalo",
+    "pt"      : "lembrança, presente",
+    "kr"      : {
+      "korean" : "기념품",
+      "trans"  : "ginyeom-pum"
+    },
+    "ru"      : {
+      "russian" : "сувенир, подарок",
+      "trans"   : "suvenir, podarok"
+    },
+    "ch"      : {
+      "simplified" : "纪念品",
+      "traditional": "紀念品",
+      "pinyin"     : "jìniànpǐn"
+    }
+  },
+
+  "語": {
+    "variants": [""],
+    "romaji"  : "go",
+    "onyomi"  : "ゴ",
+    "kunyomi" : "かたる、かたらう",
+    "es"      : "idioma, lengua; hablar, contar",
+    "en"      : "language; to speak, to tell",
+    "fr"      : "langue; parler, raconter",
+    "de"      : "Sprache; sprechen, erzählen",
+    "it"      : "lingua; parlare, raccontare",
+    "pt"      : "língua; falar, contar",
+    "kr"      : {
+      "korean" : "말; 언어; 말하다, 이야기하다",
+      "trans"  : "mal; eoneo; malhada, iyagihada"
+    },
+    "ru"      : {
+      "russian" : "язык; говорить, рассказывать",
+      "trans"   : "yazyk; govorit', rasskazyvat'"
+    },
+    "ch"      : {
+      "simplified" : "语言; 说, 讲",
+      "traditional": "語言; 說, 講",
+      "pinyin"     : "yǔyán; shuō, jiǎng"
+    }
+  },
+
+  "何": {
+    "variants": [""],
+    "romaji"  : "nani, nan",
+    "onyomi"  : "カ",
+    "kunyomi" : "なに、なん",
+    "es"      : "qué",
+    "en"      : "what",
+    "fr"      : "quoi",
+    "de"      : "was",
+    "it"      : "cosa",
+    "pt"      : "o que",
+    "kr"      : {
+      "korean" : "무엇",
+      "trans"  : "mueot"
+    },
+    "ru"      : {
+      "russian" : "что",
+      "trans"   : "chto"
+    },
+    "ch"      : {
+      "simplified" : "什么",
+      "traditional": "什麼",
+      "pinyin"     : "shénme"
+    }
+  },
+
+  "そう": {
+    "variants": [""],
+    "romaji"  : "sō",
+    "onyomi"  : "ソウ",
+    "kunyomi" : "そう",
+    "es"      : "así, de ese modo",
+    "en"      : "so, like that",
+    "fr"      : "ainsi, comme ça",
+    "de"      : "so, so",
+    "it"      : "così, in quel modo",
+    "pt"      : "assim, desse modo",
+    "kr"      : {
+      "korean" : "그렇게",
+      "trans"  : "geureoke"
+    },
+    "ru"      : {
+      "russian" : "так, таким образом",
+      "trans"   : "tak, takim obrazom"
+    },
+    "ch"      : {
+      "simplified" : "这样",
+      "traditional": "這樣",
+      "pinyin"     : "zhèyàng"
+    }
+  },
+
+  "あのう": {
+    "variants": [""],
+    "romaji"  : "anō",
+    "onyomi"  : "アノウ",
+    "kunyomi" : "あのう",
+    "es"      : "eh, este... (para llamar la atención)",
+    "en"      : "um, er... (to get attention)",
+    "fr"      : "euh, hum... (pour attirer l'attention)",
+    "de"      : "äh, ähm... (um Aufmerksamkeit zu erregen)",
+    "it"      : "ehm, cioè... (per attirare l'attenzione)",
+    "pt"      : "hum, er... (para chamar a atenção)",
+    "kr"      : {
+      "korean" : "저기요",
+      "trans"  : "jeogiyo"
+    },
+    "ru"      : {
+      "russian" : "ээ, эм... (чтобы привлечь внимание)",
+      "trans"   : "e, em... (chtoby privlech' vnimanie)"
+    },
+    "ch"      : {
+      "simplified" : "嗯, 这个... (用来引起注意)",
+      "traditional": "嗯, 這個... (用來引起注意)",
+      "pinyin"     : "èn, zhège... (yòng lái yǐnqǐ zhùyì)"
+    }
+  },
+
+  "どうぞ": {
+    "variants": [""],
+    "romaji"  : "dōzo",
+    "onyomi"  : "ドウゾ",
+    "kunyomi" : "どうぞ",
+    "es"      : "aquí tiene, por favor (al ofrecer algo)",
+    "en"      : "here you are, please (when offering something)",
+    "fr"      : "voilà, s'il vous plaît (en offrant quelque chose)",
+    "de"      : "bitte sehr (beim Anbieten von etwas)",
+    "it"      : "ecco, prego (quando si offre qualcosa)",
+    "pt"      : "aqui está, por favor (ao oferecer algo)",
+    "kr"      : {
+      "korean" : "여기 있습니다, 제발 (무언가를 제공할 때)",
+      "trans"  : "yeogi issseubnida, jebal (mueongaleul jegonghal ttae)"
+    },
+    "ru"      : {
+      "russian" : "пожалуйста (при предложении чего-либо)",
+      "trans"   : "pozhaluysta (pri predlozhenii chego-libo)"
+    },
+    "ch"      : {
+      "simplified" : "请 (在提供某物时)",
+      "traditional": "請 (在提供某物時)",
+      "pinyin"     : "qǐng (zài tígōng mǒuwù shí)"
+    }
+  },
+
+  "違います": {
+    "variants": ["ちがいます"],
+    "romaji"  : "chigaimasu",
+    "onyomi"  : "チガイマス",
+    "kunyomi" : "ちがいます",
+    "es"      : "no es así, no es correcto",
+    "en"      : "that's not right, that's incorrect",
+    "fr"      : "ce n'est pas ça, ce n'est pas correct",
+    "de"      : "das ist nicht richtig, das ist falsch",
+    "it"      : "non è così, non è corretto",
+    "pt"      : "isso não está certo, isso está incorreto",
+    "kr"      : {
+      "korean" : "그렇지 않아요, 틀렸어요",
+      "trans"  : "geureohji anayo, teullyeosseoyo"
+    },
+    "ru"      : {
+      "russian" : "это неправильно, это неверно",
+      "trans"   : "eto nepravil'no, eto neverno"
+    },
+    "ch"      : {
+      "simplified" : "这不对, 这是错误的",
+      "traditional": "這不對, 這是錯誤的",
+      "pinyin"     : "zhè bù duì, zhè shì cuòwù de"
+    }
+  },
+
+  "これからお世話になります": {
+    "variants": ["これからおせわになります"],
+    "romaji"  : "kore kara osewa ni narimasu",
+    "onyomi"  : "コレカラオセワニナリマス",
+    "kunyomi" : "これからおせわになります",
+    "es"      : "a partir de ahora, estaré a su cuidado (expresión formal)",
+    "en"      : "from now on, I will be in your care (formal expression)",
+    "fr"      : "à partir de maintenant, je serai sous votre soin (expression formelle)",
+    "de"      : "von jetzt an werde ich in Ihrer Obhut sein (formelle Ausdrucksweise)",
+    "it"      : "da ora in poi, sarò sotto la tua cura (espressione formale)",
+    "pt"      : "de agora em diante, estarei sob seus cuidados (expressão formal)",
+    "kr"      : {
+      "korean" : "앞으로 잘 부탁드립니다 (정중한 표현)",
+      "trans"  : "apeuro jal butakdeurimnida (jeongjunghan pyohyeon)"
+    },
+    "ru"      : {
+      "russian" : "отныне я буду на вашей попечении (формальное выражение)",
+      "trans"   : "otnyne ya budu na vashye popechyeni (formal'noye vyrazheniye)"
+    },
+    "ch"      : {
+      "simplified" : "从现在起, 我将受到您的照顾 (正式表达)",
+      "traditional": "從現在起, 我將受到您的照顧 (正式表達)",
+      "pinyin"     : "cóng xiànzài qǐ, wǒ jiāng shòudào nín de zhàogù (zhèngshì biǎodá)"
+    }
+  }
+}

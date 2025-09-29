@@ -1,0 +1,1169 @@
+{
+  "起きます":{
+    "variants": ["起きる"],
+    "romaji"  : "okimasu",
+    "onyomi"  : "キ",
+    "kunyomi" : "お.きる、お.こる、お.こす、お.こす、お.こす",
+    "es"      : "levantarse, despertarse",
+    "en"      : "to get up, to wake up",
+    "fr"      : "se lever, se réveiller",
+    "de"      : "aufstehen, erwachen",
+    "it"      : "alzarsi, svegliarsi",
+    "pt"      : "levantar-se, acordar",
+    "kr"      : {
+      "korean" : "일어나다, 깨다",
+      "trans"  : "il-eonada, kkaeda"
+    },
+    "ru"      : {
+      "russian" : "вставать, просыпаться",
+      "trans"   : "vstavat', prosypat'sya"
+    },
+    "ch"      : {
+      "simplified" : "起床, 醒来",
+      "traditional": "起床, 醒來",
+      "pinyin"     : "qǐchuáng, xǐnglái"
+    }
+  },
+
+  "寝ます":{
+    "variants": ["寝る"],
+    "romaji"  : "nemasu",
+    "onyomi"  : "シン",
+    "kunyomi" : "ね.る、ね.かす、ね.かせる",
+    "es"      : "dormir, acostarse",
+    "en"      : "to sleep, to go to bed",
+    "fr"      : "dormir, se coucher",
+    "de"      : "schlafen, ins Bett gehen",
+    "it"      : "dormire, andare a letto",
+    "pt"      : "dormir, ir para a cama",
+    "kr"      : {
+      "korean" : "자다, 잠자리에 들다",
+      "trans"  : "jada, jamjari-e deulda"
+    },
+    "ru"      : {
+      "russian" : "спать, ложиться спать",
+      "trans"   : "spat', lozhit'sya spat'"
+    },
+    "ch"      : {
+      "simplified" : "睡觉, 上床",
+      "traditional": "睡覺, 上床",
+      "pinyin"     : "shuìjiào, shàngchuáng"
+    }
+  },
+
+  "働きます":{
+    "variants": ["働く"],
+    "romaji"  : "hatarakimasu",
+    "onyomi"  : "ドウ",
+    "kunyomi" : "はたら.く",
+    "es"      : "trabajar",
+    "en"      : "to work",
+    "fr"      : "travailler",
+    "de"      : "arbeiten",
+    "it"      : "lavorare",
+    "pt"      : "trabalhar",
+    "kr"      : {
+      "korean" : "일하다",
+      "trans"  : "ilhada"
+    },
+    "ru"      : {
+      "russian" : "работать",
+      "trans"   : "rabotat'"
+    },
+    "ch"      : {
+      "simplified" : "工作",
+      "traditional": "工作",
+      "pinyin"     : "gōngzuò"
+    }
+  },
+
+  "休みます":{
+    "variants": ["休む"],
+    "romaji"  : "yasumimasu",
+    "onyomi"  : "キュウ",
+    "kunyomi" : "やす.む、やす.まる、やす.める",
+    "es"      : "descansar, tomar un descanso, estar ausente (del trabajo o la escuela)",
+    "en"      : "to rest, to take a break, to be absent (from work or school)",
+    "fr"      : "se reposer, faire une pause, être absent (du travail ou de l'école)",
+    "de"      : "sich ausruhen, eine Pause machen, abwesend sein (von der Arbeit oder Schule)",
+    "it"      : "riposare, fare una pausa, essere assente (dal lavoro o dalla scuola)",
+    "pt"      : "descansar, fazer uma pausa, estar ausente (do trabalho ou da escola)",
+    "kr"      : {
+      "korean" : "쉬다, 휴식하다, 결석하다 (일이나 학교에서)",
+      "trans"  : "swida, hyusikada, gyeolseonghada"
+    },
+    "ru"      : {
+      "russian" : "отдыхать, делать перерыв, отсутствовать (на работе или в школе)",
+      "trans"   : "otdykhat', delat' pereryv, otsutstvovat' (na rabote ili v shkole)"
+    },
+    "ch"      : {
+      "simplified" : "休息, 休息, 缺席 (工作或学校)",
+      "traditional": "休息, 休息, 缺席 (工作或學校)",
+      "pinyin"     : "xiūxí, xiūxí, quēxí (gōngzuò huò xuéxiào)"
+    }
+  },
+
+  "勉強します":{
+    "variants": ["勉強する"],
+    "romaji"  : "benkyou shimasu",
+    "onyomi"  : "ベン、ビン",
+    "kunyomi" : "つと.める、つと.まる、つと.め",
+    "es"      : "estudiar",
+    "en"      : "to study",
+    "fr"      : "étudier",
+    "de"      : "studieren",
+    "it"      : "studiare",
+    "pt"      : "estudar",
+    "kr"      : {
+      "korean" : "공부하다",
+      "trans"  : "gongbuhada"
+    },
+    "ru"      : {
+      "russian" : "учиться, изучать",
+      "trans"   : "uchit'sya, izuchat'"
+    },
+    "ch"      : {
+      "simplified" : "学习",
+      "traditional": "學習",
+      "pinyin"     : "xuéxí"
+    }
+  },
+
+  "終わります":{
+    "variants": ["終わる"],
+    "romaji"  : "owarimasu",
+    "onyomi"  : "シュウ",
+    "kunyomi" : "お.わる、お.える",
+    "es"      : "terminar, finalizar",
+    "en"      : "to finish, to end",
+    "fr"      : "finir, terminer",
+    "de"      : "beenden, abschließen",
+    "it"      : "finire, terminare",
+    "pt"      : "terminar, finalizar",
+    "kr"      : {
+      "korean" : "끝나다, 마치다",
+      "trans"  : "kkeutnada, machida"
+    },
+    "ru"      : {
+      "russian" : "заканчивать, завершать",
+      "trans"   : "zakanchivat', zavershat'"
+    },
+    "ch"      : {
+      "simplified" : "结束, 完成",
+      "traditional": "結束, 完成",
+      "pinyin"     : "jiéshù, wánchéng"
+    }
+  },
+
+  "デパート": {
+    "variants": [""],
+    "romaji"  : "depaato",
+    "es"      : "gran almacén, tienda por departamentos",
+    "en"      : "department store",
+    "fr"      : "grand magasin, magasin à rayons",
+    "de"      : "Kaufhaus, Warenhaus",
+    "it"      : "grande magazzino, negozio di reparti",
+    "pt"      : "loja de departamentos, loja de departamentos",
+    "kr"      : {
+      "korean" : "백화점",
+      "trans"  : "baekhwajeom"
+    },
+    "ru"      : {
+      "russian" : "универмаг, магазин с отделами",
+      "trans"   : "univermag, magazin s otdelami"
+    },
+    "ch"      : {
+      "simplified" : "百货商店, 百货公司",
+      "traditional": "百貨商店, 百貨公司",
+      "pinyin"     : "bǎihuò shāngdiàn, bǎihuò gōngsī"
+    }
+  },
+
+  "銀行": {
+    "variants": ["銀座"],
+    "romaji"  : "ginkou",
+    "onyomi"  : "ギン、ゴン",
+    "kunyomi" : "かね",
+    "es"      : "banco (institución financiera)",
+    "en"      : "bank (financial institution)",
+    "fr"      : "banque (institution financière)",
+    "de"      : "Bank (Finanzinstitut)",
+    "it"      : "banca (istituzione finanziaria)",
+    "pt"      : "banco (instituição financeira)",
+    "kr"      : {
+      "korean" : "은행 (금융 기관)",
+      "trans"  : "eunhaeng (geumyung gigwan)"
+    },
+    "ru"      : {
+      "russian" : "банк (финансовое учреждение)",
+      "trans"   : "bank (finansovoe uchrezhdenie)"
+    },
+    "ch"      : {
+      "simplified" : "银行 (金融机构)",
+      "traditional": "銀行 (金融機構)",
+      "pinyin"     : "yínháng (jīnróng jīgòu)"
+    }
+  },
+  
+  "郵便局": {
+    "variants": ["郵局"],
+    "romaji"  : "yuubinkyoku",
+    "onyomi"  : "ユウ、ユ",
+    "kunyomi" : "たより、たよ.る",
+    "es"      : "oficina de correos",
+    "en"      : "post office",
+    "fr"      : "bureau de poste",
+    "de"      : "Postamt",
+    "it"      : "ufficio postale",
+    "pt"      : "agência dos correios",
+    "kr"      : {
+      "korean" : "우체국",
+      "trans"  : "ucheguk"
+    },
+    "ru"      : {
+      "russian" : "почтовое отделение",
+      "trans"   : "pochtovoe otdelenie"
+    },
+    "ch"      : {
+      "simplified" : "邮局",
+      "traditional": "郵局",
+      "pinyin"     : "yóujú"
+    }
+  },
+
+  "図書館": {
+    "variants": ["図書室"],
+    "romaji"  : "toshokan",
+    "onyomi"  : "ト、ズ",
+    "kunyomi" : "はか.る、はか.らう",
+    "es"      : "biblioteca",
+    "en"      : "library",
+    "fr"      : "bibliothèque",
+    "de"      : "Bibliothek",
+    "it"      : "biblioteca",
+    "pt"      : "biblioteca",
+    "kr"      : {
+      "korean" : "도서관",
+      "trans"  : "doseogwan"
+    },
+    "ru"      : {
+      "russian" : "библиотека",
+      "trans"   : "biblioteka"
+    },
+    "ch"      : {
+      "simplified" : "图书馆",
+      "traditional": "圖書館",
+      "pinyin"     : "túshūguǎn"
+    }
+  },
+
+  "美術館": {
+    "variants": ["美術室"],
+    "romaji"  : "bijutsukan",
+    "onyomi"  : "ビ、ミ",
+    "kunyomi" : "うつく.しい",
+    "es"      : "museo de arte",
+    "en"      : "art museum",
+    "fr"      : "musée d'art",
+    "de"      : "Kunstmuseum",
+    "it"      : "museo d'arte",
+    "pt"      : "museu de arte",
+    "kr"      : {
+      "korean" : "미술관",
+      "trans"  : "misulgwan"
+    },
+    "ru"      : {
+      "russian" : "художественный музей",
+      "trans"   : "khudozhestvennyy muzey"
+    },
+    "ch"      : {
+      "simplified" : "美术馆",
+      "traditional": "美術館",
+      "pinyin"     : "měishùguǎn"
+    }
+  },
+
+  "今": {
+    "variants": ["今日", "今朝", "今晩"],
+    "romaji"  : "ima",
+    "onyomi"  : "コン、キン",
+    "kunyomi" : "いま",
+    "es"      : "ahora, hoy",
+    "en"      : "now, today",
+    "fr"      : "maintenant, aujourd'hui",
+    "de"      : "jetzt, heute",
+    "it"      : "ora, oggi",
+    "pt"      : "agora, hoje",
+    "kr"      : {
+      "korean" : "지금, 오늘",
+      "trans"  : "jigeum, oneul"
+    },
+    "ru"      : {
+      "russian" : "сейчас, сегодня",
+      "trans"   : "seychas, segodnya"
+    },
+    "ch"      : {
+      "simplified" : "现在, 今天",
+      "traditional": "現在, 今天",
+      "pinyin"     : "xiànzài, jīntiān"
+    }
+  },
+
+  "時": {
+    "variants": [""],
+    "romaji"  : "ji",
+    "onyomi"  : "ジ、シ",
+    "kunyomi" : "とき、-どき",
+    "es"      : "hora (tiempo), las ~ horas",
+    "en"      : "time (hour)",
+    "fr"      : "heure (temps)",
+    "de"      : "Zeit (Stunde)",
+    "it"      : "ora (tempo)",
+    "pt"      : "hora (tempo)",
+    "kr"      : {
+      "korean" : "시간 (시)",
+      "trans"  : "sigani (si)"
+    },
+    "ru"      : {
+      "russian" : "время (час)",
+      "trans"   : "vremya (chas)"
+    },
+    "ch"      : {
+      "simplified" : "时间 (小时)",
+      "traditional": "時間 (小時)",
+      "pinyin"     : "shíjiān (xiǎoshí)"
+    }
+  },
+
+  "分": {
+    "variants": [""],
+    "romaji"  : "fun / pun",
+    "onyomi"  : "ブン、フン、ブ",
+    "kunyomi" : "わ.ける、わ.かる、わ.かつ",
+    "es"      : "minuto, parte, dividir, ~ minutos",
+    "en"      : "minute, part, to divide",
+    "fr"      : "minute, partie, diviser",
+    "de"      : "Minute, Teil, teilen",
+    "it"      : "minuto, parte, dividere",
+    "pt"      : "minuto, parte, dividir",
+    "kr"      : {
+      "korean" : "분 (분), 부분, 나누다",
+      "trans"  : "bun (bun), bubun, nanuda"
+    },
+    "ru"      : {
+      "russian" : "минута, часть, делить",
+      "trans"   : "minuta, chast, delit'"
+    },
+    "ch"      : {
+      "simplified" : "分钟, 部分, 分割",
+      "traditional": "分鐘, 部分, 分割",
+      "pinyin"     : "fēnzhōng, bùfen, fēngē"
+    }
+  },
+
+  "半": {
+    "variants": [""],
+    "romaji"  : "han",
+    "onyomi"  : "ハン",
+    "kunyomi" : "なか.ば",
+    "es"      : "mitad, medio",
+    "en"      : "half, middle",
+    "fr"      : "moitié, milieu",
+    "de"      : "Hälfte, Mitte",
+    "it"      : "metà, mezzo",
+    "pt"      : "metade, meio",
+    "kr"      : {
+      "korean" : "반, 중간",
+      "trans"  : "ban, junggan"
+    },
+    "ru"      : {
+      "russian" : "половина, середина",
+      "trans"   : "polovina, seredina"
+    },
+    "ch"      : {
+      "simplified" : "一半, 中间",
+      "traditional": "一半, 中間",
+      "pinyin"     : "yībàn, zhōngjiān"
+    }
+  },
+
+  "何時": {
+    "variants": [""],
+    "romaji"  : "nanji",
+    "onyomi"  : "カ、ナ、ナン",
+    "kunyomi" : "いず.れ、いつ",
+    "es"      : "qué hora, cuándo",
+    "en"      : "what time, when",
+    "fr"      : "quelle heure, quand",
+    "de"      : "wie spät, wann",
+    "it"      : "che ora, quando",
+    "pt"      : "que horas, quando",
+    "kr"      : {
+      "korean" : "몇 시, 언제",
+      "trans"  : "myeot si, eonje"
+    },
+    "ru"      : {
+      "russian" : "который час, когда",
+      "trans"   : "kotoriy chas, kogda"
+    },
+    "ch"      : {
+      "simplified" : "几点, 什么时候",
+      "traditional": "幾點, 什麼時候",
+      "pinyin"     : "jǐ diǎn, shénme shíhòu"
+    }
+  },
+
+  "何分": {
+    "variants": [""],
+    "romaji"  : "nanpun",
+    "onyomi"  : "カ、ナ、ナン",
+    "kunyomi" : "いず.れ、いつ",
+    "es"      : "qué hora, cuándo",
+    "en"      : "what time, when",
+    "fr"      : "quelle heure, quand",
+    "de"      : "wie spät, wann",
+    "it"      : "che ora, quando",
+    "pt"      : "que horas, quando",
+    "kr"      : {
+      "korean" : "몇 시, 언제",
+      "trans"  : "myeot si, eonje"
+    },
+    "ru"      : {
+      "russian" : "который час, когда",
+      "trans"   : "kotoriy chas, kogda"
+    },
+    "ch"      : {
+      "simplified" : "几点, 什么时候",
+      "traditional": "幾點, 什麼時候",
+      "pinyin"     : "jǐ diǎn, shénme shíhòu"
+    }
+  },
+
+  "朝": {
+    "variants": [""],
+    "romaji"  : "asa",
+    "onyomi"  : "チョウ",
+    "kunyomi" : "あさ",
+    "es"      : "mañana",
+    "en"      : "morning",
+    "fr"      : "matin",
+    "de"      : "Morgen",
+    "it"      : "mattina",
+    "pt"      : "manhã",
+    "kr"      : {
+      "korean" : "아침",
+      "trans"  : "achim"
+    },
+    "ru"      : {
+      "russian" : "утро",
+      "trans"   : "utro"
+    },
+    "ch"      : {
+      "simplified" : "早上",
+      "traditional": "早上",
+      "pinyin"     : "zǎoshang"
+    }
+  },
+
+  "昼":{
+    "variants": ["お昼"],
+    "romaji"  : "hiru",
+    "onyomi"  : "チュウ",
+    "kunyomi" : "ひる",
+    "es"      : "mediodía",
+    "en"      : "noon",
+    "fr"      : "midi",
+    "de"      : "Mittag",
+    "it"      : "mezzogiorno",
+    "pt"      : "meio-dia",
+    "kr"      : {
+      "korean" : "낮",
+      "trans"  : "naj"
+    },
+    "ru"      : {
+      "russian" : "полдень",
+      "trans"   : "polden'"
+    },
+    "ch"      : {
+      "simplified" : "中午",
+      "traditional": "中午",
+      "pinyin"     : "zhōngwǔ"
+    }
+  },
+  
+  "晚":{
+    "variants": [""],
+    "romaji"  : "ban",
+    "onyomi"  : "バン",
+    "kunyomi" : "よる、よ、よ.い",
+    "es"      : "noche, tarde",
+    "en"      : "night, evening",
+    "fr"      : "nuit, soirée",
+    "de"      : "Nacht, Abend",
+    "it"      : "notte, sera",
+    "pt"      : "noite, tarde",
+    "kr"      : {
+      "korean" : "밤, 저녁",
+      "trans"  : "bam, jeonyeok"
+    },
+    "ru"      : {
+      "russian" : "ночь, вечер",
+      "trans"   : "noch', vecher"
+    },
+    "ch"      : {
+      "simplified" : "晚上, 夜晚",
+      "traditional": "晚上, 夜晚",
+      "pinyin"     : "wǎnshàng, yèwǎn"
+    }
+  },
+
+  "夜":{ 
+    "variants": [""],
+    "romaji"  : "yoru",
+    "onyomi"  : "ヤ、ヨ",
+    "kunyomi" : "よる、よ",
+    "es"      : "noche",
+    "en"      : "night",
+    "fr"      : "nuit",
+    "de"      : "Nacht",
+    "it"      : "notte",
+    "pt"      : "noite",
+    "kr"      : {
+      "korean" : "밤",
+      "trans"  : "bam"
+    },
+    "ru"      : {
+      "russian" : "ночь",
+      "trans"   : "noch'"
+    },
+    "ch"      : {
+      "simplified" : "夜晚",
+      "traditional": "夜晚",
+      "pinyin"     : "yèwǎn"
+    }
+  },
+
+  "一昨日": {
+    "variants": [""],
+    "romaji"  : "ototoi",
+    "onyomi"  : "サク、サッ",
+    "kunyomi" : "おととい",
+    "es"      : "anteayer",
+    "en"      : "the day before yesterday",
+    "fr"      : "avant-hier",
+    "de"      : "vorgestern",
+    "it"      : "l'altro ieri",
+    "pt"      : "anteontem",
+    "kr"      : {
+      "korean" : "그저께",
+      "trans"  : "geujeokke"
+    },
+    "ru"      : {
+      "russian" : "позавчера",
+      "trans"   : "pozavchera"
+    },
+    "ch"      : {
+      "simplified" : "前天",
+      "traditional": "前天",
+      "pinyin"     : "qiántiān"
+    }
+  },
+
+  "昨日": {
+    "variants": ["昨日"],
+    "romaji"  : "kinou",
+    "onyomi"  : "サク、サッ",
+    "kunyomi" : "きのう、きょう",
+    "es"      : "ayer",
+    "en"      : "yesterday",
+    "fr"      : "hier",
+    "de"      : "gestern",
+    "it"      : "ieri",
+    "pt"      : "ontem",
+    "kr"      : {
+      "korean" : "어제",
+      "trans"  : "eoje"
+    },
+    "ru"      : {
+      "russian" : "вчера",
+      "trans"   : "vchera"
+    },
+    "ch"      : {
+      "simplified" : "昨天",
+      "traditional": "昨天",
+      "pinyin"     : "zuótiān"
+    }
+  },
+
+  "今日": {
+    "variants": ["今日"],
+    "romaji"  : "kyou",
+    "onyomi"  : "コン、キン",
+    "kunyomi" : "いま",
+    "es"      : "hoy",
+    "en"      : "today",
+    "fr"      : "aujourd'hui",
+    "de"      : "heute",
+    "it"      : "oggi",
+    "pt"      : "hoje",
+    "kr"      : {
+      "korean" : "오늘",
+      "trans"  : "oneul"
+    },
+    "ru"      : {
+      "russian" : "сегодня",
+      "trans"   : "segodnya"
+    },
+    "ch"      : {
+      "simplified" : "今天",
+      "traditional": "今天",
+      "pinyin"     : "jīntiān"
+    }
+  },
+
+  "明日": {
+    "variants": ["明日"],
+    "romaji"  : "ashita",
+    "onyomi"  : "ミョウ、ミン、メイ",
+    "kunyomi" : "あ.した、あ.す、あ.さって",
+    "es"      : "mañana (el día siguiente)",
+    "en"      : "tomorrow (the next day)",
+    "fr"      : "demain (le jour suivant)",
+    "de"      : "morgen (der nächste Tag)",
+    "it"      : "domani (il giorno successivo)",
+    "pt"      : "amanhã (o dia seguinte)",
+    "kr"      : {
+      "korean" : "내일 (다음 날)",
+      "trans"  : "naeil"
+    },
+    "ru"      : {
+      "russian" : "завтра (следующий день)",
+      "trans"   : "zavtra"
+    },
+    "ch"      : {
+      "simplified" : "明天 (第二天)",
+      "traditional": "明天 (第二天)",
+      "pinyin"     : "míngtiān (dì èr tiān)"
+    }
+  },
+
+  "明後日": {
+    "variants": [""],
+    "romaji"  : "asatte",
+    "onyomi"  : "ミョウ、ミン、メイ",
+    "kunyomi" : "あ.した、あ.す、あ.さって",
+    "es"      : "pasado mañana",
+    "en"      : "the day after tomorrow",
+    "fr"      : "après-demain",
+    "de"      : "übermorgen",
+    "it"      : "dopodomani",
+    "pt"      : "depois de amanhã",
+    "kr"      : {
+      "korean" : "모레 (다음 날)",
+      "trans"  : "more"
+    },
+    "ru"      : {
+      "russian" : "послезавтра",
+      "trans"   : "poslezavtra"
+    },
+    "ch"      : {
+      "simplified" : "后天",
+      "traditional": "後天",
+      "pinyin"     : "hòutiān"
+    }
+  },
+
+  "今朝": {
+    "variants": [""],
+    "romaji"  : "kesa",
+    "onyomi"  : "コン、キン",
+    "kunyomi" : "いま",
+    "es"      : "esta mañana",
+    "en"      : "this morning",
+    "fr"      : "ce matin",
+    "de"      : "heute Morgen",
+    "it"      : "questa mattina",
+    "pt"      : "esta manhã",
+    "kr"      : {
+      "korean" : "오늘 아침",
+      "trans"  : "oneul achim"
+    },
+    "ru"      : {
+      "russian" : "сегодня утром",
+      "trans"   : "segodnya utrom"
+    },
+    "ch"      : {
+      "simplified" : "今天早上",
+      "traditional": "今天早上",
+      "pinyin"     : "jīntiān zǎoshang"
+    }
+  },
+
+  "今晚": {
+    "variants": [""],
+    "romaji"  : "konban",
+    "onyomi"  : "コン、キン",
+    "kunyomi" : "いま",
+    "es"      : "esta noche",
+    "en"      : "tonight",
+    "fr"      : "ce soir",
+    "de"      : "heute Abend",
+    "it"      : "questa sera",
+    "pt"      : "esta noite",
+    "kr"      : {
+      "korean" : "오늘 밤",
+      "trans"  : "oneul bam"
+    },
+    "ru"      : {
+      "russian" : "сегодня вечером",
+      "trans"   : "segodnya vecherom"
+    },
+    "ch"      : {
+      "simplified" : "今天晚上",
+      "traditional": "今天晚上",
+      "pinyin"     : "jīntiān wǎnshàng"
+    }
+  },
+
+  "休み": {
+    "variants": ["休日", "休憩"],
+    "romaji"  : "yasumi",
+    "onyomi"  : "キュウ",
+    "kunyomi" : "やす.む、やす.まる、やす.める",
+    "es"      : "descanso, día libre, vacaciones",
+    "en"      : "rest, day off, holiday",
+    "fr"      : "repos, jour de congé, vacances",
+    "de"      : "Ruhe, freier Tag, Urlaub",
+    "it"      : "riposo, giorno libero, vacanza",
+    "pt"      : "descanso, dia de folga, feriado",
+    "kr"      : {
+      "korean" : "휴식, 휴일, 방학",
+      "trans"  : "hyusik, hyuil, banghak"
+    },
+    "ru"      : {
+      "russian" : "отдых, выходной день, отпуск",
+      "trans"   : "otdykh, vykhodnoy den', otpusk"
+    },
+    "ch"      : {
+      "simplified" : "休息, 休息日, 假期",
+      "traditional": "休息, 休息日, 假期",
+      "pinyin"     : "xiūxí, xiūxī rì, jiàqī"
+    }
+  },
+
+  "昼休み": {
+    "variants": [""],
+    "romaji"  : "hiruyasumi",
+    "onyomi"  : "チュウ",
+    "kunyomi" : "ひるやす.み",
+    "es"      : "descanso para el almuerzo",
+    "en"      : "lunch break",
+    "fr"      : "pause déjeuner",
+    "de"      : "Mittagspause",
+    "it"      : "pausa pranzo",
+    "pt"      : "pausa para o almoço",
+    "kr"      : {
+      "korean" : "점심 휴식",
+      "trans"  : "jeomsim hyusik"
+    },
+    "ru"      : {
+      "russian" : "обеденный перерыв",
+      "trans"   : "obedennyy pereryv"
+    },
+    "ch"      : {
+      "simplified" : "午休",
+      "traditional": "午休",
+      "pinyin"     : "wǔxiū"
+    }
+  },
+
+  "試験": {
+    "variants": ["テスト"],
+    "romaji": "shiken",
+    "onyomi": "シ、ケン",
+    "kunyomi": "ため.す、こころ.みる",
+    "es": "examen, prueba",
+    "en": "exam, test",
+    "fr": "examen, test",
+    "de": "Prüfung, Test",
+    "it": "esame, test",
+    "pt": "exame, teste",
+    "kr": {
+      "korean": "시험",
+      "trans": "siheom"
+    },
+    "ru": {
+      "russian": "экзамен, тест",
+      "trans": "ekzamen, test"
+    },
+    "ch": {
+      "simplified": "考试, 测试",
+      "traditional": "考試, 測試",
+      "pinyin": "kǎoshì, cèshì"
+    }
+  },
+
+  "会議": {
+    "variants": ["ミーティング"],
+    "romaji": "kaigi",
+    "onyomi": "カイ、ギ",
+    "kunyomi": "",
+    "es": "reunión, conferencia",
+    "en": "meeting, conference",
+    "fr": "réunion, conférence",
+    "de": "Besprechung, Konferenz",
+    "it": "riunione, conferenza",
+    "pt": "reunião, conferência",
+    "kr": {
+      "korean": "회의",
+      "trans": "hoeui"
+    },
+    "ru": {
+      "russian": "совещание, конференция",
+      "trans": "soveshchanie, konferentsiya"
+    },
+    "ch": {
+      "simplified": "会议",
+      "traditional": "會議",
+      "pinyin": "huìyì"
+    }
+  },
+
+  "映画": {
+    "variants": ["ムービー"],
+    "romaji": "eiga",
+    "onyomi": "エイ、ガ",
+    "kunyomi": "",
+    "es": "película, cine",
+    "en": "movie, film",
+    "fr": "film, cinéma",
+    "de": "Film, Kino",
+    "it": "film, cinema",
+    "pt": "filme, cinema",
+    "kr": {
+      "korean": "영화",
+      "trans": "yeonghwa"
+    },
+    "ru": {
+      "russian": "фильм, кино",
+      "trans": "film, kino"
+    },
+    "ch": {
+      "simplified": "电影",
+      "traditional": "電影",
+      "pinyin": "diànyǐng"
+    }
+  },
+
+  "毎朝": {
+    "variants": [""],
+    "romaji": "maiasa",
+    "onyomi": "マイ、チョウ",
+    "kunyomi": "まいあさ",
+    "es": "cada mañana, todas las mañanas",
+    "en": "every morning",
+    "fr": "chaque matin",
+    "de": "jeden Morgen",
+    "it": "ogni mattina",
+    "pt": "todas as manhãs",
+    "kr": {
+      "korean": "매일 아침",
+      "trans": "maeil achim"
+    },
+    "ru": {
+      "russian": "каждое утро",
+      "trans": "kazhdoe utro"
+    },
+    "ch": {
+      "simplified": "每天早上",
+      "traditional": "每天早上",
+      "pinyin": "měitiān zǎoshang"
+    }
+  },
+
+  "毎晩": {
+    "variants": [""],
+    "romaji": "maiban",
+    "onyomi": "マイ、バン",
+    "kunyomi": "まいばん",
+    "es": "cada noche, todas las noches",
+    "en": "every night",
+    "fr": "chaque soir",
+    "de": "jeden Abend",
+    "it": "ogni sera",
+    "pt": "todas as noites",
+    "kr": {
+      "korean": "매일 밤",
+      "trans": "maeil bam"
+    },
+    "ru": {
+      "russian": "каждую ночь",
+      "trans": "kazhduyu noch'"
+    },
+    "ch": {
+      "simplified": "每天晚上",
+      "traditional": "每天晚上",
+      "pinyin": "měitiān wǎnshàng"
+    }
+  },
+
+  "毎日": {
+    "variants": [""],
+    "romaji": "mainichi",
+    "onyomi": "マイ、ニチ",
+    "kunyomi": "まいにち",
+    "es": "cada día, todos los días",
+    "en": "every day",
+    "fr": "chaque jour",
+    "de": "jeden Tag",
+    "it": "ogni giorno",
+    "pt": "todos os dias",
+    "kr": {
+      "korean": "매일",
+      "trans": "maeil"
+    },
+    "ru": {
+      "russian": "каждый день",
+      "trans": "kazhdyy den'"
+    },
+    "ch": {
+      "simplified": "每天",
+      "traditional": "每天",
+      "pinyin": "měitiān"
+    }
+  },
+
+  "月曜日": {
+    "variants": [""],
+    "romaji": "getsuyoubi",
+    "onyomi": "ゲツ、ガツ、ヨウ",
+    "kunyomi": "つき",
+    "es": "lunes",
+    "en": "Monday",
+    "fr": "lundi",
+    "de": "Montag",
+    "it": "lunedì",
+    "pt": "segunda-feira",
+    "kr": {
+      "korean": "월요일",
+      "trans": "woryoil"
+    },
+    "ru": {
+      "russian": "понедельник",
+      "trans": "ponedel'nik"
+    },
+    "ch": {
+      "simplified": "星期一",
+      "traditional": "星期一",
+      "pinyin": "xīngqī yī"
+    }
+  },
+
+  "火曜日": {
+    "variants": [""],
+    "romaji": "kayoubi",
+    "onyomi": "カ、ヨウ",
+    "kunyomi": "ひ",
+    "es": "martes",
+    "en": "Tuesday",
+    "fr": "mardi",
+    "de": "Dienstag",
+    "it": "martedì",
+    "pt": "terça-feira",
+    "kr": {
+      "korean": "화요일",
+      "trans": "hwayoil"
+    },
+    "ru": {
+      "russian": "вторник",
+      "trans": "vtornik"
+    },
+    "ch": {
+      "simplified": "星期二",
+      "traditional": "星期二",
+      "pinyin": "xīngqī èr"
+    }
+  },
+
+  "水曜日": {
+    "variants": [""],
+    "romaji": "suiyoubi",
+    "onyomi": "スイ、ヨウ",
+    "kunyomi": "みず",
+    "es": "miércoles",
+    "en": "Wednesday",
+    "fr": "mercredi",
+    "de": "Mittwoch",
+    "it": "mercoledì",
+    "pt": "quarta-feira",
+    "kr": {
+      "korean": "수요일",
+      "trans": "suyoil"
+    },
+    "ru": {
+      "russian": "среда",
+      "trans": "sreda"
+    },
+    "ch": {
+      "simplified": "星期三",
+      "traditional": "星期三",
+      "pinyin": "xīngqī sān"
+    }
+  },
+
+  "木曜日": {
+    "variants": [""],
+    "romaji": "mokuyoubi",
+    "onyomi": "モク、ヨウ",
+    "kunyomi": "き",
+    "es": "jueves",
+    "en": "Thursday",
+    "fr": "jeudi",
+    "de": "Donnerstag",
+    "it": "giovedì",
+    "pt": "quinta-feira",
+    "kr": {
+      "korean": "목요일",
+      "trans": "mogyoil"
+    },
+    "ru": {
+      "russian": "четверг",
+      "trans": "chetverg"
+    },
+    "ch": {
+      "simplified": "星期四",
+      "traditional": "星期四",
+      "pinyin": "xīngqī sì"
+    }
+  },
+
+  "金曜日": {
+    "variants": [""],
+    "romaji": "kinyoubi",
+    "onyomi": "キン、ヨウ",
+    "kunyomi": "かね",
+    "es": "viernes",
+    "en": "Friday",
+    "fr": "vendredi",
+    "de": "Freitag",
+    "it": "venerdì",
+    "pt": "sexta-feira",
+    "kr": {
+      "korean": "금요일",
+      "trans": "geumyoil"
+    },
+    "ru": {
+      "russian": "пятница",
+      "trans": "pyatnitsa"
+    },
+    "ch": {
+      "simplified": "星期五",
+      "traditional": "星期五",
+      "pinyin": "xīngqī wǔ"
+    }
+  },
+
+  "土曜日": {
+    "variants": [""],
+    "romaji": "doyoubi",
+    "onyomi": "ド、ヨウ",
+    "kunyomi": "つち",
+    "es": "sábado",
+    "en": "Saturday",
+    "fr": "samedi",
+    "de": "Samstag",
+    "it": "sabato",
+    "pt": "sábado",
+    "kr": {
+      "korean": "토요일",
+      "trans": "toyoil"
+    },
+    "ru": {
+      "russian": "суббота",
+      "trans": "subbota"
+    },
+    "ch": {
+      "simplified": "星期六",
+      "traditional": "星期六",
+      "pinyin": "xīngqī liù"
+    }
+  },
+
+  "日曜日": {
+    "variants": [""],
+    "romaji": "nichiyoubi",
+    "onyomi": "ニチ、ヨウ",
+    "kunyomi": "ひ、か",
+    "es": "domingo",
+    "en": "Sunday",
+    "fr": "dimanche",
+    "de": "Sonntag",
+    "it": "domenica",
+    "pt": "domingo",
+    "kr": {
+      "korean": "일요일",
+      "trans": "iryoil"
+    },
+    "ru": {
+      "russian": "воскресенье",
+      "trans": "voskresen'ye"
+    },
+    "ch": {
+      "simplified": "星期天",
+      "traditional": "星期天",
+      "pinyin": "xīngqī tiān"
+    }
+  },
+
+  "何曜日": {
+    "variants": [""],
+    "romaji": "nanyoubi",
+    "onyomi": "カ、ナン、ヨウ",
+    "kunyomi": "",
+    "es": "qué día de la semana",
+    "en": "what day of the week",
+    "fr": "quel jour de la semaine",
+    "de": "welcher Wochentag",
+    "it": "che giorno della settimana",
+    "pt": "que dia da semana",
+    "kr": {
+      "korean": "무슨 요일",
+      "trans": "museun yoil"
+    },
+    "ru": {
+      "russian": "какой день недели",
+      "trans": "kakoy den' nedeli"
+    },
+    "ch": {
+      "simplified": "星期几",
+      "traditional": "星期幾",
+      "pinyin": "xīngqī jǐ"
+    }
+  },
+  
+  "番号": {
+    "variants": [""],
+    "romaji": "bangou",
+    "onyomi": "バン、ゴウ",
+    "kunyomi": "",
+    "es": "número",
+    "en": "number",
+    "fr": "numéro",
+    "de": "Nummer",
+    "it": "numero",
+    "pt": "número",
+    "kr": {
+      "korean": "번호",
+      "trans": "beonho"
+    },
+    "ru": {
+      "russian": "номер",
+      "trans": "nomer"
+    },
+    "ch": {
+      "simplified": "号码",
+      "traditional": "號碼",
+      "pinyin": "hàomǎ"
+    }
+  }
+}

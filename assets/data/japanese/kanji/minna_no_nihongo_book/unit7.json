@@ -1,0 +1,1170 @@
+{
+  "切ります": {
+    "variants": ["切る"],
+    "romaji": "kirimasu",
+    "onyomi": "セツ, サイ",
+    "kunyomi": "き.る, き.れる",
+    "es": "cortar",
+    "en": "to cut",
+    "fr": "couper",
+    "de": "schneiden",
+    "it": "tagliare",
+    "pt": "cortar",
+    "kr": {
+      "korean": "자르다",
+      "trans": "jareuda"
+    },
+    "ru": {
+      "russian": "резать",
+      "trans": "rezat'"
+    },
+    "ch": {
+      "simplified": "切",
+      "traditional": "切",
+      "pinyin": "qiē"
+    }
+  },
+
+  "送ります": {
+    "variants": ["送る"],
+    "romaji": "okurimasu",
+    "onyomi": "ソウ",
+    "kunyomi": "おく.る",
+    "es": "enviar",
+    "en": "to send",
+    "fr": "envoyer",
+    "de": "senden",
+    "it": "inviare",
+    "pt": "enviar",
+    "kr": {
+      "korean": "보내다",
+      "trans": "bonaeda"
+    },
+    "ru": {
+      "russian": "отправлять",
+      "trans": "otpravlyat'"
+    },
+    "ch": {
+      "simplified": "送",
+      "traditional": "送",
+      "pinyin": "sòng"
+    }
+  },
+
+  "上げます": {
+    "variants": ["上げる"],
+    "romaji": "agemasu",
+    "onyomi": "ジョウ, ショウ",
+    "kunyomi": "あ.げる, あ.がる",
+    "es": "dar, levantar",
+    "en": "to give, to raise",
+    "fr": "donner, lever",
+    "de": "geben, heben",
+    "it": "dare, sollevare",
+    "pt": "dar, levantar",
+    "kr": {
+      "korean": "주다, 올리다",
+      "trans": "juda, ollida"
+    },
+    "ru": {
+      "russian": "давать, поднимать",
+      "trans": "davat', podnimat'"
+    },
+    "ch": {
+      "simplified": "上",
+      "traditional": "上",
+      "pinyin": "shàng"
+    }
+  },
+
+  "もらいます": {
+    "variants": ["もらう"],
+    "romaji": "moraimasu",
+    "onyomi": "",
+    "kunyomi": "もら.う",
+    "es": "recibir",
+    "en": "to receive",
+    "fr": "recevoir",
+    "de": "bekommen",
+    "it": "ricevere",
+    "pt": "receber",
+    "kr": {
+      "korean": "받다",
+      "trans": "batda"
+    },
+    "ru": {
+      "russian": "получать",
+      "trans": "poluchat'"
+    },
+    "ch": {
+      "simplified": "收到",
+      "traditional": "收到",
+      "pinyin": "shōudào"
+    }
+  },
+
+  "貸します": {
+    "variants": ["貸す"],
+    "romaji": "kashimasu",
+    "onyomi": "タイ",
+    "kunyomi": "か.す",
+    "es": "prestar",
+    "en": "to lend",
+    "fr": "prêter",
+    "de": "verleihen",
+    "it": "prestare",
+    "pt": "emprestar",
+    "kr": {
+      "korean": "빌려주다",
+      "trans": "bilryeojuda"
+    },
+    "ru": {
+      "russian": "давать в долг",
+      "trans": "davat' v dolg"
+    },
+    "ch": {
+      "simplified": "借出",
+      "traditional": "借出",
+      "pinyin": "jièchū"
+    }
+  },
+
+  "借ります": {
+    "variants": ["借りる"],
+    "romaji": "karimasu",
+    "onyomi": "シャク",
+    "kunyomi": "か.りる",
+    "es": "tomar prestado",
+    "en": "to borrow",
+    "fr": "emprunter",
+    "de": "ausleihen",
+    "it": "prendere in prestito",
+    "pt": "pegar emprestado",
+    "kr": {
+      "korean": "빌리다",
+      "trans": "billida"
+    },
+    "ru": {
+      "russian": "брать в долг",
+      "trans": "brat' v dolg"
+    },
+    "ch": {
+      "simplified": "借",
+      "traditional": "借",
+      "pinyin": "jiè"
+    }
+  },
+
+  "教えます": {
+    "variants": ["教える"],
+    "romaji": "oshiemasu",
+    "onyomi": "キョウ",
+    "kunyomi": "おし.える, おそ.わる",
+    "es": "enseñar",
+    "en": "to teach",
+    "fr": "enseigner",
+    "de": "lehren",
+    "it": "insegnare",
+    "pt": "ensinar",
+    "kr": {
+      "korean": "가르치다",
+      "trans": "gareuchida"
+    },
+    "ru": {
+      "russian": "учить, преподавать",
+      "trans": "uchit', prepodavat'"
+    },
+    "ch": {
+      "simplified": "教",
+      "traditional": "教",
+      "pinyin": "jiāo"
+    }
+  },
+
+  "習います": {
+    "variants": ["習う"],
+    "romaji": "naraimasu",
+    "onyomi": "シュウ",
+    "kunyomi": "なら.う",
+    "es": "aprender",
+    "en": "to learn",
+    "fr": "apprendre",
+    "de": "lernen",
+    "it": "imparare",
+    "pt": "aprender",
+    "kr": {
+      "korean": "배우다",
+      "trans": "baeuda"
+    },
+    "ru": {
+      "russian": "учиться",
+      "trans": "uchit'sya"
+    },
+    "ch": {
+      "simplified": "学",
+      "traditional": "學",
+      "pinyin": "xué"
+    }
+  },
+  "かけます": {
+    "variants": ["かける"],
+    "romaji": "kakemasu",
+    "onyomi": "",
+    "kunyomi": "か.ける",
+    "es": "llamar (por teléfono), colgar",
+    "en": "to call (by phone), to hang",
+    "fr": "appeler (au téléphone), accrocher",
+    "de": "anrufen, aufhängen",
+    "it": "chiamare (al telefono), appendere",
+    "pt": "ligar (por telefone), pendurar",
+    "kr": {
+      "korean": "전화하다, 걸다",
+      "trans": "jeonhwahada, geolda"
+    },
+    "ru": {
+      "russian": "звонить (по телефону), вешать",
+      "trans": "zvonit' (po telefonu), veshat'"
+    },
+    "ch": {
+      "simplified": "打电话, 挂",
+      "traditional": "打電話, 掛",
+      "pinyin": "dǎ diànhuà, guà"
+    }
+  },
+
+  "手": {
+    "variants": [],
+    "romaji": "te",
+    "onyomi": "シュ",
+    "kunyomi": "て, た",
+    "es": "mano",
+    "en": "hand",
+    "fr": "main",
+    "de": "Hand",
+    "it": "mano",
+    "pt": "mão",
+    "kr": {
+      "korean": "손",
+      "trans": "son"
+    },
+    "ru": {
+      "russian": "рука",
+      "trans": "ruka"
+    },
+    "ch": {
+      "simplified": "手",
+      "traditional": "手",
+      "pinyin": "shǒu"
+    }
+  },
+
+  "橋": {
+    "variants": [],
+    "romaji": "hashi",
+    "onyomi": "キョウ",
+    "kunyomi": "はし",
+    "es": "puente",
+    "en": "bridge",
+    "fr": "pont",
+    "de": "Brücke",
+    "it": "ponte",
+    "pt": "ponte",
+    "kr": {
+      "korean": "다리",
+      "trans": "dari"
+    },
+    "ru": {
+      "russian": "мост",
+      "trans": "most"
+    },
+    "ch": {
+      "simplified": "桥",
+      "traditional": "橋",
+      "pinyin": "qiáo"
+    }
+  },
+
+  "スプーン": {
+    "variants": [],
+    "romaji": "supūn",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "cuchara",
+    "en": "spoon",
+    "fr": "cuillère",
+    "de": "Löffel",
+    "it": "cucchiaio",
+    "pt": "colher",
+    "kr": {
+      "korean": "숟가락",
+      "trans": "sutgarak"
+    },
+    "ru": {
+      "russian": "ложка",
+      "trans": "lozhka"
+    },
+    "ch": {
+      "simplified": "勺子",
+      "traditional": "勺子",
+      "pinyin": "sháozi"
+    }
+  },
+
+  "ナイフ": {
+    "variants": [],
+    "romaji": "naifu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "cuchillo",
+    "en": "knife",
+    "fr": "couteau",
+    "de": "Messer",
+    "it": "coltello",
+    "pt": "faca",
+    "kr": {
+      "korean": "칼",
+      "trans": "kal"
+    },
+    "ru": {
+      "russian": "нож",
+      "trans": "nozh"
+    },
+    "ch": {
+      "simplified": "刀",
+      "traditional": "刀",
+      "pinyin": "dāo"
+    }
+  },
+
+  "フォーク": {
+    "variants": [],
+    "romaji": "fōku",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "tenedor",
+    "en": "fork",
+    "fr": "fourchette",
+    "de": "Gabel",
+    "it": "forchetta",
+    "pt": "garfo",
+    "kr": {
+      "korean": "포크",
+      "trans": "pokeu"
+    },
+    "ru": {
+      "russian": "вилка",
+      "trans": "vilka"
+    },
+    "ch": {
+      "simplified": "叉子",
+      "traditional": "叉子",
+      "pinyin": "chāzi"
+    }
+  },
+
+  "鋏": {
+    "variants": [],
+    "romaji": "hasami",
+    "onyomi": "",
+    "kunyomi": "はさみ",
+    "es": "tijeras",
+    "en": "scissors",
+    "fr": "ciseaux",
+    "de": "Schere",
+    "it": "forbici",
+    "pt": "tesoura",
+    "kr": {
+      "korean": "가위",
+      "trans": "gawi"
+    },
+    "ru": {
+      "russian": "ножницы",
+      "trans": "nozhnitsy"
+    },
+    "ch": {
+      "simplified": "剪刀",
+      "traditional": "剪刀",
+      "pinyin": "jiǎndāo"
+    }
+  },
+
+  "パソコン": {
+    "variants": [],
+    "romaji": "pasokon",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "ordenador, computadora",
+    "en": "computer",
+    "fr": "ordinateur",
+    "de": "Computer",
+    "it": "computer",
+    "pt": "computador",
+    "kr": {
+      "korean": "컴퓨터",
+      "trans": "keompyuteo"
+    },
+    "ru": {
+      "russian": "компьютер",
+      "trans": "kompyuter"
+    },
+    "ch": {
+      "simplified": "电脑",
+      "traditional": "電腦",
+      "pinyin": "diànnǎo"
+    }
+  },
+
+  "ケータイ": {
+    "variants": [],
+    "romaji": "kētai",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "teléfono móvil",
+    "en": "mobile phone",
+    "fr": "téléphone portable",
+    "de": "Handy",
+    "it": "cellulare",
+    "pt": "celular",
+    "kr": {
+      "korean": "휴대폰",
+      "trans": "hyudaepon"
+    },
+    "ru": {
+      "russian": "мобильный телефон",
+      "trans": "mobil'nyy telefon"
+    },
+    "ch": {
+      "simplified": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒujī"
+    }
+  },
+
+  "メール": {
+    "variants": [],
+    "romaji": "mēru",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "correo electrónico",
+    "en": "email",
+    "fr": "courriel",
+    "de": "E-Mail",
+    "it": "email",
+    "pt": "e-mail",
+    "kr": {
+      "korean": "이메일",
+      "trans": "imeil"
+    },
+    "ru": {
+      "russian": "электронная почта",
+      "trans": "elektronnaya pochta"
+    },
+    "ch": {
+      "simplified": "电子邮件",
+      "traditional": "電子郵件",
+      "pinyin": "diànzǐ yóujiàn"
+    }
+  },
+
+  "年賀状": {
+    "variants": [],
+    "romaji": "nengajō",
+    "onyomi": "",
+    "kunyomi": "ねんがじょう",
+    "es": "tarjeta de Año Nuevo",
+    "en": "New Year's card",
+    "fr": "carte de vœux du Nouvel An",
+    "de": "Neujahrskarte",
+    "it": "cartolina di Capodanno",
+    "pt": "cartão de Ano Novo",
+    "kr": {
+      "korean": "연하장",
+      "trans": "yeonhajang"
+    },
+    "ru": {
+      "russian": "новогодняя открытка",
+      "trans": "novogodnyaya otkrytka"
+    },
+    "ch": {
+      "simplified": "贺年卡",
+      "traditional": "賀年卡",
+      "pinyin": "hèniánkǎ"
+    }
+  },
+
+  "パンチ": {
+    "variants": [],
+    "romaji": "panchi",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "perforadora",
+    "en": "hole punch",
+    "fr": "perforatrice",
+    "de": "Locher",
+    "it": "perforatrice",
+    "pt": "perfurador",
+    "kr": {
+      "korean": "펀치",
+      "trans": "peonchi"
+    },
+    "ru": {
+      "russian": "дырокол",
+      "trans": "dyrokol"
+    },
+    "ch": {
+      "simplified": "打孔机",
+      "traditional": "打孔機",
+      "pinyin": "dǎkǒngjī"
+    }
+  },
+
+  "ホッチキス": {
+    "variants": [],
+    "romaji": "hotchikisu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "engrapadora",
+    "en": "stapler",
+    "fr": "agrafeuse",
+    "de": "Heftgerät",
+    "it": "cucitrice",
+    "pt": "grampeador",
+    "kr": {
+      "korean": "호치키스",
+      "trans": "hochikiseu"
+    },
+    "ru": {
+      "russian": "степлер",
+      "trans": "stepler"
+    },
+    "ch": {
+      "simplified": "订书机",
+      "traditional": "訂書機",
+      "pinyin": "dìngshūjī"
+    }
+  },
+
+  "セロテープ": {
+    "variants": [],
+    "romaji": "serotēpu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "cinta adhesiva",
+    "en": "cellophane tape",
+    "fr": "ruban adhésif",
+    "de": "Klebeband",
+    "it": "nastro adesivo",
+    "pt": "fita adesiva",
+    "kr": {
+      "korean": "셀로판테이프",
+      "trans": "sellopanteipeu"
+    },
+    "ru": {
+      "russian": "скотч",
+      "trans": "skotch"
+    },
+    "ch": {
+      "simplified": "胶带",
+      "traditional": "膠帶",
+      "pinyin": "jiāodài"
+    }
+  },
+
+  "消しゴム": {
+    "variants": [],
+    "romaji": "keshigomu",
+    "onyomi": "",
+    "kunyomi": "けしごむ",
+    "es": "goma de borrar",
+    "en": "eraser",
+    "fr": "gomme",
+    "de": "Radiergummi",
+    "it": "gomma",
+    "pt": "borracha",
+    "kr": {
+      "korean": "지우개",
+      "trans": "jiugae"
+    },
+    "ru": {
+      "russian": "ластик",
+      "trans": "lastik"
+    },
+    "ch": {
+      "simplified": "橡皮擦",
+      "traditional": "橡皮擦",
+      "pinyin": "xiàngpícā"
+    }
+  },
+
+  "紙": {
+    "variants": [],
+    "romaji": "kami",
+    "onyomi": "シ",
+    "kunyomi": "かみ",
+    "es": "papel",
+    "en": "paper",
+    "fr": "papier",
+    "de": "Papier",
+    "it": "carta",
+    "pt": "papel",
+    "kr": {
+      "korean": "종이",
+      "trans": "jong-i"
+    },
+    "ru": {
+      "russian": "бумага",
+      "trans": "bumaga"
+    },
+    "ch": {
+      "simplified": "纸",
+      "traditional": "紙",
+      "pinyin": "zhǐ"
+    }
+  },
+
+  "花": {
+    "variants": [],
+    "romaji": "hana",
+    "onyomi": "カ",
+    "kunyomi": "はな",
+    "es": "flor",
+    "en": "flower",
+    "fr": "fleur",
+    "de": "Blume",
+    "it": "fiore",
+    "pt": "flor",
+    "kr": {
+      "korean": "꽃",
+      "trans": "kkot"
+    },
+    "ru": {
+      "russian": "цветок",
+      "trans": "tsvetok"
+    },
+    "ch": {
+      "simplified": "花",
+      "traditional": "花",
+      "pinyin": "huā"
+    }
+  },
+
+  "シャツ": {
+    "variants": [],
+    "romaji": "shatsu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "camisa",
+    "en": "shirt",
+    "fr": "chemise",
+    "de": "Hemd",
+    "it": "camicia",
+    "pt": "camisa",
+    "kr": {
+      "korean": "셔츠",
+      "trans": "syeocheu"
+    },
+    "ru": {
+      "russian": "рубашка",
+      "trans": "rubashka"
+    },
+    "ch": {
+      "simplified": "衬衫",
+      "traditional": "襯衫",
+      "pinyin": "chènshān"
+    }
+  },
+
+  "プレゼント": {
+    "variants": [],
+    "romaji": "purezento",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "regalo",
+    "en": "present, gift",
+    "fr": "cadeau",
+    "de": "Geschenk",
+    "it": "regalo",
+    "pt": "presente",
+    "kr": {
+      "korean": "선물",
+      "trans": "seonmul"
+    },
+    "ru": {
+      "russian": "подарок",
+      "trans": "podarok"
+    },
+    "ch": {
+      "simplified": "礼物",
+      "traditional": "禮物",
+      "pinyin": "lǐwù"
+    }
+  },
+
+  "荷物": {
+    "variants": [],
+    "romaji": "nimotsu",
+    "onyomi": "カ",
+    "kunyomi": "にもつ",
+    "es": "equipaje, paquete",
+    "en": "luggage, baggage, package",
+    "fr": "bagage, colis",
+    "de": "Gepäck, Paket",
+    "it": "bagaglio, pacco",
+    "pt": "bagagem, pacote",
+    "kr": {
+      "korean": "짐, 화물",
+      "trans": "jim, hwamul"
+    },
+    "ru": {
+      "russian": "багаж, груз",
+      "trans": "bagazh, gruz"
+    },
+    "ch": {
+      "simplified": "行李",
+      "traditional": "行李",
+      "pinyin": "xíngli"
+    }
+  },
+
+  "お金": {
+    "variants": ["金"],
+    "romaji": "okane",
+    "onyomi": "キン, コン",
+    "kunyomi": "かね, かな",
+    "es": "dinero",
+    "en": "money",
+    "fr": "argent",
+    "de": "Geld",
+    "it": "denaro",
+    "pt": "dinheiro",
+    "kr": {
+      "korean": "돈",
+      "trans": "don"
+    },
+    "ru": {
+      "russian": "деньги",
+      "trans": "dengi"
+    },
+    "ch": {
+      "simplified": "钱",
+      "traditional": "錢",
+      "pinyin": "qián"
+    }
+  },
+
+  "切符": {
+    "variants": [],
+    "romaji": "kippu",
+    "onyomi": "セツ, フ",
+    "kunyomi": "きっぷ",
+    "es": "billete, ticket",
+    "en": "ticket",
+    "fr": "billet",
+    "de": "Fahrkarte, Ticket",
+    "it": "biglietto",
+    "pt": "bilhete",
+    "kr": {
+      "korean": "표",
+      "trans": "pyo"
+    },
+    "ru": {
+      "russian": "билет",
+      "trans": "bilet"
+    },
+    "ch": {
+      "simplified": "票",
+      "traditional": "票",
+      "pinyin": "piào"
+    }
+  },
+
+  "クリスマス": {
+    "variants": [],
+    "romaji": "kurisumasu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "Navidad",
+    "en": "Christmas",
+    "fr": "Noël",
+    "de": "Weihnachten",
+    "it": "Natale",
+    "pt": "Natal",
+    "kr": {
+      "korean": "크리스마스",
+      "trans": "keuriseumaseu"
+    },
+    "ru": {
+      "russian": "Рождество",
+      "trans": "Rozhdestvo"
+    },
+    "ch": {
+      "simplified": "圣诞节",
+      "traditional": "聖誕節",
+      "pinyin": "Shèngdànjié"
+    }
+  },
+
+  "父": {
+    "variants": [],
+    "romaji": "chichi",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "es": "padre",
+    "en": "father",
+    "fr": "père",
+    "de": "Vater",
+    "it": "padre",
+    "pt": "pai",
+    "kr": {
+      "korean": "아버지",
+      "trans": "abeoji"
+    },
+    "ru": {
+      "russian": "отец",
+      "trans": "otets"
+    },
+    "ch": {
+      "simplified": "父亲",
+      "traditional": "父親",
+      "pinyin": "fùqīn"
+    }
+  },
+
+  "母": {
+    "variants": [],
+    "romaji": "haha",
+    "onyomi": "ボ",
+    "kunyomi": "はは",
+    "es": "madre",
+    "en": "mother",
+    "fr": "mère",
+    "de": "Mutter",
+    "it": "madre",
+    "pt": "mãe",
+    "kr": {
+      "korean": "어머니",
+      "trans": "eomeoni"
+    },
+    "ru": {
+      "russian": "мать",
+      "trans": "mat'"
+    },
+    "ch": {
+      "simplified": "母亲",
+      "traditional": "母親",
+      "pinyin": "mǔqīn"
+    }
+  },
+
+  "お父さん": {
+    "variants": [],
+    "romaji": "otōsan",
+    "onyomi": "",
+    "kunyomi": "おとうさん",
+    "es": "padre (de otro, formal)",
+    "en": "father (someone else's, formal)",
+    "fr": "père (de quelqu'un d'autre, formel)",
+    "de": "Vater (von jemand anderem, formell)",
+    "it": "padre (di qualcun altro, formale)",
+    "pt": "pai (de outra pessoa, formal)",
+    "kr": {
+      "korean": "아버님",
+      "trans": "abeonim"
+    },
+    "ru": {
+      "russian": "отец (чей-то, вежливо)",
+      "trans": "otets (vezhlivo)"
+    },
+    "ch": {
+      "simplified": "父亲（敬语）",
+      "traditional": "父親（敬語）",
+      "pinyin": "fùqīn (jìngyǔ)"
+    }
+  },
+
+  "お母さん": {
+    "variants": [],
+    "romaji": "okāsan",
+    "onyomi": "",
+    "kunyomi": "おかあさん",
+    "es": "madre (de otro, formal)",
+    "en": "mother (someone else's, formal)",
+    "fr": "mère (de quelqu'un d'autre, formel)",
+    "de": "Mutter (von jemand anderem, formell)",
+    "it": "madre (di qualcun altro, formale)",
+    "pt": "mãe (de outra pessoa, formal)",
+    "kr": {
+      "korean": "어머님",
+      "trans": "eomeonim"
+    },
+    "ru": {
+      "russian": "мать (чья-то, вежливо)",
+      "trans": "mat' (vezhlivo)"
+    },
+    "ch": {
+      "simplified": "母亲（敬语）",
+      "traditional": "母親（敬語）",
+      "pinyin": "mǔqīn (jìngyǔ)"
+    }
+  },
+
+  "もう": {
+    "variants": [],
+    "romaji": "mou",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "ya",
+    "en": "already",
+    "fr": "déjà",
+    "de": "schon",
+    "it": "già",
+    "pt": "já",
+    "kr": {
+      "korean": "이미, 벌써",
+      "trans": "imi, beolsseo"
+    },
+    "ru": {
+      "russian": "уже",
+      "trans": "uzhe"
+    },
+    "ch": {
+      "simplified": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐjīng"
+    }
+  },
+
+  "まだ": {
+    "variants": [],
+    "romaji": "mada",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "todavía, aún",
+    "en": "still, not yet",
+    "fr": "encore, pas encore",
+    "de": "noch, noch nicht",
+    "it": "ancora, non ancora",
+    "pt": "ainda, ainda não",
+    "kr": {
+      "korean": "아직",
+      "trans": "ajik"
+    },
+    "ru": {
+      "russian": "ещё, пока не",
+      "trans": "eshchyo, poka ne"
+    },
+    "ch": {
+      "simplified": "还, 还没",
+      "traditional": "還, 還沒",
+      "pinyin": "hái, hái méi"
+    }
+  },
+
+  "これから": {
+    "variants": [],
+    "romaji": "korekara",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "a partir de ahora, desde ahora",
+    "en": "from now on",
+    "fr": "à partir de maintenant",
+    "de": "von jetzt an",
+    "it": "da ora in poi",
+    "pt": "daqui em diante",
+    "kr": {
+      "korean": "이제부터",
+      "trans": "ijebuteo"
+    },
+    "ru": {
+      "russian": "отныне, теперь",
+      "trans": "otnyne, teper'"
+    },
+    "ch": {
+      "simplified": "从现在起",
+      "traditional": "從現在起",
+      "pinyin": "cóng xiànzài qǐ"
+    }
+  },
+
+  "素敵ですね": {
+    "variants": ["素敵だ", "素敵"],
+    "romaji": "suteki desu ne",
+    "onyomi": "",
+    "kunyomi": "すてき",
+    "es": "¡Qué bonito!, ¡Qué maravilloso!",
+    "en": "How nice!, How lovely!",
+    "fr": "Comme c'est joli !",
+    "de": "Wie schön!",
+    "it": "Che bello!",
+    "pt": "Que bonito!",
+    "kr": {
+      "korean": "멋지네요",
+      "trans": "meotjinneyo"
+    },
+    "ru": {
+      "russian": "Как замечательно!",
+      "trans": "Kak zamechatel'no!"
+    },
+    "ch": {
+      "simplified": "真好啊",
+      "traditional": "真好啊",
+      "pinyin": "zhēn hǎo a"
+    }
+  },
+
+  "いらっしゃい": {
+    "variants": ["いらっしゃる"],
+    "romaji": "irasshai",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "¡Bienvenido!",
+    "en": "Welcome!",
+    "fr": "Bienvenue !",
+    "de": "Willkommen!",
+    "it": "Benvenuto!",
+    "pt": "Bem-vindo!",
+    "kr": {
+      "korean": "어서 오세요",
+      "trans": "eoseo oseyo"
+    },
+    "ru": {
+      "russian": "Добро пожаловать!",
+      "trans": "Dobro pozhalovat'!"
+    },
+    "ch": {
+      "simplified": "欢迎",
+      "traditional": "歡迎",
+      "pinyin": "huānyíng"
+    }
+  },
+
+  "どうぞお上がりください": {
+    "variants": [],
+    "romaji": "dōzo oagari kudasai",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "Por favor, pase (a casa)",
+    "en": "Please come in",
+    "fr": "Entrez, je vous en prie",
+    "de": "Bitte treten Sie ein",
+    "it": "Prego, entri",
+    "pt": "Por favor, entre",
+    "kr": {
+      "korean": "들어오세요",
+      "trans": "deureooseyo"
+    },
+    "ru": {
+      "russian": "Пожалуйста, заходите",
+      "trans": "Pozhaluysta, zakhodite"
+    },
+    "ch": {
+      "simplified": "请进",
+      "traditional": "請進",
+      "pinyin": "qǐng jìn"
+    }
+  },
+
+  "失礼します": {
+    "variants": ["失礼する"],
+    "romaji": "shitsurei shimasu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "Con permiso, disculpe",
+    "en": "Excuse me, may I come in?",
+    "fr": "Excusez-moi, puis-je entrer ?",
+    "de": "Entschuldigung, darf ich?",
+    "it": "Permesso, scusi",
+    "pt": "Com licença, desculpe",
+    "kr": {
+      "korean": "실례합니다",
+      "trans": "sillyehamnida"
+    },
+    "ru": {
+      "russian": "Извините за беспокойство",
+      "trans": "Izvinite za bespokoystvo"
+    },
+    "ch": {
+      "simplified": "打扰了",
+      "traditional": "打擾了",
+      "pinyin": "dǎrǎo le"
+    }
+  },
+
+  "いかがですか": {
+    "variants": [],
+    "romaji": "ikaga desu ka",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "¿Le apetece?, ¿Qué le parece?",
+    "en": "How about it?",
+    "fr": "Qu'en pensez-vous ?",
+    "de": "Wie wäre es?",
+    "it": "Le va?, Che ne dice?",
+    "pt": "Que tal?",
+    "kr": {
+      "korean": "어떻습니까?",
+      "trans": "eotteohseubnikka?"
+    },
+    "ru": {
+      "russian": "Как вам?",
+      "trans": "Kak vam?"
+    },
+    "ch": {
+      "simplified": "怎么样？",
+      "traditional": "怎麼樣？",
+      "pinyin": "zěnmeyàng?"
+    }
+  },
+
+  "いただきます": {
+    "variants": [],
+    "romaji": "itadakimasu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "Buen provecho (antes de comer)",
+    "en": "Let's eat (said before eating)",
+    "fr": "Bon appétit (avant de manger)",
+    "de": "Guten Appetit (vor dem Essen)",
+    "it": "Buon appetito (prima di mangiare)",
+    "pt": "Bom apetite (antes de comer)",
+    "kr": {
+      "korean": "잘 먹겠습니다",
+      "trans": "jal meokgetseumnida"
+    },
+    "ru": {
+      "russian": "Приятного аппетита (перед едой)",
+      "trans": "Priyatnogo appetita (pered edoy)"
+    },
+    "ch": {
+      "simplified": "我开动了",
+      "traditional": "我開動了",
+      "pinyin": "wǒ kāidòng le"
+    }
+  },
+
+  "ごちそうさまでした": {
+    "variants": [],
+    "romaji": "gochisōsama deshita",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "Gracias por la comida (después de comer)",
+    "en": "Thank you for the meal (after eating)",
+    "fr": "Merci pour le repas (après avoir mangé)",
+    "de": "Danke für das Essen (nach dem Essen)",
+    "it": "Grazie per il pasto (dopo aver mangiato)",
+    "pt": "Obrigado pela refeição (depois de comer)",
+    "kr": {
+      "korean": "잘 먹었습니다",
+      "trans": "jal meogeotseumnida"
+    },
+    "ru": {
+      "russian": "Спасибо за угощение (после еды)",
+      "trans": "Spasibo za ugoshchenie (posle edy)"
+    },
+    "ch": {
+      "simplified": "我吃饱了，谢谢款待",
+      "traditional": "我吃飽了，謝謝款待",
+      "pinyin": "wǒ chī bǎo le, xièxie kuǎndài"
+    }
+  }
+}

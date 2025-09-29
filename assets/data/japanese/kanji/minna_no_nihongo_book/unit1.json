@@ -1,0 +1,522 @@
+{
+  "私": {
+    "variants": ["わたし", "わたくし"],
+    "romaji"  : "watashi",
+    "onyomi"  : "シ",
+    "kunyomi" : "わたし, わたくし",
+    "es"      : "yo",
+    "en"      : "I, me",
+    "fr"      : "je, moi",
+    "de"      : "ich, mich",
+    "it"      : "io, me",
+    "pt"      : "eu, mim",
+    "kr"      : {
+      "korean" : "나, 저",
+      "trans"  : "na, jeo"
+    },
+    "ru"      : {
+      "russian" : "я, меня",
+      "trans"   : "ya, menya"
+    },
+    "ch"      : {
+      "simplified" : "我",
+      "traditional": "我",
+      "pinyin"     : "wǒ"
+    }
+  },
+
+  "あなた": {
+    "variants": ["あんた", "あんたぁ"],
+    "romaji"  : "anata",
+    "onyomi"  : "",
+    "kunyomi" : "",
+    "es"      : "tú, usted",
+    "en"      : "you",
+    "fr"      : "tu, vous",
+    "de"      : "du, Sie",
+    "it"      : "tu, Lei",
+    "pt"      : "você, senhor(a)",
+    "kr"      : {
+      "korean" : "당신",
+      "trans"  : "dangsin"
+    },
+    "ru"      : {
+      "russian" : "ты, вы",
+      "trans"   : "ty, vy"
+    },
+    "ch"      : {
+      "simplified" : "你",
+      "traditional": "你",
+      "pinyin"     : "nǐ"
+    }
+  },
+
+  "あの人": {
+    "variants": ["あの方 (あのかた) - forma respetuosa"],
+    "romaji"  : "ano hito",
+    "onyomi"  : "",
+    "kunyomi" : "",
+    "es"      : "esa persona, él, ella",
+    "en"      : "that person, he, she",
+    "fr"      : "cette personne, il, elle",
+    "de"      : "diese Person, er, sie",
+    "it"      : "quella persona, lui, lei",
+    "pt"      : "aquela pessoa, ele, ela",
+    "kr"      : {
+      "korean" : "저 사람",
+      "trans"  : "jeo saram"
+    },
+    "ru"      : {
+      "russian" : "тот человек, он, она",
+      "trans"   : "tot chelovek, on, ona"
+    },
+    "ch"      : {
+      "simplified" : "那个人",
+      "traditional": "那個人",
+      "pinyin"     : "nà gè rén"
+    }
+  },
+
+  "先生": {
+    "variants": [],
+    "romaji"  : "sensei",
+    "onyomi"  : "センセイ",
+    "kunyomi" : "せんせい",
+    "es"      : "profesor, maestro",
+    "en"      : "teacher, master",
+    "fr"      : "professeur, maître",
+    "de"      : "Lehrer, Meister",
+    "it"      : "insegnante, maestro",
+    "pt"      : "professor, mestre",
+    "kr"      : {
+      "korean" : "선생님",
+      "trans"  : "seonsaengnim"
+    },
+    "ru"      : {
+      "russian" : "учитель, мастер",
+      "trans"   : "uchitel, master"
+    },
+    "ch"      : {
+      "simplified" : "老师",
+      "traditional": "老師",
+      "pinyin"     : "lǎoshī"
+    }
+  },
+
+  "教師": {
+    "variants": [],
+    "romaji"  : "kyoushi",
+    "onyomi"  : "キョウシ",
+    "kunyomi" : "きょうし",
+    "es"      : "profesor, maestro",
+    "en"      : "teacher, instructor",
+    "fr"      : "professeur, instructeur",
+    "de"      : "Lehrer, Ausbilder",
+    "it"      : "insegnante, istruttore",
+    "pt"      : "professor, instrutor",
+    "kr"      : {
+      "korean" : "교사",
+      "trans"  : "gyosa"
+    },
+    "ru"      : {
+      "russian" : "учитель, инструктор",
+      "trans"   : "uchitel, instruktor"
+    },
+    "ch"      : {
+      "simplified" : "教师",
+      "traditional": "教師",
+      "pinyin"     : "jiàoshī"
+    }
+  },
+
+  "学生": {
+    "variants": [],
+    "romaji"  : "gakusei",
+    "onyomi"  : "ガクセイ",
+    "kunyomi" : "がくせい",
+    "es"      : "estudiante",
+    "en"      : "student",
+    "fr"      : "étudiant",
+    "de"      : "Student, Schüler",
+    "it"      : "studente",
+    "pt"      : "estudante",
+    "kr"      : {
+      "korean" : "학생",
+      "trans"  : "haksaeng"
+    },
+    "ru"      : {
+      "russian" : "студент",
+      "trans"   : "student"
+    },
+    "ch"      : {
+      "simplified" : "学生",
+      "traditional": "學生",
+      "pinyin"     : "xuéshēng"
+    }
+  },
+
+  "会社員": {
+    "variants": [],
+    "romaji"  : "kaishain",
+    "onyomi"  : "カイシャイン",
+    "kunyomi" : "かいしゃいん",
+    "es"      : "empleado de empresa",
+    "en"      : "company employee",
+    "fr"      : "employé d'entreprise",
+    "de"      : "Firmenangestellter",
+    "it"      : "impiegato d'azienda",
+    "pt"      : "funcionário de empresa",
+    "kr"      : {
+      "korean" : "회사원",
+      "trans"  : "hoesa-won"
+    },
+    "ru"      : {
+      "russian" : "служащий компании",
+      "trans"   : "sluzhashchiy kompanii"
+    },
+    "ch"      : {
+      "simplified" : "公司职员",
+      "traditional": "公司職員",
+      "pinyin"     : "gōngsī zhíyuán"
+    }
+  },
+
+  "社員": {
+    "variants": [],
+    "romaji"  : "shain",
+    "onyomi"  : "シャイン",
+    "kunyomi" : "しゃいん",
+    "es"      : "empleado (de una empresa)",
+    "en"      : "employee (of a company)",
+    "fr"      : "employé (d'une entreprise)",
+    "de"      : "Angestellter (einer Firma)",
+    "it"      : "impiegato (di un'azienda)",
+    "pt"      : "funcionário (de uma empresa)",
+    "kr"      : {
+      "korean" : "사원",
+      "trans"  : "sawon"
+    },
+    "ru"      : {
+      "russian" : "служащий (компании)",
+      "trans"   : "sluzhashchiy kompanii"
+    },
+    "ch"      : {
+      "simplified" : "职员",
+      "traditional": "職員",
+      "pinyin"     : "zhíyuán"
+    }
+  },
+
+  "銀行員": {
+    "variants": [],
+    "romaji"  : "ginkouin",
+    "onyomi"  : "ギンコウイン",
+    "kunyomi" : "ぎんこういん",
+    "es"      : "empleado de banco",
+    "en"      : "bank employee",
+    "fr"      : "employé de banque",
+    "de"      : "Bankangestellter",
+    "it"      : "impiegato di banca",
+    "pt"      : "funcionário de banco",
+    "kr"      : {
+      "korean" : "은행원",
+      "trans"  : "eunhaengwon"
+    },
+    "ru"      : {
+      "russian" : "банковский служащий",
+      "trans"   : "bankovskiy sluzhashchiy"
+    }
+  },  "ch"      : {
+    "simplified" : "银行职员",
+    "traditional": "銀行職員",
+    "pinyin"     : "yínháng zhíyuán"
+  },
+
+  "医者": {
+    "variants": [],
+    "romaji"  : "isha",
+    "onyomi"  : "イシャ",
+    "kunyomi" : "いしゃ",
+    "es"      : "médico",
+    "en"      : "doctor, physician",
+    "fr"      : "médecin",
+    "de"      : "Arzt",
+    "it"      : "medico",
+    "pt"      : "médico",
+    "kr"      : {
+      "korean" : "의사",
+      "trans"  : "uisa"
+    },
+    "ru"      : {
+      "russian" : "врач, доктор",
+      "trans"   : "vrach, doktor"
+    },
+    "ch"      : {
+      "simplified" : "医生",
+      "traditional": "醫生",
+      "pinyin"     : "yīshēng"
+    }
+  },
+
+  "研究者": {
+    "variants": [],
+    "romaji"  : "kenkyuusha",
+    "onyomi"  : "ケンキュウシャ",
+    "kunyomi" : "けんきゅうしゃ",
+    "es"      : "investigador, investigador",
+    "en"      : "researcher, investigator",
+    "fr"      : "chercheur, investigateur",
+    "de"      : "Forscher, Ermittler",
+    "it"      : "ricercatore, investigatore",
+    "pt"      : "pesquisador, investigador",
+    "kr"      : {
+      "korean" : "연구자",
+      "trans"  : "yeonguja"
+    },
+    "ru"      : {
+      "russian" : "исследователь, следователь",
+      "trans"   : "issledovatel', sledovatel'"
+    },
+    "ch"      : {
+      "simplified" : "研究者",
+      "traditional": "研究者",
+      "pinyin"     : "yánjiū zhě"
+    }
+  },
+
+  "大学": {
+    "variants": [],
+    "romaji"  : "daigaku",
+    "onyomi"  : "ダイガク",
+    "kunyomi" : "だいがく",
+    "es"      : "universidad",
+    "en"      : "university, college",
+    "fr"      : "université, collège",
+    "de"      : "Universität, Hochschule",
+    "it"      : "università, college",
+    "pt"      : "universidade, faculdade",
+    "kr"      : {
+      "korean" : "대학교",
+      "trans"  : "daehakgyo"
+    },
+    "ru"      : {
+      "russian" : "университет, колледж",
+      "trans"   : "universitet, kolledzh"
+    },
+    "ch"      : {
+      "simplified" : "大学",
+      "traditional": "大學",
+      "pinyin"     : "dàxué"
+    }
+  },
+
+  "病院": {
+    "variants": [],
+    "romaji"  : "byouin",
+    "onyomi"  : "ビョウイン",
+    "kunyomi" : "びょういん",
+    "es"      : "hospital",
+    "en"      : "hospital",
+    "fr"      : "hôpital",
+    "de"      : "Krankenhaus",
+    "it"      : "ospedale",
+    "pt"      : "hospital",
+    "kr"      : {
+      "korean" : "병원",
+      "trans"  : "byeongwon"
+    },
+    "ru"      : {
+      "russian" : "больница",
+      "trans"   : "bol'nitsa"
+    },
+    "ch"      : {
+      "simplified" : "医院",
+      "traditional": "醫院",
+      "pinyin"     : "yīyuàn"
+    }
+  },
+
+  "だれ": {
+    "variants": ["どなた - forma respetuosa"],
+    "romaji"  : "dare",
+    "onyomi"  : "",
+    "kunyomi" : "",
+    "es"      : "quién",
+    "en"      : "who",
+    "fr"      : "qui",
+    "de"      : "wer",
+    "it"      : "chi",
+    "pt"      : "quem",
+    "kr"      : {
+      "korean" : "누구",
+      "trans"  : "nugu"
+    },
+    "ru"      : {
+      "russian" : "кто",
+      "trans"   : "kto"
+    },
+    "ch"      : {
+      "simplified" : "谁",
+      "traditional": "誰",
+      "pinyin"     : "shéi"
+    }
+  },
+
+  "歳": {
+    "variants": ["才 - forma abreviada"],
+    "romaji"  : "sai",
+    "onyomi"  : "サイ",
+    "kunyomi" : "さい",
+    "es"      : "años (edad)",
+    "en"      : "years old (age)",
+    "fr"      : "ans (âge)",
+    "de"      : "Jahre alt (Alter)",
+    "it"      : "anni (età)",
+    "pt"      : "anos (idade)",
+    "kr"      : {
+      "korean" : "살",
+      "trans"  : "sal"
+    },
+    "ru"      : {
+      "russian" : "лет (возраст)",
+      "trans"   : "let (vozrast)"
+    },
+    "ch"      : {
+      "simplified" : "岁",
+      "traditional": "歲",
+      "pinyin"     : "suì"
+    }
+  },
+
+  "何歲": {
+    "variants": ["おいくつ - forma respetuosa"],
+    "romaji"  : "nansai",
+    "onyomi"  : "ナンサイ",
+    "kunyomi" : "なんさい",
+    "es"      : "¿cuántos años (edad)?",
+    "en"      : "how many years old (age)?",
+    "fr"      : "quel âge (âge)?",
+    "de"      : "wie alt (Alter)?",
+    "it"      : "quanti anni (età)?",
+    "pt"      : "quantos anos (idade)?",
+    "kr"      : {
+      "korean" : "몇 살",
+      "trans"  : "myeot sal"
+    },
+    "ru"      : {
+      "russian" : "сколько лет (возраст)?",
+      "trans"   : "skol'ko let (vozrast)?"
+    },
+    "ch"      : {
+      "simplified" : "几岁",
+      "traditional": "幾歲",
+      "pinyin"     : "jǐ suì"
+    }
+  },
+
+  "から来ました": {
+    "variants": [],
+    "romaji"  : "kara kimashita",
+    "onyomi"  : "",
+    "kunyomi" : "",
+    "es"      : "vengo de...",
+    "en"      : "I came from...",
+    "fr"      : "je viens de...",
+    "de"      : "ich komme aus...",
+    "it"      : "vengo da...",
+    "pt"      : "eu vim de...",
+    "kr"      : {
+      "korean" : "...에서 왔어요",
+      "trans"  : "...eseo wasseoyo"
+    },
+    "ru"      : {
+      "russian" : "я приехал из...",
+      "trans"   : "ya priyekhal iz..."
+    },
+    "ch"      : {
+      "simplified" : "我来自...",
+      "traditional": "我來自...",
+      "pinyin"     : "wǒ láizì..."
+    }
+
+  },
+
+  "どうぞよろしくお願いします": {
+    "variants": ["どうぞよろしく - forma abreviada"],
+    "romaji"  : "douzo yoroshiku onegaishimasu",
+    "onyomi"  : "",
+    "kunyomi" : "",
+    "es"      : "mucho gusto (al presentarse)",
+    "en"      : "nice to meet you (when introducing oneself)",
+    "fr"      : "enchanté (lors de la présentation)",
+    "de"      : "freut mich (bei der Vorstellung)",
+    "it"      : "piacere (quando ci si presenta)",
+    "pt"      : "prazer em conhecê-lo (ao se apresentar)",
+    "kr"      : {
+      "korean" : "잘 부탁드립니다",
+      "trans"  : "jal butakdeurimnida"
+    },
+    "ru"      : {
+      "russian" : "приятно познакомиться (при представлении)",
+      "trans"   : "priyatno poznakomit'sya (pri predstavlenii)"
+    },
+    "ch"      : {
+      "simplified" : "请多关照",
+      "traditional": "請多關照",
+      "pinyin"     : "qǐng duō guānzhào"
+    }
+  },
+
+  "失礼ですが": {
+    "variants": [],
+    "romaji"  : "shitsurei desu ga",
+    "onyomi"  : "シツレイ デス ガ",
+    "kunyomi" : "しつれい です が",
+    "es"      : "disculpe, pero...",
+    "en"      : "excuse me, but...",
+    "fr"      : "excusez-moi, mais...",
+    "de"      : "entschuldigen Sie, aber...",
+    "it"      : "mi scusi, ma...",
+    "pt"      : "com licença, mas...",
+    "kr"      : {
+      "korean" : "실례합니다만...",
+      "trans"  : "sillyehamnida man..."
+    },
+    "ru"      : {
+      "russian" : "извините, но...",
+      "trans"   : "izvinite, no..."
+    },
+    "ch"      : {
+      "simplified" : "失礼了，但是...",
+      "traditional": "失禮了，但是...",
+      "pinyin"     : "shīlǐ le, dànshì..."
+    }
+  },
+
+  "お名前は？": {
+    "variants": [],
+    "romaji"  : "o-namae wa?",
+    "onyomi"  : "",
+    "kunyomi" : "",
+    "es"      : "¿cuál es su nombre?",
+    "en"      : "what is your name?",
+    "fr"      : "quel est votre nom?",
+    "de"      : "wie heißen Sie?",
+    "it"      : "come si chiama?",
+    "pt"      : "qual é o seu nome?",
+    "kr"      : {
+      "korean" : "성함이 어떻게 되세요?",
+      "trans"  : "seonghami eotteoke doeseyo?"
+    },
+    "ru"      : {
+      "russian" : "как вас зовут?",
+      "trans"   : "kak vas zovut?"
+    },
+    "ch"      : {
+      "simplified" : "您叫什么名字？",
+      "traditional": "您叫什麼名字？",
+      "pinyin"     : "nín jiào shénme míngzì?"
+    }
+  }
+
+}

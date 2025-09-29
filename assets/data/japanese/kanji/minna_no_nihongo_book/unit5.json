@@ -1,0 +1,1457 @@
+{
+  "行きます": {
+    "variants": ["行く"],
+    "romaji": "ikimasu",
+    "onyomi": "コウ, ギョウ, アン",
+    "kunyomi": "い.く, ゆ.く, おこな.う",
+    "es": "ir",
+    "en": "to go",
+    "fr": "aller",
+    "de": "gehen",
+    "it": "andare",
+    "pt": "ir",
+    "kr": {
+      "korean": "가다",
+      "trans": "gada"
+    },
+    "ru": {
+      "russian": "идти",
+      "trans": "idti"
+    },
+    "ch": {
+      "simplified": "去",
+      "traditional": "去",
+      "pinyin": "qù"
+    }
+  },
+
+  "来ます": {
+    "variants": ["来る"],
+    "romaji": "kimasu",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く.る, きた.る, きた.す",
+    "es": "venir",
+    "en": "to come",
+    "fr": "venir",
+    "de": "kommen",
+    "it": "venire",
+    "pt": "vir",
+    "kr": {
+      "korean": "오다",
+      "trans": "oda"
+    },
+    "ru": {
+      "russian": "приходить",
+      "trans": "prikhodit'"
+    },
+    "ch": {
+      "simplified": "来",
+      "traditional": "來",
+      "pinyin": "lái"
+    }
+  },
+
+  "帰ります": {
+    "variants": ["帰る"],
+    "romaji": "kaerimasu",
+    "onyomi": "キ",
+    "kunyomi": "かえ.る, かえ.す, おく.る",
+    "es": "volver, regresar",
+    "en": "to return, to go home",
+    "fr": "rentrer, retourner",
+    "de": "zurückkehren, nach Hause gehen",
+    "it": "tornare, rientrare",
+    "pt": "voltar, regressar",
+    "kr": {
+      "korean": "돌아가다",
+      "trans": "doragada"
+    },
+    "ru": {
+      "russian": "возвращаться",
+      "trans": "vozvrashchat'sya"
+    },
+    "ch": {
+      "simplified": "回家",
+      "traditional": "回家",
+      "pinyin": "huíjiā"
+    }
+  },
+
+  "学校": {
+    "variants": [],
+    "romaji": "gakkou",
+    "onyomi": "ガッ, コウ",
+    "kunyomi": "まな.ぶ",
+    "es": "escuela",
+    "en": "school",
+    "fr": "école",
+    "de": "Schule",
+    "it": "scuola",
+    "pt": "escola",
+    "kr": {
+      "korean": "학교",
+      "trans": "hakgyo"
+    },
+    "ru": {
+      "russian": "школа",
+      "trans": "shkola"
+    },
+    "ch": {
+      "simplified": "学校",
+      "traditional": "學校",
+      "pinyin": "xuéxiào"
+    }
+  },
+
+  "スーパー": {
+    "variants": [],
+    "romaji": "suupaa",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "supermercado",
+    "en": "supermarket",
+    "fr": "supermarché",
+    "de": "Supermarkt",
+    "it": "supermercato",
+    "pt": "supermercado",
+    "kr": {
+      "korean": "슈퍼마켓",
+      "trans": "syupeomaket"
+    },
+    "ru": {
+      "russian": "супермаркет",
+      "trans": "supermarket"
+    },
+    "ch": {
+      "simplified": "超市",
+      "traditional": "超市",
+      "pinyin": "chāoshì"
+    }
+  },
+
+  "駅": {
+    "variants": [],
+    "romaji": "eki",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "es": "estación",
+    "en": "station",
+    "fr": "gare",
+    "de": "Bahnhof",
+    "it": "stazione",
+    "pt": "estação",
+    "kr": {
+      "korean": "역",
+      "trans": "yeok"
+    },
+    "ru": {
+      "russian": "станция",
+      "trans": "stantsiya"
+    },
+    "ch": {
+      "simplified": "车站",
+      "traditional": "車站",
+      "pinyin": "chēzhàn"
+    }
+  },
+
+  "飛行機": {
+    "variants": [],
+    "romaji": "hikouki",
+    "onyomi": "ヒ, コウ, キ",
+    "kunyomi": "",
+    "es": "avión",
+    "en": "airplane",
+    "fr": "avion",
+    "de": "Flugzeug",
+    "it": "aereo",
+    "pt": "avião",
+    "kr": {
+      "korean": "비행기",
+      "trans": "bihaenggi"
+    },
+    "ru": {
+      "russian": "самолёт",
+      "trans": "samolyot"
+    },
+    "ch": {
+      "simplified": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēijī"
+    }
+  },
+
+  "船": {
+    "variants": [],
+    "romaji": "fune",
+    "onyomi": "セン",
+    "kunyomi": "ふね, ふな-",
+    "es": "barco",
+    "en": "ship, boat",
+    "fr": "bateau",
+    "de": "Schiff, Boot",
+    "it": "nave, barca",
+    "pt": "barco",
+    "kr": {
+      "korean": "배",
+      "trans": "bae"
+    },
+    "ru": {
+      "russian": "корабль, лодка",
+      "trans": "korabl', lodka"
+    },
+    "ch": {
+      "simplified": "船",
+      "traditional": "船",
+      "pinyin": "chuán"
+    }
+  },
+
+  "電車": {
+    "variants": [],
+    "romaji": "densha",
+    "onyomi": "デン, シャ",
+    "kunyomi": "",
+    "es": "tren",
+    "en": "train",
+    "fr": "train",
+    "de": "Zug",
+    "it": "treno",
+    "pt": "trem",
+    "kr": {
+      "korean": "전차",
+      "trans": "jeoncha"
+    },
+    "ru": {
+      "russian": "поезд",
+      "trans": "poezd"
+    },
+    "ch": {
+      "simplified": "电车",
+      "traditional": "電車",
+      "pinyin": "diànchē"
+    }
+  },
+
+  "地下鉄": {
+    "variants": [],
+    "romaji": "chikatetsu",
+    "onyomi": "チ, カ, テツ",
+    "kunyomi": "",
+    "es": "metro, subterráneo",
+    "en": "subway, underground",
+    "fr": "métro",
+    "de": "U-Bahn",
+    "it": "metropolitana",
+    "pt": "metrô",
+    "kr": {
+      "korean": "지하철",
+      "trans": "jihacheol"
+    },
+    "ru": {
+      "russian": "метро",
+      "trans": "metro"
+    },
+    "ch": {
+      "simplified": "地铁",
+      "traditional": "地鐵",
+      "pinyin": "dìtiě"
+    }
+  },
+
+  "新幹線": {
+    "variants": [],
+    "romaji": "shinkansen",
+    "onyomi": "シン, カン, セン",
+    "kunyomi": "",
+    "es": "tren bala",
+    "en": "bullet train",
+    "fr": "train à grande vitesse",
+    "de": "Schnellzug",
+    "it": "treno ad alta velocità",
+    "pt": "trem-bala",
+    "kr": {
+      "korean": "신칸센",
+      "trans": "shinkansen"
+    },
+    "ru": {
+      "russian": "Синкансэн",
+      "trans": "sinkansen"
+    },
+    "ch": {
+      "simplified": "新干线",
+      "traditional": "新幹線",
+      "pinyin": "xīngànxiàn"
+    }
+  },
+
+  "バス": {
+    "variants": [],
+    "romaji": "basu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "autobús",
+    "en": "bus",
+    "fr": "bus",
+    "de": "Bus",
+    "it": "autobus",
+    "pt": "ônibus",
+    "kr": {
+      "korean": "버스",
+      "trans": "beoseu"
+    },
+    "ru": {
+      "russian": "автобус",
+      "trans": "avtobus"
+    },
+    "ch": {
+      "simplified": "公共汽车",
+      "traditional": "公共汽車",
+      "pinyin": "gōnggòngqìchē"
+    }
+  },
+
+  "タクシー": {
+    "variants": [],
+    "romaji": "takushii",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "taxi",
+    "en": "taxi",
+    "fr": "taxi",
+    "de": "Taxi",
+    "it": "taxi",
+    "pt": "táxi",
+    "kr": {
+      "korean": "택시",
+      "trans": "taegsi"
+    },
+    "ru": {
+      "russian": "такси",
+      "trans": "taksi"
+    },
+    "ch": {
+      "simplified": "出租车",
+      "traditional": "出租車",
+      "pinyin": "chūzūchē"
+    }
+  },
+
+  "自転車": {
+    "variants": [],
+    "romaji": "jitensha",
+    "onyomi": "ジ, テン, シャ",
+    "kunyomi": "",
+    "es": "bicicleta",
+    "en": "bicycle",
+    "fr": "vélo",
+    "de": "Fahrrad",
+    "it": "bicicletta",
+    "pt": "bicicleta",
+    "kr": {
+      "korean": "자전거",
+      "trans": "jajeongeo"
+    },
+    "ru": {
+      "russian": "велосипед",
+      "trans": "velosiped"
+    },
+    "ch": {
+      "simplified": "自行车",
+      "traditional": "自行車",
+      "pinyin": "zìxíngchē"
+    }
+  },
+
+  "歩いて": {
+    "variants": ["歩く"],
+    "romaji": "aruite",
+    "onyomi": "ホ",
+    "kunyomi": "ある.く, あゆ.む",
+    "es": "a pie, caminando",
+    "en": "on foot, walking",
+    "fr": "à pied",
+    "de": "zu Fuß",
+    "it": "a piedi",
+    "pt": "a pé",
+    "kr": {
+      "korean": "걸어서",
+      "trans": "georeoseo"
+    },
+    "ru": {
+      "russian": "пешком",
+      "trans": "peshkom"
+    },
+    "ch": {
+      "simplified": "步行",
+      "traditional": "步行",
+      "pinyin": "bùxíng"
+    }
+  },
+
+  "人": {
+    "variants": [],
+    "romaji": "hito",
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと",
+    "es": "persona",
+    "en": "person",
+    "fr": "personne",
+    "de": "Person",
+    "it": "persona",
+    "pt": "pessoa",
+    "kr": {
+      "korean": "사람",
+      "trans": "saram"
+    },
+    "ru": {
+      "russian": "человек",
+      "trans": "chelovek"
+    },
+    "ch": {
+      "simplified": "人",
+      "traditional": "人",
+      "pinyin": "rén"
+    }
+  },
+
+  "友達": {
+    "variants": [],
+    "romaji": "tomodachi",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "es": "amigo",
+    "en": "friend",
+    "fr": "ami",
+    "de": "Freund",
+    "it": "amico",
+    "pt": "amigo",
+    "kr": {
+      "korean": "친구",
+      "trans": "chingu"
+    },
+    "ru": {
+      "russian": "друг",
+      "trans": "drug"
+    },
+    "ch": {
+      "simplified": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péngyǒu"
+    }
+  },
+
+  "彼": {
+    "variants": [],
+    "romaji": "kare",
+    "onyomi": "ヒ",
+    "kunyomi": "かれ, かの",
+    "es": "él, novio",
+    "en": "he, boyfriend",
+    "fr": "il, petit ami",
+    "de": "er, Freund",
+    "it": "lui, fidanzato",
+    "pt": "ele, namorado",
+    "kr": {
+      "korean": "그, 남자친구",
+      "trans": "geu, namjachingu"
+    },
+    "ru": {
+      "russian": "он, парень",
+      "trans": "on, paren'"
+    },
+    "ch": {
+      "simplified": "他, 男朋友",
+      "traditional": "他, 男朋友",
+      "pinyin": "tā, nánpéngyǒu"
+    }
+  },
+
+  "彼女": {
+    "variants": [],
+    "romaji": "kanojo",
+    "onyomi": "カノ, ジョ",
+    "kunyomi": "かの, かのじょ",
+    "es": "ella, novia",
+    "en": "she, girlfriend",
+    "fr": "elle, petite amie",
+    "de": "sie, Freundin",
+    "it": "lei, fidanzata",
+    "pt": "ela, namorada",
+    "kr": {
+      "korean": "그녀, 여자친구",
+      "trans": "geunyeo, yeojachingu"
+    },
+    "ru": {
+      "russian": "она, девушка",
+      "trans": "ona, devushka"
+    },
+    "ch": {
+      "simplified": "她, 女朋友",
+      "traditional": "她, 女朋友",
+      "pinyin": "tā, nǚpéngyǒu"
+    }
+  },
+
+  "家族": {
+    "variants": [],
+    "romaji": "kazoku",
+    "onyomi": "カ, ゾク",
+    "kunyomi": "いえ, や, うち",
+    "es": "familia",
+    "en": "family",
+    "fr": "famille",
+    "de": "Familie",
+    "it": "famiglia",
+    "pt": "família",
+    "kr": {
+      "korean": "가족",
+      "trans": "gajok"
+    },
+    "ru": {
+      "russian": "семья",
+      "trans": "sem'ya"
+    },
+    "ch": {
+      "simplified": "家族",
+      "traditional": "家族",
+      "pinyin": "jiāzú"
+    }
+  },
+
+  "一人で": {
+    "variants": [],
+    "romaji": "hitoride",
+    "onyomi": "イチ, ニン",
+    "kunyomi": "ひと, ひとり",
+    "es": "solo, por sí mismo",
+    "en": "alone, by oneself",
+    "fr": "seul",
+    "de": "allein",
+    "it": "da solo",
+    "pt": "sozinho",
+    "kr": {
+      "korean": "혼자서",
+      "trans": "honjaseo"
+    },
+    "ru": {
+      "russian": "один, самостоятельно",
+      "trans": "odin, samostoyatel'no"
+    },
+    "ch": {
+      "simplified": "一个人",
+      "traditional": "一個人",
+      "pinyin": "yígerén"
+    }
+  },
+
+  "先週": {
+    "variants": [],
+    "romaji": "senshuu",
+    "onyomi": "セン, シュウ",
+    "kunyomi": "",
+    "es": "la semana pasada",
+    "en": "last week",
+    "fr": "la semaine dernière",
+    "de": "letzte Woche",
+    "it": "la settimana scorsa",
+    "pt": "semana passada",
+    "kr": {
+      "korean": "지난주",
+      "trans": "jinanju"
+    },
+    "ru": {
+      "russian": "прошлая неделя",
+      "trans": "proshlaya nedelya"
+    },
+    "ch": {
+      "simplified": "上周",
+      "traditional": "上週",
+      "pinyin": "shàngzhōu"
+    }
+  },
+
+  "今週": {
+    "variants": [],
+    "romaji": "konshuu",
+    "onyomi": "コン, シュウ",
+    "kunyomi": "",
+    "es": "esta semana",
+    "en": "this week",
+    "fr": "cette semaine",
+    "de": "diese Woche",
+    "it": "questa settimana",
+    "pt": "esta semana",
+    "kr": {
+      "korean": "이번주",
+      "trans": "ibeonju"
+    },
+    "ru": {
+      "russian": "эта неделя",
+      "trans": "eta nedelya"
+    },
+    "ch": {
+      "simplified": "本周",
+      "traditional": "本週",
+      "pinyin": "běnzhōu"
+    }
+  },
+
+  "来週": {
+    "variants": [],
+    "romaji": "raishuu",
+    "onyomi": "ライ, シュウ",
+    "kunyomi": "",
+    "es": "la semana que viene",
+    "en": "next week",
+    "fr": "la semaine prochaine",
+    "de": "nächste Woche",
+    "it": "la prossima settimana",
+    "pt": "semana que vem",
+    "kr": {
+      "korean": "다음주",
+      "trans": "daeumju"
+    },
+    "ru": {
+      "russian": "следующая неделя",
+      "trans": "sleduyushchaya nedelya"
+    },
+    "ch": {
+      "simplified": "下周",
+      "traditional": "下週",
+      "pinyin": "xiàzhōu"
+    }
+  },
+
+  "先月": {
+    "variants": [],
+    "romaji": "sengetsu",
+    "onyomi": "セン, ゲツ",
+    "kunyomi": "",
+    "es": "el mes pasado",
+    "en": "last month",
+    "fr": "le mois dernier",
+    "de": "letzten Monat",
+    "it": "il mese scorso",
+    "pt": "mês passado",
+    "kr": {
+      "korean": "지난달",
+      "trans": "jinandal"
+    },
+    "ru": {
+      "russian": "прошлый месяц",
+      "trans": "proshlyy mesyats"
+    },
+    "ch": {
+      "simplified": "上个月",
+      "traditional": "上個月",
+      "pinyin": "shàngge yuè"
+    }
+  },
+
+  "今月": {
+    "variants": [],
+    "romaji": "kongetsu",
+    "onyomi": "コン, ゲツ",
+    "kunyomi": "",
+    "es": "este mes",
+    "en": "this month",
+    "fr": "ce mois-ci",
+    "de": "diesen Monat",
+    "it": "questo mese",
+    "pt": "este mês",
+    "kr": {
+      "korean": "이번달",
+      "trans": "ibeondal"
+    },
+    "ru": {
+      "russian": "этот месяц",
+      "trans": "etot mesyats"
+    },
+    "ch": {
+      "simplified": "这个月",
+      "traditional": "這個月",
+      "pinyin": "zhège yuè"
+    }
+  },
+
+  "来月": {
+    "variants": [],
+    "romaji": "raigetsu",
+    "onyomi": "ライ, ゲツ",
+    "kunyomi": "",
+    "es": "el mes que viene",
+    "en": "next month",
+    "fr": "le mois prochain",
+    "de": "nächsten Monat",
+    "it": "il prossimo mese",
+    "pt": "mês que vem",
+    "kr": {
+      "korean": "다음달",
+      "trans": "daeumdal"
+    },
+    "ru": {
+      "russian": "следующий месяц",
+      "trans": "sleduyushchiy mesyats"
+    },
+    "ch": {
+      "simplified": "下个月",
+      "traditional": "下個月",
+      "pinyin": "xiàge yuè"
+    }
+  },
+
+  "去年": {
+    "variants": [],
+    "romaji": "kyonen",
+    "onyomi": "キョ, ネン",
+    "kunyomi": "",
+    "es": "el año pasado",
+    "en": "last year",
+    "fr": "l'année dernière",
+    "de": "letztes Jahr",
+    "it": "l'anno scorso",
+    "pt": "ano passado",
+    "kr": {
+      "korean": "작년",
+      "trans": "jangnyeon"
+    },
+    "ru": {
+      "russian": "прошлый год",
+      "trans": "proshlyy god"
+    },
+    "ch": {
+      "simplified": "去年",
+      "traditional": "去年",
+      "pinyin": "qùnián"
+    }
+  },
+
+  "今年": {
+    "variants": [],
+    "romaji": "kotoshi",
+    "onyomi": "コン, ネン",
+    "kunyomi": "",
+    "es": "este año",
+    "en": "this year",
+    "fr": "cette année",
+    "de": "dieses Jahr",
+    "it": "quest'anno",
+    "pt": "este ano",
+    "kr": {
+      "korean": "올해",
+      "trans": "olhae"
+    },
+    "ru": {
+      "russian": "этот год",
+      "trans": "etot god"
+    },
+    "ch": {
+      "simplified": "今年",
+      "traditional": "今年",
+      "pinyin": "jīnnián"
+    }
+  },
+
+  "来年": {
+    "variants": [],
+    "romaji": "rainen",
+    "onyomi": "ライ, ネン",
+    "kunyomi": "",
+    "es": "el año que viene",
+    "en": "next year",
+    "fr": "l'année prochaine",
+    "de": "nächstes Jahr",
+    "it": "l'anno prossimo",
+    "pt": "ano que vem",
+    "kr": {
+      "korean": "내년",
+      "trans": "naenyeon"
+    },
+    "ru": {
+      "russian": "следующий год",
+      "trans": "sleduyushchiy god"
+    },
+    "ch": {
+      "simplified": "明年",
+      "traditional": "明年",
+      "pinyin": "míngnián"
+    }
+  },
+
+  "年": {
+    "variants": [],
+    "romaji": "toshi, nen",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "es": "año",
+    "en": "year",
+    "fr": "année",
+    "de": "Jahr",
+    "it": "anno",
+    "pt": "ano",
+    "kr": {
+      "korean": "년, 해",
+      "trans": "nyeon, hae"
+    },
+    "ru": {
+      "russian": "год",
+      "trans": "god"
+    },
+    "ch": {
+      "simplified": "年",
+      "traditional": "年",
+      "pinyin": "nián"
+    }
+  },
+
+  "何年": {
+    "variants": [],
+    "romaji": "nan-nen",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "qué año",
+    "en": "what year",
+    "fr": "quelle année",
+    "de": "welches Jahr",
+    "it": "quale anno",
+    "pt": "que ano",
+    "kr": {
+      "korean": "몇 년",
+      "trans": "myeot nyeon"
+    },
+    "ru": {
+      "russian": "какой год",
+      "trans": "kakoy god"
+    },
+    "ch": {
+      "simplified": "哪一年",
+      "traditional": "哪一年",
+      "pinyin": "nǎ yì nián"
+    }
+  },
+
+  "月": {
+    "variants": [],
+    "romaji": "tsuki, getsu, gatsu",
+    "onyomi": "ゲツ, ガツ",
+    "kunyomi": "つき",
+    "es": "mes, luna",
+    "en": "month, moon",
+    "fr": "mois, lune",
+    "de": "Monat, Mond",
+    "it": "mese, luna",
+    "pt": "mês, lua",
+    "kr": {
+      "korean": "달, 월",
+      "trans": "dal, wol"
+    },
+    "ru": {
+      "russian": "месяц, луна",
+      "trans": "mesyats, luna"
+    },
+    "ch": {
+      "simplified": "月",
+      "traditional": "月",
+      "pinyin": "yuè"
+    }
+  },
+
+  "何月": {
+    "variants": [],
+    "romaji": "nan-gatsu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "qué mes",
+    "en": "what month",
+    "fr": "quel mois",
+    "de": "welcher Monat",
+    "it": "quale mese",
+    "pt": "que mês",
+    "kr": {
+      "korean": "몇 월",
+      "trans": "myeot wol"
+    },
+    "ru": {
+      "russian": "какой месяц",
+      "trans": "kakoy mesyats"
+    },
+    "ch": {
+      "simplified": "几月",
+      "traditional": "幾月",
+      "pinyin": "jǐ yuè"
+    }
+  },
+
+  "いつ": {
+    "variants": [],
+    "romaji": "itsu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "cuándo",
+    "en": "when",
+    "fr": "quand",
+    "de": "wann",
+    "it": "quando",
+    "pt": "quando",
+    "kr": {
+      "korean": "언제",
+      "trans": "eonje"
+    },
+    "ru": {
+      "russian": "когда",
+      "trans": "kogda"
+    },
+    "ch": {
+      "simplified": "什么时候",
+      "traditional": "什麼時候",
+      "pinyin": "shénme shíhou"
+    }
+  },
+
+  "1日": {
+    "variants": ["一日"],
+    "romaji": "tsuitachi",
+    "onyomi": "イチ, ニチ, ジツ",
+    "kunyomi": "ひ, ついたち",
+    "es": "día 1, primer día del mes",
+    "en": "day 1, first day of the month",
+    "fr": "1er jour du mois",
+    "de": "Tag 1, erster Tag des Monats",
+    "it": "giorno 1, primo giorno del mese",
+    "pt": "dia 1, primeiro dia do mês",
+    "kr": {
+      "korean": "1일, 첫째 날",
+      "trans": "il-il, cheotjae nal"
+    },
+    "ru": {
+      "russian": "1-й день, первый день месяца",
+      "trans": "pervyy den', pervyy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "1日, 每月的第一天",
+      "traditional": "1日, 每月的第一天",
+      "pinyin": "1 rì, měi yuè de dì yī tiān"
+    }
+  },
+
+  "2日": {
+    "variants": ["二日"],
+    "romaji": "futsuka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ふつか",
+    "es": "día 2, segundo día del mes",
+    "en": "day 2, second day of the month",
+    "fr": "2e jour du mois",
+    "de": "Tag 2, zweiter Tag des Monats",
+    "it": "giorno 2, secondo giorno del mese",
+    "pt": "dia 2, segundo dia do mês",
+    "kr": {
+      "korean": "2일, 둘째 날",
+      "trans": "i-il, duljjae nal"
+    },
+    "ru": {
+      "russian": "2-й день, второй день месяца",
+      "trans": "vtoroy den', vtoroy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "2日, 每月的第二天",
+      "traditional": "2日, 每月的第二天",
+      "pinyin": "2 rì, měi yuè de dì èr tiān"
+    }
+  },
+
+  "3日": {
+    "variants": ["三日"],
+    "romaji": "mikka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "みっか",
+    "es": "día 3, tercer día del mes",
+    "en": "day 3, third day of the month",
+    "fr": "3e jour du mois",
+    "de": "Tag 3, dritter Tag des Monats",
+    "it": "giorno 3, terzo giorno del mese",
+    "pt": "dia 3, terceiro dia do mês",
+    "kr": {
+      "korean": "3일, 셋째 날",
+      "trans": "sam-il, setjjae nal"
+    },
+    "ru": {
+      "russian": "3-й день, третий день месяца",
+      "trans": "tretiy den', tretiy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "3日, 每月的第三天",
+      "traditional": "3日, 每月的第三天",
+      "pinyin": "3 rì, měi yuè de dì sān tiān"
+    }
+  },
+
+  "4日": {
+    "variants": ["四日"],
+    "romaji": "yokka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "よっか",
+    "es": "día 4, cuarto día del mes",
+    "en": "day 4, fourth day of the month",
+    "fr": "4e jour du mois",
+    "de": "Tag 4, vierter Tag des Monats",
+    "it": "giorno 4, quarto giorno del mese",
+    "pt": "dia 4, quarto dia do mês",
+    "kr": {
+      "korean": "4일, 넷째 날",
+      "trans": "sa-il, netjjae nal"
+    },
+    "ru": {
+      "russian": "4-й день, четвёртый день месяца",
+      "trans": "chetvyortyy den', chetvyortyy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "4日, 每月的第四天",
+      "traditional": "4日, 每月的第四天",
+      "pinyin": "4 rì, měi yuè de dì sì tiān"
+    }
+  },
+
+  "5日": {
+    "variants": ["五日"],
+    "romaji": "itsuka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "いつか",
+    "es": "día 5, quinto día del mes",
+    "en": "day 5, fifth day of the month",
+    "fr": "5e jour du mois",
+    "de": "Tag 5, fünfter Tag des Monats",
+    "it": "giorno 5, quinto giorno del mese",
+    "pt": "dia 5, quinto dia do mês",
+    "kr": {
+      "korean": "5일, 다섯째 날",
+      "trans": "o-il, daseotjjae nal"
+    },
+    "ru": {
+      "russian": "5-й день, пятый день месяца",
+      "trans": "pyatyy den', pyatyy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "5日, 每月的第五天",
+      "traditional": "5日, 每月的第五天",
+      "pinyin": "5 rì, měi yuè de dì wǔ tiān"
+    }
+  },
+
+  "6日": {
+    "variants": ["六日"],
+    "romaji": "muika",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "むいか",
+    "es": "día 6, sexto día del mes",
+    "en": "day 6, sixth day of the month",
+    "fr": "6e jour du mois",
+    "de": "Tag 6, sechster Tag des Monats",
+    "it": "giorno 6, sesto giorno del mese",
+    "pt": "dia 6, sexto dia do mês",
+    "kr": {
+      "korean": "6일, 여섯째 날",
+      "trans": "yuk-il, yeoseotjjae nal"
+    },
+    "ru": {
+      "russian": "6-й день, шестой день месяца",
+      "trans": "shestoy den', shestoy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "6日, 每月的第六天",
+      "traditional": "6日, 每月的第六天",
+      "pinyin": "6 rì, měi yuè de dì liù tiān"
+    }
+  },
+
+  "7日": {
+    "variants": ["七日"],
+    "romaji": "nanoka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "なのか",
+    "es": "día 7, séptimo día del mes",
+    "en": "day 7, seventh day of the month",
+    "fr": "7e jour du mois",
+    "de": "Tag 7, siebter Tag des Monats",
+    "it": "giorno 7, settimo giorno del mese",
+    "pt": "dia 7, sétimo dia do mês",
+    "kr": {
+      "korean": "7일, 일곱째 날",
+      "trans": "chil-il, ilgopjjae nal"
+    },
+    "ru": {
+      "russian": "7-й день, седьмой день месяца",
+      "trans": "sed'moy den', sed'moy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "7日, 每月的第七天",
+      "traditional": "7日, 每月的第七天",
+      "pinyin": "7 rì, měi yuè de dì qī tiān"
+    }
+  },
+
+  "8日": {
+    "variants": ["八日"],
+    "romaji": "youka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ようか",
+    "es": "día 8, octavo día del mes",
+    "en": "day 8, eighth day of the month",
+    "fr": "8e jour du mois",
+    "de": "Tag 8, achter Tag des Monats",
+    "it": "giorno 8, ottavo giorno del mese",
+    "pt": "dia 8, oitavo dia do mês",
+    "kr": {
+      "korean": "8일, 여덟째 날",
+      "trans": "pal-il, yeodeoljjae nal"
+    },
+    "ru": {
+      "russian": "8-й день, восьмой день месяца",
+      "trans": "vos'moy den', vos'moy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "8日, 每月的第八天",
+      "traditional": "8日, 每月的第八天",
+      "pinyin": "8 rì, měi yuè de dì bā tiān"
+    }
+  },
+
+  "9日": {
+    "variants": ["九日"],
+    "romaji": "kokonoka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ここのか",
+    "es": "día 9, noveno día del mes",
+    "en": "day 9, ninth day of the month",
+    "fr": "9e jour du mois",
+    "de": "Tag 9, neunter Tag des Monats",
+    "it": "giorno 9, nono giorno del mese",
+    "pt": "dia 9, nono dia do mês",
+    "kr": {
+      "korean": "9일, 아홉째 날",
+      "trans": "gu-il, ahopjjae nal"
+    },
+    "ru": {
+      "russian": "9-й день, девятый день месяца",
+      "trans": "devyatyy den', devyatyy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "9日, 每月的第九天",
+      "traditional": "9日, 每月的第九天",
+      "pinyin": "9 rì, měi yuè de dì jiǔ tiān"
+    }
+  },
+
+  "10日": {
+    "variants": ["十日"],
+    "romaji": "tooka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "とおか",
+    "es": "día 10, décimo día del mes",
+    "en": "day 10, tenth day of the month",
+    "fr": "10e jour du mois",
+    "de": "Tag 10, zehnter Tag des Monats",
+    "it": "giorno 10, decimo giorno del mese",
+    "pt": "dia 10, décimo dia do mês",
+    "kr": {
+      "korean": "10일, 열째 날",
+      "trans": "sip-il, yeoljjae nal"
+    },
+    "ru": {
+      "russian": "10-й день, десятый день месяца",
+      "trans": "desyatyy den', desyatyy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "10日, 每月的第十天",
+      "traditional": "10日, 每月的第十天",
+      "pinyin": "10 rì, měi yuè de dì shí tiān"
+    }
+  },
+
+  "14日": {
+    "variants": ["十四日"],
+    "romaji": "juuyokka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "じゅうよっか",
+    "es": "día 14, decimocuarto día del mes",
+    "en": "day 14, fourteenth day of the month",
+    "fr": "14e jour du mois",
+    "de": "Tag 14, vierzehnter Tag des Monats",
+    "it": "giorno 14, quattordicesimo giorno del mese",
+    "pt": "dia 14, décimo quarto dia do mês",
+    "kr": {
+      "korean": "14일, 열넷째 날",
+      "trans": "sipsa-il, yeolnetjjae nal"
+    },
+    "ru": {
+      "russian": "14-й день, четырнадцатый день месяца",
+      "trans": "chetyrnadtsatyy den', chetyrnadtsatyy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "14日, 每月的第十四天",
+      "traditional": "14日, 每月的第十四天",
+      "pinyin": "14 rì, měi yuè de dì shísì tiān"
+    }
+  },
+
+  "20日": {
+    "variants": ["二十日"],
+    "romaji": "hatsuka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "はつか",
+    "es": "día 20, vigésimo día del mes",
+    "en": "day 20, twentieth day of the month",
+    "fr": "20e jour du mois",
+    "de": "Tag 20, zwanzigster Tag des Monats",
+    "it": "giorno 20, ventesimo giorno del mese",
+    "pt": "dia 20, vigésimo dia do mês",
+    "kr": {
+      "korean": "20일, 스무째 날",
+      "trans": "isim-il, seumujjae nal"
+    },
+    "ru": {
+      "russian": "20-й день, двадцатый день месяца",
+      "trans": "dvadtsatyy den', dvadtsatyy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "20日, 每月的第二十天",
+      "traditional": "20日, 每月的第二十天",
+      "pinyin": "20 rì, měi yuè de dì èrshí tiān"
+    }
+  },
+
+  "24日": {
+    "variants": ["二十四日"],
+    "romaji": "nijuuyokka",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "にじゅうよっか",
+    "es": "día 24, vigésimo cuarto día del mes",
+    "en": "day 24, twenty-fourth day of the month",
+    "fr": "24e jour du mois",
+    "de": "Tag 24, vierundzwanzigster Tag des Monats",
+    "it": "giorno 24, ventiquattresimo giorno del mese",
+    "pt": "dia 24, vigésimo quarto dia do mês",
+    "kr": {
+      "korean": "24일, 스물넷째 날",
+      "trans": "isipsa-il, seumulnetjjae nal"
+    },
+    "ru": {
+      "russian": "24-й день, двадцать четвертый день месяца",
+      "trans": "dvadtsat' chetvyortyy den', dvadtsat' chetvyortyy den' mesyatsa"
+    },
+    "ch": {
+      "simplified": "24日, 每月的第二十四天",
+      "traditional": "24日, 每月的第二十四天",
+      "pinyin": "24 rì, měi yuè de dì èrshísì tiān"
+    }
+  },
+
+  "日": {
+    "variants": [],
+    "romaji": "hi, nichi, jitsu",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "es": "día, sol",
+    "en": "day, sun",
+    "fr": "jour, soleil",
+    "de": "Tag, Sonne",
+    "it": "giorno, sole",
+    "pt": "dia, sol",
+    "kr": {
+      "korean": "날, 해",
+      "trans": "nal, hae"
+    },
+    "ru": {
+      "russian": "день, солнце",
+      "trans": "den', solntse"
+    },
+    "ch": {
+      "simplified": "日, 太阳",
+      "traditional": "日, 太陽",
+      "pinyin": "rì, tàiyáng"
+    }
+  },
+
+  "何日": {
+    "variants": [],
+    "romaji": "nan-nichi",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "qué día",
+    "en": "what day",
+    "fr": "quel jour",
+    "de": "welcher Tag",
+    "it": "quale giorno",
+    "pt": "que dia",
+    "kr": {
+      "korean": "며칠",
+      "trans": "myeochil"
+    },
+    "ru": {
+      "russian": "какой день",
+      "trans": "kakoy den'"
+    },
+    "ch": {
+      "simplified": "几号",
+      "traditional": "幾號",
+      "pinyin": "jǐ hào"
+    }
+  },
+
+  "そうですね": {
+    "variants": [],
+    "romaji": "sou desu ne",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "así es, déjame ver",
+    "en": "that's right, let me see",
+    "fr": "c'est ça, voyons voir",
+    "de": "stimmt, mal sehen",
+    "it": "già, vediamo",
+    "pt": "é mesmo, deixa eu ver",
+    "kr": {
+      "korean": "그렇네요, 어디 보자",
+      "trans": "geureonne-yo, eodi boja"
+    },
+    "ru": {
+      "russian": "да, ну-ка посмотрим",
+      "trans": "da, nu-ka posmotrim"
+    },
+    "ch": {
+      "simplified": "是啊，让我想想",
+      "traditional": "是啊，讓我想想",
+      "pinyin": "shì a, ràng wǒ xiǎng xiǎng"
+    }
+  },
+
+  "番線": {
+    "variants": [],
+    "romaji": "bansen",
+    "onyomi": "バン, セン",
+    "kunyomi": "",
+    "es": "andén, plataforma (número de tren)",
+    "en": "platform (train number)",
+    "fr": "voie (numéro de quai)",
+    "de": "Bahnsteig (Nummer)",
+    "it": "binario (numero)",
+    "pt": "plataforma (número)",
+    "kr": {
+      "korean": "번선",
+      "trans": "beonseon"
+    },
+    "ru": {
+      "russian": "платформа (номер)",
+      "trans": "platforma (nomer)"
+    },
+    "ch": {
+      "simplified": "站台（编号）",
+      "traditional": "月台（編號）",
+      "pinyin": "zhàntái (biānhào)"
+    }
+  },
+
+  "次の": {
+    "variants": [],
+    "romaji": "tsugi no",
+    "onyomi": "ジ",
+    "kunyomi": "つぎ",
+    "es": "siguiente, próximo",
+    "en": "next",
+    "fr": "suivant",
+    "de": "nächste",
+    "it": "prossimo",
+    "pt": "próximo",
+    "kr": {
+      "korean": "다음의",
+      "trans": "daeum-ui"
+    },
+    "ru": {
+      "russian": "следующий",
+      "trans": "sleduyushchiy"
+    },
+    "ch": {
+      "simplified": "下一个",
+      "traditional": "下一個",
+      "pinyin": "xià yí gè"
+    }
+  },
+
+  "普通": {
+    "variants": [],
+    "romaji": "futsuu",
+    "onyomi": "フ, ツウ",
+    "kunyomi": "ふつう",
+    "es": "normal, local (tren)",
+    "en": "normal, local (train)",
+    "fr": "normal, train local",
+    "de": "normal, Nahverkehrszug",
+    "it": "normale, locale (treno)",
+    "pt": "normal, trem local",
+    "kr": {
+      "korean": "보통, 완행 (열차)",
+      "trans": "botong, wanhaeng (yeolcha)"
+    },
+    "ru": {
+      "russian": "обычный, местный (поезд)",
+      "trans": "obychnyy, mestnyy (poezd)"
+    },
+    "ch": {
+      "simplified": "普通, 慢车",
+      "traditional": "普通, 慢車",
+      "pinyin": "pǔtōng, mànchē"
+    }
+  },
+
+  "急行": {
+    "variants": [],
+    "romaji": "kyuukou",
+    "onyomi": "キュウ, コウ",
+    "kunyomi": "",
+    "es": "expreso (tren)",
+    "en": "express (train)",
+    "fr": "express (train)",
+    "de": "Eilzug, Schnellzug",
+    "it": "espresso (treno)",
+    "pt": "expresso (trem)",
+    "kr": {
+      "korean": "급행 (열차)",
+      "trans": "geuphaeng (yeolcha)"
+    },
+    "ru": {
+      "russian": "экспресс (поезд)",
+      "trans": "ekspress (poezd)"
+    },
+    "ch": {
+      "simplified": "急行, 快车",
+      "traditional": "急行, 快車",
+      "pinyin": "jíxíng, kuàichē"
+    }
+  },
+
+  "特急": {
+    "variants": [],
+    "romaji": "tokkyuu",
+    "onyomi": "トッ, キュウ",
+    "kunyomi": "",
+    "es": "tren superexpreso",
+    "en": "limited express (train)",
+    "fr": "train super-express",
+    "de": "Schnellzug, Superexpress",
+    "it": "superespresso (treno)",
+    "pt": "superexpresso (trem)",
+    "kr": {
+      "korean": "특급 (열차)",
+      "trans": "teukgeup (yeolcha)"
+    },
+    "ru": {
+      "russian": "скорый поезд, суперэкспресс",
+      "trans": "skoryy poezd, superekspress"
+    },
+    "ch": {
+      "simplified": "特急, 特快",
+      "traditional": "特急, 特快",
+      "pinyin": "tèjí, tèkuài"
+    }
+  }
+}
