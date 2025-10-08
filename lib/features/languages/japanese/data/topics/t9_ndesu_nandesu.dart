@@ -1,0 +1,29 @@
+import 'package:flutter/material.dart';
+import 'package:patterns_guide_app/features/languages/domain/entities/topic.entity.dart';
+
+TopicEntity ndesuNandesu = TopicEntity(
+  icon: Icons.question_answer,
+  title: "んです，なんです",
+  subtitle: "Énfasis",
+  smallDescription: "Hacer énfasis o mostrar interés",
+  details: "Usamos んです / なんです para hacer énfasis o mostrar interés.",
+  rule: "Froma coloquial + んです / なんです",
+  considerations: [
+    "También se usa para pedir o dar explicaciones."
+  ],
+  examples: [
+    TopicExample(
+      example: "どうして泣いているんですか。", 
+      exampleWithHighlight: ["んです"],
+      translation: "¿Por qué estás llorando?",
+      explanation: "Aquí, んです se usa para mostrar interés en la razón por la que alguien está llorando.",
+    ),
+    
+    TopicExample(
+      example: "それ【は】なんですか。", 
+      exampleWithHighlight: ["なんです"],
+      translation: "¿Qué es eso?",
+      explanation: "En este caso, なんです se utiliza para pedir una explicación o aclaración sobre algo que no se entiende.",
+    ),
+  ],
+);

@@ -40,3 +40,27 @@ class MarkdownWidgetAdapter extends StatelessWidget {
     );
   }
 }
+
+
+class MarkdownAdapter extends StatelessWidget {
+
+  final String data;
+  final double height;
+   
+  const MarkdownAdapter({
+    super.key, 
+    required this.data,
+    this.height = 180,
+  });
+  
+  @override
+  Widget build(BuildContext context) {
+
+    return SizedBox(
+      height: height,
+      child: MarkdownWidget(
+        data: data,
+      ),
+    );
+  }
+}

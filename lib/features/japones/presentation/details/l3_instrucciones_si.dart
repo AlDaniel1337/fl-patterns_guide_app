@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:patterns_guide_app/features/japones/data/topics/t3_instrucciones_si.dart';
+import 'package:patterns_guide_app/features/languages/japanese/data/topics/t3_instrucciones_si.dart';
 import 'package:patterns_guide_app/features/japones/presentation/widgets/index.dart';
 
 class ToInstruccion extends StatelessWidget {

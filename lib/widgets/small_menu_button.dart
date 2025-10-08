@@ -28,13 +28,19 @@ class SmallMenuButton extends StatelessWidget {
             width: double.infinity,
             height: 80,
             decoration: _decoration(),
-            child: Center(
-              child: Text( title, style: const TextStyle( 
-                fontSize: 40, 
-                fontWeight: FontWeight.bold, 
-                color: Colors.white
-                )
-              ),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+
+                Text( title, 
+                  style: const TextStyle( 
+                    fontSize: 32, 
+                    fontWeight: FontWeight.bold, 
+                    color: Colors.white
+                  )
+                ),
+                
+              ],
             ),
           ),
         ),

@@ -1,19 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:patterns_guide_app/features/japones/domain/entities/answers.entity.dart';
+import 'package:patterns_guide_app/features/languages/domain/entities/answers.entity.dart';
+import 'package:patterns_guide_app/features/languages/domain/entities/topic.entity.dart';
+import 'package:patterns_guide_app/widgets/dynamic_colored_text.dart';
 
 class Example extends StatelessWidget {
 
-  final String example;
-  final String translation;
-  final String? explanation;
-  final List<AnswersEntity>? posibleAnswers;
+  final TopicExample example;
    
   const Example({
     super.key, 
     required this.example,
-    required this.translation,
-    this.explanation,
-    this.posibleAnswers
   });
   
   @override
@@ -26,8 +22,10 @@ class Example extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(example, 
-            style: TextStyle(
+          DynamicColoredText(
+            fullText: example.example, 
+            highlightTexts: example.exampleWithHighlight,
+            baseStyle: TextStyle(
               fontSize: 22, 
               fontWeight: FontWeight.bold,
             ),
@@ -35,7 +33,7 @@ class Example extends StatelessWidget {
           
           Padding(
             padding: const EdgeInsets.only( left: 16.0),
-            child: Text(translation, 
+            child: Text(example.translation, 
               style: TextStyle(
                 fontSize: 20, 
                 fontWeight: FontWeight.bold,
@@ -44,21 +42,31 @@ class Example extends StatelessWidget {
             ),
           ),
 
-          
-          if( explanation != null )
+          if( example.explanationNote != null )
+          Padding(
+            padding: const EdgeInsets.only( left: 30.0),
+            child: Text(example.explanationNote ?? "", 
+              style: TextStyle(
+                fontSize: 18,
+                fontStyle: FontStyle.italic,
+                color: Colors.redAccent
+              ),
+            ),
+          ),
+
+          if( example.explanation != null )
           Padding(
             padding: const EdgeInsets.only( left: 32.0),
-            child: Text(explanation ?? "", 
+            child: Text(example.explanation ?? "", 
               style: TextStyle(
                 fontSize: 18,
                 color: Colors.blueAccent
               ),
             ),
           ),
-          
-          if( posibleAnswers != null )
-          _Answer(posibleAnswers: posibleAnswers),
-          
+
+          if( example.posibleAnswers != null )
+          _Answer(posibleAnswers: example.posibleAnswers),
 
           SizedBox( height: 22 ),
         ],

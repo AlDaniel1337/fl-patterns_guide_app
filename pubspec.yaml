@@ -65,6 +65,14 @@ flutter:
   assets:
     - assets/
     - assets/data/japanese/kanji/minna_no_nihongo_book/
+    - assets/patterns/01_Builder/
+    - assets/patterns/02_FactoryMethod/
+    - assets/patterns/03_AbstractFactory/
+    - assets/patterns/04_Prototype/
+    - assets/patterns/05_Singleton/
+    - assets/patterns/06_Adapter/
+    - assets/patterns/07_Bridge/
+
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

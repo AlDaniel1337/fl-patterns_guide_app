@@ -1,27 +1,1327 @@
 {
-  "切ります": {
-    "variants": ["切る"],
-    "romaji": "kirimasu",
-    "onyomi": "セツ, サイ",
-    "kunyomi": "き.る, き.れる",
-    "es": "cortar",
-    "en": "to cut",
-    "fr": "couper",
-    "de": "schneiden",
-    "it": "tagliare",
-    "pt": "cortar",
+  "ハンサム": {
+    "variants": [],
+    "romaji": "hansamu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "guapo (aspecto masculino)",
+    "en": "handsome",
+    "fr": "beau (homme)",
+    "de": "gutaussehend (Mann)",
+    "it": "bello (uomo)",
+    "pt": "bonito (homem)",
     "kr": {
-      "korean": "자르다",
-      "trans": "jareuda"
+      "korean": "잘생긴",
+      "trans": "jalsaenggin"
     },
     "ru": {
-      "russian": "резать",
-      "trans": "rezat'"
+      "russian": "красивый (мужчина)",
+      "trans": "krasivyy (muzhchina)"
     },
     "ch": {
-      "simplified": "切",
-      "traditional": "切",
-      "pinyin": "qiē"
+      "simplified": "英俊",
+      "traditional": "英俊",
+      "pinyin": "yīngjùn"
+    }
+  },
+
+  "きれい": {
+    "variants": [],
+    "romaji": "kirei",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "bonito, limpio",
+    "en": "beautiful, clean",
+    "fr": "joli, propre",
+    "de": "schön, sauber",
+    "it": "bello, pulito",
+    "pt": "bonito, limpo",
+    "kr": {
+      "korean": "예쁜, 깨끗한",
+      "trans": "yeppeun, kkaekkeutan"
+    },
+    "ru": {
+      "russian": "красивый, чистый",
+      "trans": "krasivyy, chistyy"
+    },
+    "ch": {
+      "simplified": "漂亮, 干净",
+      "traditional": "漂亮, 乾淨",
+      "pinyin": "piàoliang, gānjìng"
+    }
+  },
+
+  "静か": {
+    "variants": ["静かな"],
+    "romaji": "shizuka",
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "しず.か, しず.まる",
+    "es": "tranquilo, silencioso",
+    "en": "quiet, peaceful",
+    "fr": "calme, tranquille",
+    "de": "ruhig",
+    "it": "tranquillo, silenzioso",
+    "pt": "silencioso, calmo",
+    "kr": {
+      "korean": "조용한",
+      "trans": "joyonghan"
+    },
+    "ru": {
+      "russian": "тихий, спокойный",
+      "trans": "tikhiy, spokoynyy"
+    },
+    "ch": {
+      "simplified": "安静",
+      "traditional": "安靜",
+      "pinyin": "ānjìng"
+    }
+  },
+
+  "にぎやか": {
+    "variants": [],
+    "romaji": "nigiyaka",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "animado, concurrido",
+    "en": "lively, bustling",
+    "fr": "animé, vivant",
+    "de": "lebhaft, belebt",
+    "it": "vivace, animato",
+    "pt": "animado, movimentado",
+    "kr": {
+      "korean": "번화한",
+      "trans": "beonhwahan"
+    },
+    "ru": {
+      "russian": "оживлённый",
+      "trans": "ozhivlyonnyy"
+    },
+    "ch": {
+      "simplified": "热闹",
+      "traditional": "熱鬧",
+      "pinyin": "rènào"
+    }
+  },
+
+  "有名": {
+    "variants": ["有名な"],
+    "romaji": "yuumei",
+    "onyomi": "ユウ, メイ",
+    "kunyomi": "",
+    "es": "famoso",
+    "en": "famous",
+    "fr": "célèbre",
+    "de": "berühmt",
+    "it": "famoso",
+    "pt": "famoso",
+    "kr": {
+      "korean": "유명한",
+      "trans": "yumyeonghan"
+    },
+    "ru": {
+      "russian": "знаменитый",
+      "trans": "znamenityy"
+    },
+    "ch": {
+      "simplified": "有名",
+      "traditional": "有名",
+      "pinyin": "yǒumíng"
+    }
+  },
+
+  "親切": {
+    "variants": ["親切な"],
+    "romaji": "shinsetsu",
+    "onyomi": "シン, セツ",
+    "kunyomi": "",
+    "es": "amable, gentil",
+    "en": "kind, gentle",
+    "fr": "gentil, aimable",
+    "de": "freundlich",
+    "it": "gentile",
+    "pt": "amável",
+    "kr": {
+      "korean": "친절한",
+      "trans": "chinjeolhan"
+    },
+    "ru": {
+      "russian": "добрый, любезный",
+      "trans": "dobryy, lyubeznyy"
+    },
+    "ch": {
+      "simplified": "亲切",
+      "traditional": "親切",
+      "pinyin": "qīnqiè"
+    }
+  },
+
+  "元気": {
+    "variants": ["元気な"],
+    "romaji": "genki",
+    "onyomi": "ゲン, キ",
+    "kunyomi": "",
+    "es": "sano, animado",
+    "en": "healthy, energetic",
+    "fr": "en forme, énergique",
+    "de": "gesund, munter",
+    "it": "in salute, energico",
+    "pt": "saudável, animado",
+    "kr": {
+      "korean": "건강한, 활기찬",
+      "trans": "geonganghan, hwalgichan"
+    },
+    "ru": {
+      "russian": "здоровый, бодрый",
+      "trans": "zdorovyy, bodryy"
+    },
+    "ch": {
+      "simplified": "健康, 精神好",
+      "traditional": "健康, 精神好",
+      "pinyin": "jiànkāng, jīngshén hǎo"
+    }
+  },
+
+  "暇": {
+    "variants": ["暇な"],
+    "romaji": "hima",
+    "onyomi": "カ",
+    "kunyomi": "ひま",
+    "es": "libre (tiempo), desocupado",
+    "en": "free (time), not busy",
+    "fr": "libre (temps), inoccupé",
+    "de": "frei (Zeit), nicht beschäftigt",
+    "it": "libero (tempo), non occupato",
+    "pt": "livre (tempo), desocupado",
+    "kr": {
+      "korean": "한가한",
+      "trans": "hangahan"
+    },
+    "ru": {
+      "russian": "свободный (время), незанятый",
+      "trans": "svobodnyy (vremya), nezanyatyy"
+    },
+    "ch": {
+      "simplified": "有空, 闲",
+      "traditional": "有空, 閒",
+      "pinyin": "yǒukòng, xián"
+    }
+  },
+
+  "便利": {
+    "variants": ["便利な"],
+    "romaji": "benri",
+    "onyomi": "ベン, リ",
+    "kunyomi": "",
+    "es": "práctico, conveniente",
+    "en": "convenient, useful",
+    "fr": "pratique, commode",
+    "de": "praktisch, bequem",
+    "it": "comodo, conveniente",
+    "pt": "prático, conveniente",
+    "kr": {
+      "korean": "편리한",
+      "trans": "pyeonlihan"
+    },
+    "ru": {
+      "russian": "удобный, полезный",
+      "trans": "udobnyy, poleznyy"
+    },
+    "ch": {
+      "simplified": "便利",
+      "traditional": "便利",
+      "pinyin": "biànlì"
+    }
+  },
+
+  "素敵": {
+    "variants": ["素敵な"],
+    "romaji": "suteki",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "maravilloso, encantador",
+    "en": "lovely, wonderful",
+    "fr": "superbe, charmant",
+    "de": "wunderschön, reizend",
+    "it": "splendido, incantevole",
+    "pt": "maravilhoso, encantador",
+    "kr": {
+      "korean": "멋진, 근사한",
+      "trans": "meotjin, geunsahan"
+    },
+    "ru": {
+      "russian": "прекрасный, чудесный",
+      "trans": "prekrasnyy, chudesnyy"
+    },
+    "ch": {
+      "simplified": "素敌",
+      "traditional": "素敵",
+      "pinyin": "sùdí"
+    }
+  },
+
+  "大きい": {
+    "variants": [],
+    "romaji": "ookii",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお.きい, おお-, おお.いに",
+    "es": "grande",
+    "en": "big, large",
+    "fr": "grand",
+    "de": "groß",
+    "it": "grande",
+    "pt": "grande",
+    "kr": {
+      "korean": "큰",
+      "trans": "keun"
+    },
+    "ru": {
+      "russian": "большой",
+      "trans": "bol'shoy"
+    },
+    "ch": {
+      "simplified": "大",
+      "traditional": "大",
+      "pinyin": "dà"
+    }
+  },
+
+  "小さい": {
+    "variants": [],
+    "romaji": "chiisai",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい.さい, こ-, お-, さ-",
+    "es": "pequeño",
+    "en": "small, little",
+    "fr": "petit",
+    "de": "klein",
+    "it": "piccolo",
+    "pt": "pequeno",
+    "kr": {
+      "korean": "작은",
+      "trans": "jageun"
+    },
+    "ru": {
+      "russian": "маленький",
+      "trans": "malen'kiy"
+    },
+    "ch": {
+      "simplified": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo"
+    }
+  },
+
+  "新しい": {
+    "variants": [],
+    "romaji": "atarashii",
+    "onyomi": "シン",
+    "kunyomi": "あたら.しい, あら-, あら.た, にい-",
+    "es": "nuevo",
+    "en": "new",
+    "fr": "nouveau",
+    "de": "neu",
+    "it": "nuovo",
+    "pt": "novo",
+    "kr": {
+      "korean": "새로운",
+      "trans": "saeroun"
+    },
+    "ru": {
+      "russian": "новый",
+      "trans": "novyy"
+    },
+    "ch": {
+      "simplified": "新",
+      "traditional": "新",
+      "pinyin": "xīn"
+    }
+  },
+
+  "古い": {
+    "variants": [],
+    "romaji": "furui",
+    "onyomi": "",
+    "kunyomi": "ふる.い, ふる-",
+    "es": "viejo, antiguo",
+    "en": "old (not person)",
+    "fr": "vieux, ancien",
+    "de": "alt",
+    "it": "vecchio, antico",
+    "pt": "velho, antigo",
+    "kr": {
+      "korean": "오래된",
+      "trans": "oraedoen"
+    },
+    "ru": {
+      "russian": "старый, древний",
+      "trans": "staryy, drevniy"
+    },
+    "ch": {
+      "simplified": "旧, 老",
+      "traditional": "舊, 老",
+      "pinyin": "jiù, lǎo"
+    }
+  },
+
+  "良い": {
+    "variants": ["いい", "よい"],
+    "romaji": "ii / yoi",
+    "onyomi": "",
+    "kunyomi": "よ.い, い.い, よ.く, よし, よ.くする",
+    "es": "bueno",
+    "en": "good",
+    "fr": "bon",
+    "de": "gut",
+    "it": "buono",
+    "pt": "bom",
+    "kr": {
+      "korean": "좋은",
+      "trans": "joheun"
+    },
+    "ru": {
+      "russian": "хороший",
+      "trans": "khoroshiy"
+    },
+    "ch": {
+      "simplified": "好",
+      "traditional": "好",
+      "pinyin": "hǎo"
+    }
+  },
+
+  "悪い": {
+    "variants": [],
+    "romaji": "warui",
+    "onyomi": "アク, オ",
+    "kunyomi": "わる.い, わる-, あ.し, にく.い, -にく.い",
+    "es": "malo",
+    "en": "bad",
+    "fr": "mauvais",
+    "de": "schlecht",
+    "it": "cattivo",
+    "pt": "ruim, mau",
+    "kr": {
+      "korean": "나쁜",
+      "trans": "nappeun"
+    },
+    "ru": {
+      "russian": "плохой",
+      "trans": "plokhoy"
+    },
+    "ch": {
+      "simplified": "坏",
+      "traditional": "壞",
+      "pinyin": "huài"
+    }
+  },
+
+  "暑い": {
+    "variants": [],
+    "romaji": "atsui",
+    "onyomi": "ショ",
+    "kunyomi": "あつ.い",
+    "es": "caluroso (clima)",
+    "en": "hot (weather)",
+    "fr": "chaud (temps)",
+    "de": "heiß (Wetter)",
+    "it": "caldo (tempo)",
+    "pt": "quente (tempo)",
+    "kr": {
+      "korean": "더운",
+      "trans": "deoun"
+    },
+    "ru": {
+      "russian": "жаркий (погода)",
+      "trans": "zharkiy (pogoda)"
+    },
+    "ch": {
+      "simplified": "热 (天气)",
+      "traditional": "熱 (天氣)",
+      "pinyin": "rè (tiānqì)"
+    }
+  },
+
+  "熱い": {
+    "variants": [],
+    "romaji": "atsui",
+    "onyomi": "ネツ",
+    "kunyomi": "あつ.い",
+    "es": "caliente (cosas)",
+    "en": "hot (things)",
+    "fr": "chaud (choses)",
+    "de": "heiß (Dinge)",
+    "it": "caldo (cose)",
+    "pt": "quente (coisas)",
+    "kr": {
+      "korean": "뜨거운",
+      "trans": "tteugeoun"
+    },
+    "ru": {
+      "russian": "горячий (вещи)",
+      "trans": "goryachiy (veshchi)"
+    },
+    "ch": {
+      "simplified": "热 (东西)",
+      "traditional": "熱 (東西)",
+      "pinyin": "rè (dōngxi)"
+    }
+  },
+
+  "寒い": {
+    "variants": [],
+    "romaji": "samui",
+    "onyomi": "",
+    "kunyomi": "さむ.い",
+    "es": "frío (clima)",
+    "en": "cold (weather)",
+    "fr": "froid (temps)",
+    "de": "kalt (Wetter)",
+    "it": "freddo (tempo)",
+    "pt": "frio (tempo)",
+    "kr": {
+      "korean": "추운",
+      "trans": "chuun"
+    },
+    "ru": {
+      "russian": "холодный (погода)",
+      "trans": "kholodnyy (pogoda)"
+    },
+    "ch": {
+      "simplified": "冷 (天气)",
+      "traditional": "冷 (天氣)",
+      "pinyin": "lěng (tiānqì)"
+    }
+  },
+
+  "冷たい": {
+    "variants": [],
+    "romaji": "tsumetai",
+    "onyomi": "",
+    "kunyomi": "つめ.たい, ひ.える, ひ.や, ひ.やす, ひ.やかす, さ.める, さ.ます",
+    "es": "frío (cosas)",
+    "en": "cold (things)",
+    "fr": "froid (choses)",
+    "de": "kalt (Dinge)",
+    "it": "freddo (cose)",
+    "pt": "frio (coisas)",
+    "kr": {
+      "korean": "차가운",
+      "trans": "chagaun"
+    },
+    "ru": {
+      "russian": "холодный (вещи)",
+      "trans": "kholodnyy (veshchi)"
+    },
+    "ch": {
+      "simplified": "冷 (东西)",
+      "traditional": "冷 (東西)",
+      "pinyin": "lěng (dōngxi)"
+    }
+  },
+
+  "難しい": {
+    "variants": [],
+    "romaji": "muzukashii",
+    "onyomi": "ナン",
+    "kunyomi": "むずか.しい, むづか.しい, むつか.しい, -がた.い",
+    "es": "difícil",
+    "en": "difficult",
+    "fr": "difficile",
+    "de": "schwierig",
+    "it": "difficile",
+    "pt": "difícil",
+    "kr": {
+      "korean": "어려운",
+      "trans": "eoryeoun"
+    },
+    "ru": {
+      "russian": "трудный",
+      "trans": "trudnyy"
+    },
+    "ch": {
+      "simplified": "难",
+      "traditional": "難",
+      "pinyin": "nán"
+    }
+  },
+
+  "易しい": {
+    "variants": [],
+    "romaji": "yasashii",
+    "onyomi": "エキ, イ",
+    "kunyomi": "やさ.しい, やす.い",
+    "es": "fácil",
+    "en": "easy",
+    "fr": "facile",
+    "de": "einfach",
+    "it": "facile",
+    "pt": "fácil",
+    "kr": {
+      "korean": "쉬운",
+      "trans": "swiun"
+    },
+    "ru": {
+      "russian": "лёгкий",
+      "trans": "lyogkiy"
+    },
+    "ch": {
+      "simplified": "容易",
+      "traditional": "容易",
+      "pinyin": "róngyì"
+    }
+  },
+
+  "高い": {
+    "variants": [],
+    "romaji": "takai",
+    "onyomi": "コウ",
+    "kunyomi": "たか.い, たか, -だか, たか.まる, たか.める",
+    "es": "caro, alto",
+    "en": "expensive, tall",
+    "fr": "cher, haut",
+    "de": "teuer, hoch",
+    "it": "caro, alto",
+    "pt": "caro, alto",
+    "kr": {
+      "korean": "비싼, 높은",
+      "trans": "bissan, nopeun"
+    },
+    "ru": {
+      "russian": "дорогой, высокий",
+      "trans": "dorogoy, vysokiy"
+    },
+    "ch": {
+      "simplified": "高, 贵",
+      "traditional": "高, 貴",
+      "pinyin": "gāo, guì"
+    }
+  },
+
+  "安い": {
+    "variants": [],
+    "romaji": "yasui",
+    "onyomi": "アン",
+    "kunyomi": "やす.い, やす.まる, やす, やす.らか",
+    "es": "barato",
+    "en": "cheap",
+    "fr": "bon marché",
+    "de": "billig",
+    "it": "economico",
+    "pt": "barato",
+    "kr": {
+      "korean": "싼",
+      "trans": "ssan"
+    },
+    "ru": {
+      "russian": "дешёвый",
+      "trans": "deshovyy"
+    },
+    "ch": {
+      "simplified": "便宜",
+      "traditional": "便宜",
+      "pinyin": "piányi"
+    }
+  },
+
+  "低い": {
+    "variants": [],
+    "romaji": "hikui",
+    "onyomi": "テイ",
+    "kunyomi": "ひく.い, ひく.める, ひく.まる",
+    "es": "bajo",
+    "en": "low, short (height)",
+    "fr": "bas, peu élevé",
+    "de": "niedrig",
+    "it": "basso",
+    "pt": "baixo",
+    "kr": {
+      "korean": "낮은",
+      "trans": "naj-eun"
+    },
+    "ru": {
+      "russian": "низкий",
+      "trans": "nizkiy"
+    },
+    "ch": {
+      "simplified": "低",
+      "traditional": "低",
+      "pinyin": "dī"
+    }
+  },
+
+  "面白い": {
+    "variants": [],
+    "romaji": "omoshiroi",
+    "onyomi": "",
+    "kunyomi": "おも.しろい",
+    "es": "interesante, divertido",
+    "en": "interesting, funny",
+    "fr": "intéressant, amusant",
+    "de": "interessant, lustig",
+    "it": "interessante, divertente",
+    "pt": "interessante, engraçado",
+    "kr": {
+      "korean": "재미있는",
+      "trans": "jaemiinneun"
+    },
+    "ru": {
+      "russian": "интересный, забавный",
+      "trans": "interesnyy, zabavnyy"
+    },
+    "ch": {
+      "simplified": "有趣",
+      "traditional": "有趣",
+      "pinyin": "yǒuqù"
+    }
+  },
+
+  "美味しい": {
+    "variants": ["おいしい"],
+    "romaji": "oishii",
+    "onyomi": "",
+    "kunyomi": "お.いしい, うま.い",
+    "es": "delicioso, sabroso",
+    "en": "delicious, tasty",
+    "fr": "délicieux",
+    "de": "lecker, köstlich",
+    "it": "delizioso, buono",
+    "pt": "delicioso, saboroso",
+    "kr": {
+      "korean": "맛있는",
+      "trans": "masinneun"
+    },
+    "ru": {
+      "russian": "вкусный",
+      "trans": "vkusnyy"
+    },
+    "ch": {
+      "simplified": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎochī"
+    }
+  },
+
+  "忙しい": {
+    "variants": [],
+    "romaji": "isogashii",
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "いそが.しい, せわ.しい, おそ.れる, うれえるさま",
+    "es": "ocupado",
+    "en": "busy",
+    "fr": "occupé",
+    "de": "beschäftigt",
+    "it": "occupato",
+    "pt": "ocupado",
+    "kr": {
+      "korean": "바쁜",
+      "trans": "bappeun"
+    },
+    "ru": {
+      "russian": "занятой",
+      "trans": "zanyatoy"
+    },
+    "ch": {
+      "simplified": "忙",
+      "traditional": "忙",
+      "pinyin": "máng"
+    }
+  },
+
+  "楽しい": {
+    "variants": [],
+    "romaji": "tanoshii",
+    "onyomi": "",
+    "kunyomi": "たの.しい, たの.しむ",
+    "es": "divertido, agradable",
+    "en": "fun, enjoyable",
+    "fr": "amusant, agréable",
+    "de": "lustig, angenehm",
+    "it": "divertente, piacevole",
+    "pt": "divertido, agradável",
+    "kr": {
+      "korean": "즐거운",
+      "trans": "jeulgeoun"
+    },
+    "ru": {
+      "russian": "весёлый, приятный",
+      "trans": "vesyolyy, priyatnyy"
+    },
+    "ch": {
+      "simplified": "愉快, 有趣",
+      "traditional": "愉快, 有趣",
+      "pinyin": "yúkuài, yǒuqù"
+    }
+  },
+
+  "白い": {
+    "variants": [],
+    "romaji": "shiroi",
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ, しら-, しろ.い",
+    "es": "blanco",
+    "en": "white",
+    "fr": "blanc",
+    "de": "weiß",
+    "it": "bianco",
+    "pt": "branco",
+    "kr": {
+      "korean": "하얀",
+      "trans": "hayan"
+    },
+    "ru": {
+      "russian": "белый",
+      "trans": "belyy"
+    },
+    "ch": {
+      "simplified": "白色",
+      "traditional": "白色",
+      "pinyin": "báisè"
+    }
+  },
+
+  "黒い": {
+    "variants": [],
+    "romaji": "kuroi",
+    "onyomi": "コク",
+    "kunyomi": "くろ, くろ.い",
+    "es": "negro",
+    "en": "black",
+    "fr": "noir",
+    "de": "schwarz",
+    "it": "nero",
+    "pt": "preto",
+    "kr": {
+      "korean": "검은",
+      "trans": "geomeun"
+    },
+    "ru": {
+      "russian": "чёрный",
+      "trans": "chyornyy"
+    },
+    "ch": {
+      "simplified": "黑色",
+      "traditional": "黑色",
+      "pinyin": "hēisè"
+    }
+  },
+
+  "赤い": {
+    "variants": [],
+    "romaji": "akai",
+    "onyomi": "セキ, シャク",
+    "kunyomi": "あか, あか.い, あか.らむ, あか.らめる",
+    "es": "rojo",
+    "en": "red",
+    "fr": "rouge",
+    "de": "rot",
+    "it": "rosso",
+    "pt": "vermelho",
+    "kr": {
+      "korean": "빨간",
+      "trans": "ppalgan"
+    },
+    "ru": {
+      "russian": "красный",
+      "trans": "krasnyy"
+    },
+    "ch": {
+      "simplified": "红色",
+      "traditional": "紅色",
+      "pinyin": "hóngsè"
+    }
+  },
+
+  "青い": {
+    "variants": [],
+    "romaji": "aoi",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "あお, あお-, あお.い",
+    "es": "azul",
+    "en": "blue",
+    "fr": "bleu",
+    "de": "blau",
+    "it": "blu, azzurro",
+    "pt": "azul",
+    "kr": {
+      "korean": "파란",
+      "trans": "paran"
+    },
+    "ru": {
+      "russian": "синий, голубой",
+      "trans": "siniy, goluboy"
+    },
+    "ch": {
+      "simplified": "蓝色",
+      "traditional": "藍色",
+      "pinyin": "lánsè"
+    }
+  },
+
+  "黄色い": {
+    "variants": [],
+    "romaji": "kiiroi",
+    "onyomi": "コウ, オウ",
+    "kunyomi": "き, き.いろ, き.いろい",
+    "es": "amarillo",
+    "en": "yellow",
+    "fr": "jaune",
+    "de": "gelb",
+    "it": "giallo",
+    "pt": "amarelo",
+    "kr": {
+      "korean": "노란",
+      "trans": "noran"
+    },
+    "ru": {
+      "russian": "жёлтый",
+      "trans": "zholtyy"
+    },
+    "ch": {
+      "simplified": "黄色",
+      "traditional": "黃色",
+      "pinyin": "huángsè"
+    }
+  },
+
+  "緑い": {
+    "variants": ["緑", "みどり"],
+    "romaji": "midori",
+    "onyomi": "リョク, ロク",
+    "kunyomi": "みどり",
+    "es": "verde",
+    "en": "green",
+    "fr": "vert",
+    "de": "grün",
+    "it": "verde",
+    "pt": "verde",
+    "kr": {
+      "korean": "초록색",
+      "trans": "choroksaek"
+    },
+    "ru": {
+      "russian": "зелёный",
+      "trans": "zelyonyy"
+    },
+    "ch": {
+      "simplified": "绿色",
+      "traditional": "綠色",
+      "pinyin": "lǜsè"
+    }
+  },
+
+  "茶色い": {
+    "variants": ["茶色", "ちゃいろい"],
+    "romaji": "chairoi",
+    "onyomi": "チャ",
+    "kunyomi": "ちゃ, さ",
+    "es": "marrón",
+    "en": "brown",
+    "fr": "marron",
+    "de": "braun",
+    "it": "marrone",
+    "pt": "marrom",
+    "kr": {
+      "korean": "갈색",
+      "trans": "galsaek"
+    },
+    "ru": {
+      "russian": "коричневый",
+      "trans": "korichnevyy"
+    },
+    "ch": {
+      "simplified": "棕色",
+      "traditional": "棕色",
+      "pinyin": "zōngsè"
+    }
+  },
+
+  "紫い": {
+    "variants": ["紫", "むらさき"],
+    "romaji": "murasaki",
+    "onyomi": "シ",
+    "kunyomi": "むらさき",
+    "es": "morado, púrpura",
+    "en": "purple, violet",
+    "fr": "violet",
+    "de": "lila, violett",
+    "it": "viola",
+    "pt": "roxo",
+    "kr": {
+      "korean": "보라색",
+      "trans": "borasaek"
+    },
+    "ru": {
+      "russian": "фиолетовый",
+      "trans": "fioletovyy"
+    },
+    "ch": {
+      "simplified": "紫色",
+      "traditional": "紫色",
+      "pinyin": "zǐsè"
+    }
+  },
+
+  "桜": {
+    "variants": ["さくら"],
+    "romaji": "sakura",
+    "onyomi": "オウ",
+    "kunyomi": "さくら",
+    "es": "cerezo, flor de cerezo",
+    "en": "cherry blossom",
+    "fr": "fleur de cerisier",
+    "de": "Kirschblüte",
+    "it": "fiore di ciliegio",
+    "pt": "flor de cerejeira",
+    "kr": {
+      "korean": "벚꽃",
+      "trans": "beotkkot"
+    },
+    "ru": {
+      "russian": "сакура, цветок вишни",
+      "trans": "sakura, tsvetok vishni"
+    },
+    "ch": {
+      "simplified": "樱花",
+      "traditional": "櫻花",
+      "pinyin": "yīnghuā"
+    }
+  },
+
+  "山": {
+    "variants": ["やま"],
+    "romaji": "yama",
+    "onyomi": "サン, セン",
+    "kunyomi": "やま",
+    "es": "montaña",
+    "en": "mountain",
+    "fr": "montagne",
+    "de": "Berg",
+    "it": "montagna",
+    "pt": "montanha",
+    "kr": {
+      "korean": "산",
+      "trans": "san"
+    },
+    "ru": {
+      "russian": "гора",
+      "trans": "gora"
+    },
+    "ch": {
+      "simplified": "山",
+      "traditional": "山",
+      "pinyin": "shān"
+    }
+  },
+
+  "町": {
+    "variants": ["まち"],
+    "romaji": "machi",
+    "onyomi": "チョウ",
+    "kunyomi": "まち",
+    "es": "ciudad, pueblo",
+    "en": "town, city",
+    "fr": "ville, bourg",
+    "de": "Stadt, Dorf",
+    "it": "città, paese",
+    "pt": "cidade, vila",
+    "kr": {
+      "korean": "마을, 도시",
+      "trans": "maeul, dosi"
+    },
+    "ru": {
+      "russian": "город, поселок",
+      "trans": "gorod, poselok"
+    },
+    "ch": {
+      "simplified": "町",
+      "traditional": "町",
+      "pinyin": "tǐng"
+    }
+  },
+
+  "食べ物": {
+    "variants": ["たべもの"],
+    "romaji": "tabemono",
+    "onyomi": "",
+    "kunyomi": "たべもの",
+    "es": "comida",
+    "en": "food",
+    "fr": "nourriture",
+    "de": "Essen",
+    "it": "cibo",
+    "pt": "comida",
+    "kr": {
+      "korean": "음식",
+      "trans": "eumsik"
+    },
+    "ru": {
+      "russian": "еда",
+      "trans": "yeda"
+    },
+    "ch": {
+      "simplified": "食物",
+      "traditional": "食物",
+      "pinyin": "shíwù"
+    }
+  },
+
+  "所": {
+    "variants": ["ところ"],
+    "romaji": "tokoro",
+    "onyomi": "ショ",
+    "kunyomi": "ところ, -ところ, どころ, と",
+    "es": "lugar",
+    "en": "place",
+    "fr": "endroit, lieu",
+    "de": "Ort",
+    "it": "luogo",
+    "pt": "lugar",
+    "kr": {
+      "korean": "장소",
+      "trans": "jangso"
+    },
+    "ru": {
+      "russian": "место",
+      "trans": "mesto"
+    },
+    "ch": {
+      "simplified": "地方",
+      "traditional": "地方",
+      "pinyin": "dìfāng"
+    }
+  },
+
+  "寮": {
+    "variants": ["りょう"],
+    "romaji": "ryou",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "es": "residencia (de estudiantes, empleados)",
+    "en": "dormitory, hostel",
+    "fr": "dortoir, résidence",
+    "de": "Wohnheim",
+    "it": "dormitorio, residenza",
+    "pt": "dormitório, residência",
+    "kr": {
+      "korean": "기숙사",
+      "trans": "gisuksa"
+    },
+    "ru": {
+      "russian": "общежитие",
+      "trans": "obshchezhitiye"
+    },
+    "ch": {
+      "simplified": "宿舍",
+      "traditional": "宿舍",
+      "pinyin": "sùshè"
+    }
+  },
+
+  "レストラン": {
+    "variants": [],
+    "romaji": "resutoran",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "restaurante",
+    "en": "restaurant",
+    "fr": "restaurant",
+    "de": "Restaurant",
+    "it": "ristorante",
+    "pt": "restaurante",
+    "kr": {
+      "korean": "레스토랑",
+      "trans": "reseutorang"
+    },
+    "ru": {
+      "russian": "ресторан",
+      "trans": "restoran"
+    },
+    "ch": {
+      "simplified": "餐厅",
+      "traditional": "餐廳",
+      "pinyin": "cāntīng"
+    }
+  },
+
+  "生活": {
+    "variants": ["せいかつ"],
+    "romaji": "seikatsu",
+    "onyomi": "セイ, カツ",
+    "kunyomi": "い.きる, い.かす, い.ける",
+    "es": "vida, vivir",
+    "en": "life, living",
+    "fr": "vie, existence",
+    "de": "Leben, Alltag",
+    "it": "vita, vivere",
+    "pt": "vida, viver",
+    "kr": {
+      "korean": "생활",
+      "trans": "saenghwal"
+    },
+    "ru": {
+      "russian": "жизнь, быт",
+      "trans": "zhizn', byt"
+    },
+    "ch": {
+      "simplified": "生活",
+      "traditional": "生活",
+      "pinyin": "shēnghuó"
+    }
+  },
+
+  "お仕事": {
+    "variants": ["おしごと", "仕事"],
+    "romaji": "oshigoto",
+    "onyomi": "シ, ゴト",
+    "kunyomi": "しごと",
+    "es": "trabajo (formal, de otra persona)",
+    "en": "work, job (honorific)",
+    "fr": "travail (honorifique)",
+    "de": "Arbeit (höflich, für andere)",
+    "it": "lavoro (onorifico, di altri)",
+    "pt": "trabalho (honorífico, de outra pessoa)",
+    "kr": {
+      "korean": "일 (존경)",
+      "trans": "il (jon-gyeong)"
+    },
+    "ru": {
+      "russian": "работа (вежливо, о чужой)",
+      "trans": "rabota (vezhlivo, o chuzhoy)"
+    },
+    "ch": {
+      "simplified": "工作（敬语）",
+      "traditional": "工作（敬語）",
+      "pinyin": "gōngzuò (jìngyǔ)"
+    }
+  },
+
+  "どう": {
+    "variants": [],
+    "romaji": "dou",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "cómo",
+    "en": "how",
+    "fr": "comment",
+    "de": "wie",
+    "it": "come",
+    "pt": "como",
+    "kr": {
+      "korean": "어떻게",
+      "trans": "eotteoke"
+    },
+    "ru": {
+      "russian": "как",
+      "trans": "kak"
+    },
+    "ch": {
+      "simplified": "怎样",
+      "traditional": "怎樣",
+      "pinyin": "zěnyàng"
+    }
+  },
+
+  "どんな": {
+    "variants": [],
+    "romaji": "donna",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "qué tipo de, cómo",
+    "en": "what kind of",
+    "fr": "quel genre de",
+    "de": "was für ein",
+    "it": "che tipo di",
+    "pt": "que tipo de",
+    "kr": {
+      "korean": "어떤",
+      "trans": "eotteon"
+    },
+    "ru": {
+      "russian": "какой, какого рода",
+      "trans": "kakoy, kakogo roda"
+    },
+    "ch": {
+      "simplified": "哪种, 什么样的",
+      "traditional": "哪種, 什麼樣的",
+      "pinyin": "nǎ zhǒng, shénme yàng de"
+    }
+  },
+
+  "とても": {
+    "variants": [],
+    "romaji": "totemo",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "muy",
+    "en": "very",
+    "fr": "très",
+    "de": "sehr",
+    "it": "molto",
+    "pt": "muito",
+    "kr": {
+      "korean": "매우",
+      "trans": "maeu"
+    },
+    "ru": {
+      "russian": "очень",
+      "trans": "ochen'"
+    },
+    "ch": {
+      "simplified": "非常",
+      "traditional": "非常",
+      "pinyin": "fēicháng"
+    }
+  },
+
+  "あまり": {
+    "variants": [],
+    "romaji": "amari",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "no muy (usado con negativo)",
+    "en": "not very (used with negatives)",
+    "fr": "pas très (utilisé avec négation)",
+    "de": "nicht sehr (mit Verneinung)",
+    "it": "non molto (con negazione)",
+    "pt": "não muito (usado com negação)",
+    "kr": {
+      "korean": "별로 (부정문에서)",
+      "trans": "byeollo (bujeongmuneseo)"
+    },
+    "ru": {
+      "russian": "не очень (с отрицанием)",
+      "trans": "ne ochen' (s otritsaniem)"
+    },
+    "ch": {
+      "simplified": "不太（用于否定）",
+      "traditional": "不太（用於否定）",
+      "pinyin": "bù tài (yòng yú fǒudìng)"
+    }
+  },
+
+  "そして": {
+    "variants": [],
+    "romaji": "soshite",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "y, además",
+    "en": "and, also",
+    "fr": "et, aussi",
+    "de": "und, außerdem",
+    "it": "e, inoltre",
+    "pt": "e, além disso",
+    "kr": {
+      "korean": "그리고",
+      "trans": "geurigo"
+    },
+    "ru": {
+      "russian": "и, а также",
+      "trans": "i, a takzhe"
+    },
+    "ch": {
+      "simplified": "而且, 并且",
+      "traditional": "而且, 並且",
+      "pinyin": "érqiě, bìngqiě"
     }
   }
 }

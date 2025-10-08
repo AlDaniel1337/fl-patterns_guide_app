@@ -1,9 +1,8 @@
 import 'dart:math';
 
-import 'package:flutter/material.dart';
-import 'package:patterns_guide_app/features/japones/data/particles/particles_index.dart';
-import 'package:patterns_guide_app/features/japones/domain/entities/particle.entity.dart';
-import 'package:patterns_guide_app/features/japones/presentation/details/index.dart';
+import 'package:patterns_guide_app/features/languages/japanese/data/particles/particles_index.dart';
+import 'package:patterns_guide_app/features/languages/japanese/data/topics/index.dart';
+import 'package:patterns_guide_app/features/languages/domain/entities/particle.entity.dart';
 import 'package:get/get.dart';
 
 /// JapaneseController japaneseController = Get.put(JapaneseController());
@@ -11,45 +10,52 @@ import 'package:get/get.dart';
 
 class JapaneseController extends GetxController{
 
-  var index = 0.obs;
-
-  final _lessonsElements = [
-    Deshou(), Toki(), ToInstruccion(), KuremasuMoraimasu(), Niteru(), IruEnfatizar(), Takotogaarimasu(),
-    Listados(),NdesuNandesu(), Tara(), Demo(), Itadakemasenka(), Taraiidesuka(), Shika(), Nagara(), Shishi(), 
-    Teshimaimasu(), Tearimasu(), TeokimasuTeoite(), Intenciones()
+  final lessonsElements = [
+    deshou, toki, instruccionesSi, kuremasuMoraimasu, niteru, iru, takotogaarimasu, 
+    ndesuNandesu, tara, demo, itadakemasenka, taraiidesuka, shika, nagara, shishi,
+    teshimaimasu, tearimasu, teokimasuTeoite,
+    // Deshou(), Toki(), ToInstruccion(), KuremasuMoraimasu(), Niteru(), IruEnfatizar(), Takotogaarimasu(),
+    // Listados(),NdesuNandesu(), Tara(), Demo(), Itadakemasenka(), Taraiidesuka(), Shika(), Nagara(), Shishi(), 
+    // Teshimaimasu(), Tearimasu(), TeokimasuTeoite(), Intenciones()
   ];
 
-
-  Widget getCurrentLesson() => _lessonsElements[index.value];
-  
-  getNextLesson(){
-    if(index.value < _lessonsElements.length - 1){
-      index.value++;
-    } else {
-      index.value = 0;
-    }
-  }
-  
-  getPreviousLesson(){
-    if(index.value > 0){
-      index.value--;
-    } else {
-      index.value = _lessonsElements.length - 1;
-    }
-  }
-
-  getRandomLesson(){
+  int getRandomNumber(int max) {
     final random = Random();
-    int num = random.nextInt(_lessonsElements.length);
-    index.value = num;
+    int num = random.nextInt(max);
+    return num;
   }
-  
-  // Show Particles Details
-  final _showDetails = false.obs;
-  bool get showDetails => _showDetails.value;
-  toggleDetails() => _showDetails.value = !_showDetails.value;
 
-  // Particles Section
+
+  // Widget getCurrentLesson() => _lessonsElements[index.value];
+  
+  // getNextLesson(){
+  //   if(index.value < _lessonsElements.length - 1){
+  //     index.value++;
+  //   } else {
+  //     index.value = 0;
+  //   }
+  // }
+  
+  // getPreviousLesson(){
+  //   if(index.value > 0){
+  //     index.value--;
+  //   } else {
+  //     index.value = _lessonsElements.length - 1;
+  //   }
+  // }
+
+  // getRandomLesson(){
+  //   final random = Random();
+  //   int num = random.nextInt(_lessonsElements.length);
+  //   index.value = num;
+  // }
+  
+  
+  //[===== Partículas Japonesas =====]\\
+  final _showParticleDetails = false.obs;
+  bool get showDetails => _showParticleDetails.value;
+  toggleDetails() => _showParticleDetails.value = !_showParticleDetails.value;
+  
   var particleIndex = 0.obs;
   final particlesElements = {
     // Partículas básicas

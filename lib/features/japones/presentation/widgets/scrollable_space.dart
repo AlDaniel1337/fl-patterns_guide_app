@@ -15,10 +15,11 @@ class ScrollableSpace extends StatelessWidget {
   Widget build(BuildContext context) {
     return ConstrainedBox(
       constraints: BoxConstraints(maxHeight: height),
-      child: SingleChildScrollView(
-        child: Column(
-          children: data,
-        ),
+      child: ListView.builder(
+        itemCount: data.length,
+        itemBuilder: (context, index) {
+          return data[index];
+        },
       ),
     );
   }

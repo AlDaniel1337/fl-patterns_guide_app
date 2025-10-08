@@ -8,6 +8,8 @@ class BigMenuButton extends StatelessWidget {
   final VoidCallback? onPress;
   final Color mainColor;
   final Color secondaryColor;
+  final double borderRadius;
+  final double height;
    
   const BigMenuButton({
     super.key, 
@@ -17,6 +19,8 @@ class BigMenuButton extends StatelessWidget {
     required this.onPress,
     this.mainColor = const Color.fromRGBO(19, 149, 255, 1),
     this.secondaryColor = const Color.fromRGBO(149, 207, 255, 1),
+    this.borderRadius = 20,
+    this.height = 80,
   });
   
   @override
@@ -26,15 +30,15 @@ class BigMenuButton extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 15),
       child: Material(
         child: InkWell(
-          borderRadius: BorderRadius.all(Radius.circular(20)),
+          borderRadius: BorderRadius.all(Radius.circular( borderRadius )),
           onTap: onPress,
           child: Container(
             width: double.infinity,
-            height: 80,
-            decoration: _decoration(),
+            height: height,
+            decoration: _decoration( borderRadius ),
             child: Stack(
               children: [
-                _background(),
+                _background( borderRadius ),
                 _details()
               ],
             )
@@ -77,11 +81,11 @@ class BigMenuButton extends StatelessWidget {
 
 
 
-  SizedBox _background() {
+  SizedBox _background( double borderRadius ) {
     return SizedBox(
       height: 200,
       child: ClipRRect(
-        borderRadius: BorderRadius.circular(15),
+        borderRadius: BorderRadius.circular(borderRadius),
         child: Stack(
           children: [
             Positioned(
@@ -97,9 +101,9 @@ class BigMenuButton extends StatelessWidget {
 
 
 
-  BoxDecoration _decoration() {
+  BoxDecoration _decoration( double borderRadius ) {
     return BoxDecoration(
-      borderRadius: BorderRadius.circular(15),
+      borderRadius: BorderRadius.circular(borderRadius),
       boxShadow: const [
         BoxShadow(
           color: Color.fromRGBO(0, 0, 0, 0.2),

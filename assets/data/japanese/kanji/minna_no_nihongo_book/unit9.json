@@ -1,0 +1,1223 @@
+{
+  "わかります": {
+    "variants": [""],
+    "romaji": "wakarimasu",
+    "onyomi": "",
+    "kunyomi": "わか.る",
+    "es": "entender, comprender",
+    "en": "to understand",
+    "fr": "comprendre",
+    "de": "verstehen",
+    "it": "capire",
+    "pt": "entender, compreender",
+    "kr": {
+      "korean": "이해하다",
+      "trans": "ihaehada"
+    },
+    "ru": {
+      "russian": "понимать",
+      "trans": "ponimat'"
+    },
+    "ch": {
+      "simplified": "明白",
+      "traditional": "明白",
+      "pinyin": "míngbái"
+    }
+  },
+
+  "あります": {
+    "variants": [""],
+    "romaji": "arimasu",
+    "onyomi": "",
+    "kunyomi": "あ.る",
+    "es": "haber, existir (cosas inanimadas)",
+    "en": "to be, to exist (inanimate)",
+    "fr": "être, exister (inanimé)",
+    "de": "sein, existieren (unbelebte Dinge)",
+    "it": "esserci, esistere (inanimato)",
+    "pt": "haver, existir (inanimado)",
+    "kr": {
+      "korean": "있다 (무생물)",
+      "trans": "itda (musaengmul)"
+    },
+    "ru": {
+      "russian": "быть, существовать (неодуш.)",
+      "trans": "byt', sushchestvovat' (neodush.)"
+    },
+    "ch": {
+      "simplified": "有",
+      "traditional": "有",
+      "pinyin": "yǒu"
+    }
+  },
+
+  "好き": {
+    "variants": [""],
+    "romaji": "suki",
+    "onyomi": "",
+    "kunyomi": "す.き, この.む",
+    "es": "gustar, favorito",
+    "en": "like, favorite",
+    "fr": "aimer, préféré",
+    "de": "mögen, Lieblings-",
+    "it": "piacere, preferito",
+    "pt": "gostar, favorito",
+    "kr": {
+      "korean": "좋아하다",
+      "trans": "joahada"
+    },
+    "ru": {
+      "russian": "нравиться, любимый",
+      "trans": "nravitsya, lyubimyy"
+    },
+    "ch": {
+      "simplified": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐhuan"
+    }
+  },
+
+  "嫌い": {
+    "variants": [""],
+    "romaji": "kirai",
+    "onyomi": "",
+    "kunyomi": "きら.う, きら.い",
+    "es": "odiar, detestar",
+    "en": "dislike, hate",
+    "fr": "détester, haïr",
+    "de": "hassen, nicht mögen",
+    "it": "odiare, detestare",
+    "pt": "odiar, detestar",
+    "kr": {
+      "korean": "싫어하다",
+      "trans": "silheohada"
+    },
+    "ru": {
+      "russian": "ненавидеть, не любить",
+      "trans": "nenavidet', ne lyubit'"
+    },
+    "ch": {
+      "simplified": "讨厌",
+      "traditional": "討厭",
+      "pinyin": "tǎoyàn"
+    }
+  },
+
+  "上手": {
+    "variants": [""],
+    "romaji": "jouzu",
+    "onyomi": "ジョウ, ズ",
+    "kunyomi": "うま.い, じょう.ず",
+    "es": "hábil, bueno en",
+    "en": "skillful, good at",
+    "fr": "habile, doué",
+    "de": "geschickt, gut in",
+    "it": "abile, bravo in",
+    "pt": "hábil, bom em",
+    "kr": {
+      "korean": "능숙하다",
+      "trans": "neungsukhada"
+    },
+    "ru": {
+      "russian": "умелый, хорошо (что-то делать)",
+      "trans": "umelyy, khorosho (chto-to delat')"
+    },
+    "ch": {
+      "simplified": "擅长",
+      "traditional": "擅長",
+      "pinyin": "shàncháng"
+    }
+  },
+
+  "下手": {
+    "variants": [""],
+    "romaji": "heta",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "へた, した.て",
+    "es": "torpe, malo en",
+    "en": "unskillful, bad at",
+    "fr": "maladroit, mauvais en",
+    "de": "ungeschickt, schlecht in",
+    "it": "maldestro, scarso in",
+    "pt": "desajeitado, ruim em",
+    "kr": {
+      "korean": "서투르다",
+      "trans": "seotureuda"
+    },
+    "ru": {
+      "russian": "неумелый, плохо (что-то делать)",
+      "trans": "neumelyy, plokho (chto-to delat')"
+    },
+    "ch": {
+      "simplified": "不擅长",
+      "traditional": "不擅長",
+      "pinyin": "bù shàncháng"
+    }
+  },
+
+  "飲み物": {
+    "variants": [""],
+    "romaji": "nomimono",
+    "onyomi": "イン",
+    "kunyomi": "の.む, のみもの",
+    "es": "bebida",
+    "en": "drink, beverage",
+    "fr": "boisson",
+    "de": "Getränk",
+    "it": "bevanda",
+    "pt": "bebida",
+    "kr": {
+      "korean": "음료",
+      "trans": "eumnyo"
+    },
+    "ru": {
+      "russian": "напиток",
+      "trans": "napitok"
+    },
+    "ch": {
+      "simplified": "饮料",
+      "traditional": "飲料",
+      "pinyin": "yǐnliào"
+    }
+  },
+
+  "料理": {
+    "variants": [""],
+    "romaji": "ryouri",
+    "onyomi": "リョウ, リ",
+    "kunyomi": "",
+    "es": "cocina, plato, comida",
+    "en": "cooking, dish, cuisine",
+    "fr": "cuisine, plat",
+    "de": "Küche, Gericht",
+    "it": "cucina, piatto",
+    "pt": "cozinha, prato",
+    "kr": {
+      "korean": "요리",
+      "trans": "yori"
+    },
+    "ru": {
+      "russian": "кухня, блюдо",
+      "trans": "kukhnya, blyudo"
+    },
+    "ch": {
+      "simplified": "料理",
+      "traditional": "料理",
+      "pinyin": "liàolǐ"
+    }
+  },
+
+  "スポーツ": {
+    "variants": [""],
+    "romaji": "supōtsu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "deporte",
+    "en": "sports",
+    "fr": "sport",
+    "de": "Sport",
+    "it": "sport",
+    "pt": "esporte",
+    "kr": {
+      "korean": "스포츠",
+      "trans": "seupocheu"
+    },
+    "ru": {
+      "russian": "спорт",
+      "trans": "sport"
+    },
+    "ch": {
+      "simplified": "运动",
+      "traditional": "運動",
+      "pinyin": "yùndòng"
+    }
+  },
+
+  "野球": {
+    "variants": [""],
+    "romaji": "yakyuu",
+    "onyomi": "ヤ, キュウ",
+    "kunyomi": "やきゅう",
+    "es": "béisbol",
+    "en": "baseball",
+    "fr": "base-ball",
+    "de": "Baseball",
+    "it": "baseball",
+    "pt": "beisebol",
+    "kr": {
+      "korean": "야구",
+      "trans": "yagu"
+    },
+    "ru": {
+      "russian": "бейсбол",
+      "trans": "beysbol"
+    },
+    "ch": {
+      "simplified": "棒球",
+      "traditional": "棒球",
+      "pinyin": "bàngqiú"
+    }
+  },
+
+  "ダンス": {
+    "variants": [""],
+    "romaji": "dansu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "baile, danza",
+    "en": "dance",
+    "fr": "danse",
+    "de": "Tanz",
+    "it": "danza, ballo",
+    "pt": "dança",
+    "kr": {
+      "korean": "댄스",
+      "trans": "daenseu"
+    },
+    "ru": {
+      "russian": "танец",
+      "trans": "tanets"
+    },
+    "ch": {
+      "simplified": "舞蹈",
+      "traditional": "舞蹈",
+      "pinyin": "wǔdǎo"
+    }
+  },
+
+  "旅行": {
+    "variants": [""],
+    "romaji": "ryokou",
+    "onyomi": "リョ, コウ",
+    "kunyomi": "たび",
+    "es": "viaje",
+    "en": "travel, trip",
+    "fr": "voyage",
+    "de": "Reise",
+    "it": "viaggio",
+    "pt": "viagem",
+    "kr": {
+      "korean": "여행",
+      "trans": "yeohaeng"
+    },
+    "ru": {
+      "russian": "путешествие",
+      "trans": "puteshestvie"
+    },
+    "ch": {
+      "simplified": "旅行",
+      "traditional": "旅行",
+      "pinyin": "lǚxíng"
+    }
+  },
+
+  "音楽": {
+    "variants": [""],
+    "romaji": "ongaku",
+    "onyomi": "オン, ガク",
+    "kunyomi": "",
+    "es": "música",
+    "en": "music",
+    "fr": "musique",
+    "de": "Musik",
+    "it": "musica",
+    "pt": "música",
+    "kr": {
+      "korean": "음악",
+      "trans": "eumak"
+    },
+    "ru": {
+      "russian": "музыка",
+      "trans": "muzyka"
+    },
+    "ch": {
+      "simplified": "音乐",
+      "traditional": "音樂",
+      "pinyin": "yīnyuè"
+    }
+  },
+
+  "歌": {
+    "variants": [""],
+    "romaji": "uta",
+    "onyomi": "カ",
+    "kunyomi": "うた, うた.う",
+    "es": "canción, cantar",
+    "en": "song, to sing",
+    "fr": "chanson, chanter",
+    "de": "Lied, singen",
+    "it": "canzone, cantare",
+    "pt": "canção, cantar",
+    "kr": {
+      "korean": "노래",
+      "trans": "norae"
+    },
+    "ru": {
+      "russian": "песня, петь",
+      "trans": "pesnya, pet'"
+    },
+    "ch": {
+      "simplified": "歌",
+      "traditional": "歌",
+      "pinyin": "gē"
+    }
+  },
+
+  "クラシック": {
+    "variants": [""],
+    "romaji": "kurashikku",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "música clásica",
+    "en": "classical music",
+    "fr": "musique classique",
+    "de": "klassische Musik",
+    "it": "musica classica",
+    "pt": "música clássica",
+    "kr": {
+      "korean": "클래식",
+      "trans": "keullaesik"
+    },
+    "ru": {
+      "russian": "классическая музыка",
+      "trans": "klassicheskaya muzyka"
+    },
+    "ch": {
+      "simplified": "古典音乐",
+      "traditional": "古典音樂",
+      "pinyin": "gǔdiǎn yīnyuè"
+    }
+  },
+
+  "ジャズ": {
+    "variants": [""],
+    "romaji": "jazu",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "jazz",
+    "en": "jazz",
+    "fr": "jazz",
+    "de": "Jazz",
+    "it": "jazz",
+    "pt": "jazz",
+    "kr": {
+      "korean": "재즈",
+      "trans": "jaejeu"
+    },
+    "ru": {
+      "russian": "джаз",
+      "trans": "dzhaz"
+    },
+    "ch": {
+      "simplified": "爵士乐",
+      "traditional": "爵士樂",
+      "pinyin": "juéshìyuè"
+    }
+  },
+
+  "コンサート": {
+    "variants": [""],
+    "romaji": "konsaato",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "concierto",
+    "en": "concert",
+    "fr": "concert",
+    "de": "Konzert",
+    "it": "concerto",
+    "pt": "concerto",
+    "kr": {
+      "korean": "콘서트",
+      "trans": "konseoteu"
+    },
+    "ru": {
+      "russian": "концерт",
+      "trans": "kontsert"
+    },
+    "ch": {
+      "simplified": "音乐会",
+      "traditional": "音樂會",
+      "pinyin": "yīnyuèhuì"
+    }
+  },
+
+  "カラオケ": {
+    "variants": [""],
+    "romaji": "karaoke",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "karaoke",
+    "en": "karaoke",
+    "fr": "karaoké",
+    "de": "Karaoke",
+    "it": "karaoke",
+    "pt": "karaokê",
+    "kr": {
+      "korean": "노래방",
+      "trans": "noraebang"
+    },
+    "ru": {
+      "russian": "караоке",
+      "trans": "karaoke"
+    },
+    "ch": {
+      "simplified": "卡拉OK",
+      "traditional": "卡拉OK",
+      "pinyin": "kǎlā OK"
+    }
+  },
+
+  "歌舞伎": {
+    "variants": [""],
+    "romaji": "kabuki",
+    "onyomi": "",
+    "kunyomi": "かぶき",
+    "es": "kabuki (teatro japonés)",
+    "en": "kabuki (Japanese theater)",
+    "fr": "kabuki (théâtre japonais)",
+    "de": "Kabuki (japanisches Theater)",
+    "it": "kabuki (teatro giapponese)",
+    "pt": "kabuki (teatro japonês)",
+    "kr": {
+      "korean": "가부키",
+      "trans": "gabuki"
+    },
+    "ru": {
+      "russian": "кабуки (японский театр)",
+      "trans": "kabuki (yaponskiy teatr)"
+    },
+    "ch": {
+      "simplified": "歌舞伎",
+      "traditional": "歌舞伎",
+      "pinyin": "gēwǔjì"
+    }
+  },
+
+  "絵": {
+    "variants": [""],
+    "romaji": "e",
+    "onyomi": "カイ, エ",
+    "kunyomi": "え",
+    "es": "cuadro, pintura, dibujo",
+    "en": "picture, painting, drawing",
+    "fr": "image, peinture, dessin",
+    "de": "Bild, Gemälde, Zeichnung",
+    "it": "quadro, pittura, disegno",
+    "pt": "quadro, pintura, desenho",
+    "kr": {
+      "korean": "그림",
+      "trans": "geurim"
+    },
+    "ru": {
+      "russian": "картина, рисунок",
+      "trans": "kartina, risunok"
+    },
+    "ch": {
+      "simplified": "画",
+      "traditional": "畫",
+      "pinyin": "huà"
+    }
+  },
+
+  "字": {
+    "variants": [""],
+    "romaji": "ji",
+    "onyomi": "ジ",
+    "kunyomi": "あざ",
+    "es": "carácter, letra",
+    "en": "character, letter",
+    "fr": "caractère, lettre",
+    "de": "Zeichen, Buchstabe",
+    "it": "carattere, lettera",
+    "pt": "caractere, letra",
+    "kr": {
+      "korean": "글자",
+      "trans": "geulja"
+    },
+    "ru": {
+      "russian": "иероглиф, буква",
+      "trans": "ieroglif, bukva"
+    },
+    "ch": {
+      "simplified": "字",
+      "traditional": "字",
+      "pinyin": "zì"
+    }
+  },
+
+  "漢字": {
+    "variants": [""],
+    "romaji": "kanji",
+    "onyomi": "カン, ジ",
+    "kunyomi": "",
+    "es": "kanji (carácter chino)",
+    "en": "kanji (Chinese character)",
+    "fr": "kanji (caractère chinois)",
+    "de": "Kanji (chinesisches Schriftzeichen)",
+    "it": "kanji (carattere cinese)",
+    "pt": "kanji (caractere chinês)",
+    "kr": {
+      "korean": "한자",
+      "trans": "hanja"
+    },
+    "ru": {
+      "russian": "кандзи (китайский иероглиф)",
+      "trans": "kandzi (kitayskiy ieroglif)"
+    },
+    "ch": {
+      "simplified": "汉字",
+      "traditional": "漢字",
+      "pinyin": "hànzì"
+    }
+  },
+
+  "ひらがな": {
+    "variants": [""],
+    "romaji": "hiragana",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "hiragana (silabario japonés)",
+    "en": "hiragana (Japanese syllabary)",
+    "fr": "hiragana (syllabaire japonais)",
+    "de": "Hiragana (japanische Silbenschrift)",
+    "it": "hiragana (sillabario giapponese)",
+    "pt": "hiragana (silabário japonês)",
+    "kr": {
+      "korean": "히라가나",
+      "trans": "hiragana"
+    },
+    "ru": {
+      "russian": "хирагана (японская слоговая азбука)",
+      "trans": "hiragana (yaponskaya slogovaya azbuka)"
+    },
+    "ch": {
+      "simplified": "平假名",
+      "traditional": "平假名",
+      "pinyin": "píngjiǎmíng"
+    }
+  },
+
+  "かたかな": {
+    "variants": [""],
+    "romaji": "katakana",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "katakana (silabario japonés)",
+    "en": "katakana (Japanese syllabary)",
+    "fr": "katakana (syllabaire japonais)",
+    "de": "Katakana (japanische Silbenschrift)",
+    "it": "katakana (sillabario giapponese)",
+    "pt": "katakana (silabário japonês)",
+    "kr": {
+      "korean": "가타카나",
+      "trans": "gatakana"
+    },
+    "ru": {
+      "russian": "катакана (японская слоговая азбука)",
+      "trans": "katakana (yaponskaya slogovaya azbuka)"
+    },
+    "ch": {
+      "simplified": "片假名",
+      "traditional": "片假名",
+      "pinyin": "piànjiǎmíng"
+    }
+  },
+
+  "ローマ字": {
+    "variants": [""],
+    "romaji": "rōmaji",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "rōmaji (letras latinas)",
+    "en": "romaji (Latin alphabet)",
+    "fr": "rōmaji (alphabet latin)",
+    "de": "Rōmaji (lateinische Buchstaben)",
+    "it": "rōmaji (alfabeto latino)",
+    "pt": "rōmaji (alfabeto latino)",
+    "kr": {
+      "korean": "로마자",
+      "trans": "romaja"
+    },
+    "ru": {
+      "russian": "ромадзи (латинский алфавит)",
+      "trans": "romadzi (latinskiy alfavit)"
+    },
+    "ch": {
+      "simplified": "罗马字",
+      "traditional": "羅馬字",
+      "pinyin": "luómǎzì"
+    }
+  },
+
+  "細かい お金": {
+    "variants": [""],
+    "romaji": "komakai okane",
+    "onyomi": "",
+    "kunyomi": "こま.かい, おかね",
+    "es": "cambio (dinero suelto)",
+    "en": "small change (coins)",
+    "fr": "monnaie (petite monnaie)",
+    "de": "Kleingeld",
+    "it": "spiccioli (monete)",
+    "pt": "troco (moedas)",
+    "kr": {
+      "korean": "잔돈",
+      "trans": "jandon"
+    },
+    "ru": {
+      "russian": "мелочь (деньги)",
+      "trans": "meloch' (dengi)"
+    },
+    "ch": {
+      "simplified": "零钱",
+      "traditional": "零錢",
+      "pinyin": "língqián"
+    }
+  },
+
+  "チケット": {
+    "variants": [""],
+    "romaji": "chiketto",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "boleto, entrada",
+    "en": "ticket",
+    "fr": "billet, ticket",
+    "de": "Ticket, Eintrittskarte",
+    "it": "biglietto",
+    "pt": "bilhete, ingresso",
+    "kr": {
+      "korean": "티켓",
+      "trans": "tiket"
+    },
+    "ru": {
+      "russian": "билет",
+      "trans": "bilet"
+    },
+    "ch": {
+      "simplified": "票",
+      "traditional": "票",
+      "pinyin": "piào"
+    }
+  },
+
+  "時間": {
+    "variants": [""],
+    "romaji": "jikan",
+    "onyomi": "ジ, カン",
+    "kunyomi": "とき",
+    "es": "tiempo, hora",
+    "en": "time, hour",
+    "fr": "temps, heure",
+    "de": "Zeit, Stunde",
+    "it": "tempo, ora",
+    "pt": "tempo, hora",
+    "kr": {
+      "korean": "시간",
+      "trans": "sigan"
+    },
+    "ru": {
+      "russian": "время, час",
+      "trans": "vremya, chas"
+    },
+    "ch": {
+      "simplified": "时间",
+      "traditional": "時間",
+      "pinyin": "shíjiān"
+    }
+  },
+
+  "用事": {
+    "variants": [""],
+    "romaji": "youji",
+    "onyomi": "ヨウ, ジ",
+    "kunyomi": "",
+    "es": "asunto, compromiso",
+    "en": "errand, business, engagement",
+    "fr": "affaire, occupation",
+    "de": "Angelegenheit, Erledigung",
+    "it": "impegno, faccenda",
+    "pt": "compromisso, tarefa",
+    "kr": {
+      "korean": "용무",
+      "trans": "yongmu"
+    },
+    "ru": {
+      "russian": "дело, занятие",
+      "trans": "delo, zanyatie"
+    },
+    "ch": {
+      "simplified": "事情",
+      "traditional": "事情",
+      "pinyin": "shìqing"
+    }
+  },
+
+  "約束": {
+    "variants": [""],
+    "romaji": "yakusoku",
+    "onyomi": "ヤク, ソク",
+    "kunyomi": "",
+    "es": "promesa, cita, acuerdo",
+    "en": "promise, appointment, agreement",
+    "fr": "promesse, rendez-vous",
+    "de": "Versprechen, Verabredung",
+    "it": "promessa, appuntamento",
+    "pt": "promessa, compromisso",
+    "kr": {
+      "korean": "약속",
+      "trans": "yaksok"
+    },
+    "ru": {
+      "russian": "обещание, договоренность",
+      "trans": "obeshchanie, dogovorennost'"
+    },
+    "ch": {
+      "simplified": "约定",
+      "traditional": "約束",
+      "pinyin": "yuēdìng"
+    }
+  },
+
+  "アルバイト": {
+    "variants": [""],
+    "romaji": "arubaito",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "trabajo a tiempo parcial",
+    "en": "part-time job",
+    "fr": "petit boulot, travail à temps partiel",
+    "de": "Nebenjob, Teilzeitarbeit",
+    "it": "lavoro part-time",
+    "pt": "trabalho de meio período",
+    "kr": {
+      "korean": "아르바이트",
+      "trans": "areubaiteu"
+    },
+    "ru": {
+      "russian": "подработка",
+      "trans": "podrabotka"
+    },
+    "ch": {
+      "simplified": "兼职",
+      "traditional": "兼職",
+      "pinyin": "jiānzhí"
+    }
+  },
+
+  "ご主人": {
+    "variants": [""],
+    "romaji": "goshujin",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "esposo (de otra persona)",
+    "en": "husband (someone else's)",
+    "fr": "mari (de quelqu'un d'autre)",
+    "de": "Ehemann (von jemand anderem)",
+    "it": "marito (di un'altra persona)",
+    "pt": "marido (de outra pessoa)",
+    "kr": {
+      "korean": "남편 (남의)",
+      "trans": "nampyeon (namui)"
+    },
+    "ru": {
+      "russian": "муж (чужой)",
+      "trans": "muzh (chuzhoy)"
+    },
+    "ch": {
+      "simplified": "（他人的）丈夫",
+      "traditional": "（他人的）丈夫",
+      "pinyin": "zhàngfu (tārén de)"
+    }
+  },
+
+  "夫": {
+    "variants": [""],
+    "romaji": "otto",
+    "onyomi": "フ, フウ",
+    "kunyomi": "おっと",
+    "es": "esposo (propio)",
+    "en": "husband (one's own)",
+    "fr": "mari (le sien)",
+    "de": "Ehemann (eigener)",
+    "it": "marito (proprio)",
+    "pt": "marido (próprio)",
+    "kr": {
+      "korean": "남편 (자신의)",
+      "trans": "nampyeon (jasinui)"
+    },
+    "ru": {
+      "russian": "муж (свой)",
+      "trans": "muzh (svoy)"
+    },
+    "ch": {
+      "simplified": "丈夫（自己的）",
+      "traditional": "丈夫（自己的）",
+      "pinyin": "zhàngfu (zìjǐ de)"
+    }
+  },
+
+  "主人": {
+    "variants": [""],
+    "romaji": "shujin",
+    "onyomi": "シュ, シュウ",
+    "kunyomi": "ぬし, おも",
+    "es": "esposo (propio), dueño",
+    "en": "husband (one's own), master",
+    "fr": "mari (le sien), maître",
+    "de": "Ehemann (eigener), Herr",
+    "it": "marito (proprio), padrone",
+    "pt": "marido (próprio), dono",
+    "kr": {
+      "korean": "남편 (자신의), 주인",
+      "trans": "nampyeon (jasinui), juin"
+    },
+    "ru": {
+      "russian": "муж (свой), хозяин",
+      "trans": "muzh (svoy), khozyain"
+    },
+    "ch": {
+      "simplified": "主人",
+      "traditional": "主人",
+      "pinyin": "zhǔrén"
+    }
+  },
+
+  "奥さん": {
+    "variants": [""],
+    "romaji": "okusan",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "esposa (de otra persona)",
+    "en": "wife (someone else's)",
+    "fr": "femme (de quelqu'un d'autre)",
+    "de": "Ehefrau (von jemand anderem)",
+    "it": "moglie (di un'altra persona)",
+    "pt": "esposa (de outra pessoa)",
+    "kr": {
+      "korean": "아내 (남의)",
+      "trans": "anae (namui)"
+    },
+    "ru": {
+      "russian": "жена (чужая)",
+      "trans": "zhena (chuzhaya)"
+    },
+    "ch": {
+      "simplified": "（他人的）妻子",
+      "traditional": "（他人的）妻子",
+      "pinyin": "qīzi (tārén de)"
+    }
+  },
+
+  "妻": {
+    "variants": [""],
+    "romaji": "tsuma",
+    "onyomi": "サイ",
+    "kunyomi": "つま",
+    "es": "esposa (propia)",
+    "en": "wife (one's own)",
+    "fr": "femme (la sienne)",
+    "de": "Ehefrau (eigene)",
+    "it": "moglie (propria)",
+    "pt": "esposa (própria)",
+    "kr": {
+      "korean": "아내 (자신의)",
+      "trans": "anae (jasinui)"
+    },
+    "ru": {
+      "russian": "жена (своя)",
+      "trans": "zhena (svoya)"
+    },
+    "ch": {
+      "simplified": "妻子（自己的）",
+      "traditional": "妻子（自己的）",
+      "pinyin": "qīzi (zìjǐ de)"
+    }
+  },
+
+  "家内": {
+    "variants": [""],
+    "romaji": "kanai",
+    "onyomi": "",
+    "kunyomi": "かない",
+    "es": "esposa (propia, humilde)",
+    "en": "wife (one's own, humble)",
+    "fr": "femme (la sienne, humble)",
+    "de": "Ehefrau (eigene, bescheiden)",
+    "it": "moglie (propria, umile)",
+    "pt": "esposa (própria, humilde)",
+    "kr": {
+      "korean": "아내 (자신의, 겸손)",
+      "trans": "anae (jasinui, gyeomson)"
+    },
+    "ru": {
+      "russian": "жена (своя, скромно)",
+      "trans": "zhena (svoya, skromno)"
+    },
+    "ch": {
+      "simplified": "家内（自己的，谦逊）",
+      "traditional": "家內（自己的，謙遜）",
+      "pinyin": "jiānèi (zìjǐ de, qiānxùn)"
+    }
+  },
+
+  "子供": {
+    "variants": [""],
+    "romaji": "kodomo",
+    "onyomi": "シ",
+    "kunyomi": "こ, こども",
+    "es": "niño, hijo",
+    "en": "child, children",
+    "fr": "enfant",
+    "de": "Kind, Kinder",
+    "it": "bambino, figli",
+    "pt": "criança, filho",
+    "kr": {
+      "korean": "아이, 자식",
+      "trans": "ai, jasik"
+    },
+    "ru": {
+      "russian": "ребёнок, дети",
+      "trans": "rebyonok, deti"
+    },
+    "ch": {
+      "simplified": "孩子",
+      "traditional": "孩子",
+      "pinyin": "háizi"
+    }
+  },
+
+  "よく": {
+    "variants": [""],
+    "romaji": "yoku",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "a menudo, bien",
+    "en": "often, well",
+    "fr": "souvent, bien",
+    "de": "oft, gut",
+    "it": "spesso, bene",
+    "pt": "frequentemente, bem",
+    "kr": {
+      "korean": "자주, 잘",
+      "trans": "jaju, jal"
+    },
+    "ru": {
+      "russian": "часто, хорошо",
+      "trans": "chasto, khorosho"
+    },
+    "ch": {
+      "simplified": "经常, 很好",
+      "traditional": "經常, 很好",
+      "pinyin": "jīngcháng, hěn hǎo"
+    }
+  },
+
+  "だいたい": {
+    "variants": [""],
+    "romaji": "daitai",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "aproximadamente, en general",
+    "en": "approximately, generally",
+    "fr": "environ, généralement",
+    "de": "ungefähr, im Allgemeinen",
+    "it": "circa, generalmente",
+    "pt": "aproximadamente, geralmente",
+    "kr": {
+      "korean": "대체로, 대략",
+      "trans": "daechero, daeryak"
+    },
+    "ru": {
+      "russian": "примерно, в основном",
+      "trans": "primerno, v osnovnom"
+    },
+    "ch": {
+      "simplified": "大致, 大概",
+      "traditional": "大致, 大概",
+      "pinyin": "dàzhì, dàgài"
+    }
+  },
+
+  "たくさん": {
+    "variants": [""],
+    "romaji": "takusan",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "mucho, muchos",
+    "en": "many, a lot",
+    "fr": "beaucoup",
+    "de": "viel, viele",
+    "it": "molto, molti",
+    "pt": "muito, muitos",
+    "kr": {
+      "korean": "많이",
+      "trans": "mani"
+    },
+    "ru": {
+      "russian": "много",
+      "trans": "mnogo"
+    },
+    "ch": {
+      "simplified": "很多",
+      "traditional": "很多",
+      "pinyin": "hěn duō"
+    }
+  },
+
+  "少し": {
+    "variants": [""],
+    "romaji": "sukoshi",
+    "onyomi": "ショウ",
+    "kunyomi": "すこ.し, すく.ない",
+    "es": "un poco, poco",
+    "en": "a little, few",
+    "fr": "un peu",
+    "de": "ein wenig, wenig",
+    "it": "un po', poco",
+    "pt": "um pouco, pouco",
+    "kr": {
+      "korean": "조금",
+      "trans": "jogeum"
+    },
+    "ru": {
+      "russian": "немного, мало",
+      "trans": "nemnogo, malo"
+    },
+    "ch": {
+      "simplified": "一点, 少",
+      "traditional": "一點, 少",
+      "pinyin": "yīdiǎn, shǎo"
+    }
+  },
+
+  "全然": {
+    "variants": [""],
+    "romaji": "zenzen",
+    "onyomi": "ゼン",
+    "kunyomi": "",
+    "es": "nada, en absoluto (usado con negación)",
+    "en": "not at all (with negatives)",
+    "fr": "pas du tout (avec négation)",
+    "de": "überhaupt nicht (mit Verneinung)",
+    "it": "per niente (con negazione)",
+    "pt": "nada, de jeito nenhum (com negação)",
+    "kr": {
+      "korean": "전혀 (부정문에서)",
+      "trans": "jeonhyeo (bujeongmuneseo)"
+    },
+    "ru": {
+      "russian": "совсем не (с отрицанием)",
+      "trans": "sovsem ne (s otritsaniem)"
+    },
+    "ch": {
+      "simplified": "完全不 (用于否定)",
+      "traditional": "完全不 (用於否定)",
+      "pinyin": "wánquán bù (yòng yú fǒudìng)"
+    }
+  },
+
+  "早く": {
+    "variants": [""],
+    "romaji": "hayaku",
+    "onyomi": "ソウ",
+    "kunyomi": "はや.い, はや.く",
+    "es": "temprano, rápido (temporalmente)",
+    "en": "early, quickly (in time)",
+    "fr": "tôt, rapidement (dans le temps)",
+    "de": "früh, schnell (zeitlich)",
+    "it": "presto, velocemente (nel tempo)",
+    "pt": "cedo, rapidamente (no tempo)",
+    "kr": {
+      "korean": "일찍, 빨리",
+      "trans": "iljjik, ppalli"
+    },
+    "ru": {
+      "russian": "рано, быстро (по времени)",
+      "trans": "rano, bystro (po vremeni)"
+    },
+    "ch": {
+      "simplified": "早, 快 (时间上)",
+      "traditional": "早, 快 (時間上)",
+      "pinyin": "zǎo, kuài (shíjiān shàng)"
+    }
+  },
+
+  "速く": {
+    "variants": [""],
+    "romaji": "hayaku",
+    "onyomi": "ソク",
+    "kunyomi": "はや.い, はや.く",
+    "es": "rápido (velocidad)",
+    "en": "quickly, fast (speed)",
+    "fr": "vite, rapidement (vitesse)",
+    "de": "schnell (Geschwindigkeit)",
+    "it": "velocemente (velocità)",
+    "pt": "rapidamente (velocidade)",
+    "kr": {
+      "korean": "빠르게",
+      "trans": "ppareuge"
+    },
+    "ru": {
+      "russian": "быстро (скорость)",
+      "trans": "bystro (skorost')"
+    },
+    "ch": {
+      "simplified": "快 (速度)",
+      "traditional": "快 (速度)",
+      "pinyin": "kuài (sùdù)"
+    }
+  },
+
+  "どうして": {
+    "variants": [""],
+    "romaji": "doushite",
+    "onyomi": "",
+    "kunyomi": "",
+    "es": "por qué",
+    "en": "why",
+    "fr": "pourquoi",
+    "de": "warum",
+    "it": "perché",
+    "pt": "por que",
+    "kr": {
+      "korean": "왜",
+      "trans": "wae"
+    },
+    "ru": {
+      "russian": "почему",
+      "trans": "pochemu"
+    },
+    "ch": {
+      "simplified": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèishénme"
+    }
+  },
+
+  "残念": {
+    "variants": [""],
+    "romaji": "zannen",
+    "onyomi": "ザン, ネン",
+    "kunyomi": "",
+    "es": "lamentable, qué pena",
+    "en": "regrettable, what a pity",
+    "fr": "regrettable, dommage",
+    "de": "bedauerlich, schade",
+    "it": "peccato, che peccato",
+    "pt": "lamentável, que pena",
+    "kr": {
+      "korean": "유감, 아쉽다",
+      "trans": "yugam, aswipda"
+    },
+    "ru": {
+      "russian": "жаль, досадно",
+      "trans": "zhal', dosadno"
+    },
+    "ch": {
+      "simplified": "遗憾, 可惜",
+      "traditional": "遺憾, 可惜",
+      "pinyin": "yíhàn, kěxī"
+    }
+  }
+}
