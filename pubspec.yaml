@@ -72,6 +72,13 @@ flutter:
     - assets/patterns/05_Singleton/
     - assets/patterns/06_Adapter/
     - assets/patterns/07_Bridge/
+    - assets/patterns/08_Composite/
+    - assets/patterns/09_Decorator/
+    - assets/patterns/10_Facade/
+    - assets/patterns/11_Flyweight/
+    - assets/patterns/12_Proxy/
+    - assets/patterns/13_Strategy/
+    - assets/patterns/14_Observer/
 
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
