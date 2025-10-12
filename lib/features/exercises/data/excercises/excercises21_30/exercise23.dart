@@ -22,5 +22,17 @@ String _tip = """
 
 String _solution = """
 ```py
+def compareArrays( array1, array2, lookForSame ):
+    
+  answer = [[]]
+  
+  if(lookForSame):
+    for chara in array1:
+      if(chara in array2): answer.append(chara)
+    return answer
+  
+  for chara in array1:
+    if(chara not in array2): answer.append(chara)
+  return answer
 ```
 """;

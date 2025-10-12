@@ -21,5 +21,21 @@ String _tip = """
 
 String _solution = """
 ```py
+def robot( text ):
+  vowels = {
+    'a':0, 'e':0, 'i':0, 'o':0, 'u':0
+  }
+  
+  for character in text:
+      
+    character = character.lower()
+    
+    if( character in vowels ):
+      vowels[character] += 1
+
+  max_vowel = max(vowels, key=vowels.get)
+  if vowels[max_vowel] == 0:
+    return ""
+  return max_vowel
 ```
 """;

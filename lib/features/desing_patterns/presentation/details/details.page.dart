@@ -18,7 +18,7 @@ class DesingPatternsDetailsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    DesingPattern selectedPattern = observerPattern;
+    DesingPattern selectedPattern = mementoPattern;
 
     return Scaffold(
    

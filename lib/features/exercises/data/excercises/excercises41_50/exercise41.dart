@@ -15,7 +15,7 @@ String _tip = """
 * El "Triángulo de Pascal" es una estructura triangular donde cada número es la suma de los dos números directamente encima de él.
 * Puedes utilizar listas anidadas para representar el triángulo y bucles para llenarlo.
 
-![](resource:assets/PascalTriangleAnimated2.gif)
+![](assets/ejercicios/PascalTriangleAnimated2.gif)
 """;
 
 String _solution = """
