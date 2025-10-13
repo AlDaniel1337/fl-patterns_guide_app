@@ -7,6 +7,7 @@ class DesingPattern {
   final String whereToUse;
   final List<String> exampleSteps;
   final IconData? icon;
+  final String? imageUrl;
 
   DesingPattern({
     required this.name, 
@@ -14,6 +15,7 @@ class DesingPattern {
     required this.description,
     required this.whereToUse,
     required this.exampleSteps,
+    this.imageUrl,
     this.icon,
   });
 }

@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:patterns_guide_app/features/desing_patterns/controller/desing_patterns.controller.dart';
-import 'package:patterns_guide_app/features/desing_patterns/data/data.index.dart';
 import 'package:patterns_guide_app/features/desing_patterns/domain/entities/desing_pattern.entity.dart';
 import 'package:patterns_guide_app/features/desing_patterns/presentation/details/components/pattern_description.dart';
-import 'package:patterns_guide_app/features/desing_patterns/presentation/details/components/pattern_small_description.dart';
 import 'package:patterns_guide_app/widgets/custom_text_button.dart';
 
 DesingPattersController desingPattersController = Get.put(DesingPattersController());
@@ -18,7 +16,7 @@ class DesingPatternsDetailsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    DesingPattern selectedPattern = mementoPattern;
+    DesingPattern selectedPattern = desingPattersController.selectedPattern;
 
     return Scaffold(
    
@@ -32,12 +30,9 @@ class DesingPatternsDetailsPage extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            
-            PatternSmallDescription( description: selectedPattern.smallDescription ),
-            const SizedBox(height: 20),
-            
+                        
             _Menu(),
-            const SizedBox(height: 30),
+            const SizedBox(height: 20),
 
             Obx(() {
               if( desingPattersController.showPurpose ) {

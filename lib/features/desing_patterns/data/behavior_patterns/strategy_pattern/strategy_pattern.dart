@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:patterns_guide_app/features/desing_patterns/domain/entities/desing_pattern.entity.dart';
 import '../observer_pattern/steps/steps.index.dart';
 
@@ -8,7 +7,7 @@ DesingPattern strategyPattern = DesingPattern(
   description: _descriptionPattern,
   whereToUse: _whenToUse,
   exampleSteps: _steps,
-  icon: Icons.build,
+  imageUrl: "assets/patterns/13_Strategy/strategy-mini.png",
 );
 
 

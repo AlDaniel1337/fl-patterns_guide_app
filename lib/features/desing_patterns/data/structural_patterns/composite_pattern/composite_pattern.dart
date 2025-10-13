@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:patterns_guide_app/features/desing_patterns/domain/entities/desing_pattern.entity.dart';
 import 'steps/steps.index.dart';
 
@@ -8,7 +7,7 @@ DesingPattern compositePattern = DesingPattern(
   description: _descriptionPattern,
   whereToUse: _whenToUse,
   exampleSteps: _steps,
-  icon: Icons.account_tree,
+  imageUrl: "assets/patterns/08_Composite/composite-mini.png",
 );
 
 

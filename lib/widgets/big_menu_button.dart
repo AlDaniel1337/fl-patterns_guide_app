@@ -5,6 +5,7 @@ class BigMenuButton extends StatelessWidget {
   final String title;
   final String subtitle;
   final IconData icon;
+  final String? imageUrl;
   final VoidCallback? onPress;
   final Color mainColor;
   final Color secondaryColor;
@@ -21,6 +22,7 @@ class BigMenuButton extends StatelessWidget {
     this.secondaryColor = const Color.fromRGBO(149, 207, 255, 1),
     this.borderRadius = 20,
     this.height = 80,
+    this.imageUrl,
   });
   
   @override
@@ -38,8 +40,7 @@ class BigMenuButton extends StatelessWidget {
             decoration: _decoration( borderRadius ),
             child: Stack(
               children: [
-                _background( borderRadius ),
-                _details()
+                _details( imageUrl )
               ],
             )
           ),
@@ -51,53 +52,34 @@ class BigMenuButton extends StatelessWidget {
 
 
 
-  Row _details() {
+  Row _details( String? imageUrl ) {
     return Row(
           children: [
             const SizedBox(width: 20),
-            Icon( icon, size: 50, color: Colors.white ),
+            if(imageUrl != null)
+            Image.asset( imageUrl, width: 130, height: 130, fit: BoxFit.contain ),
 
             const SizedBox(width: 20),
             Expanded(
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text( title, style: const TextStyle( fontSize: 20, fontWeight: FontWeight.bold, color: Colors.white)),
-                  const SizedBox(height: 5),
-                  Text(subtitle, style: const TextStyle( color: Colors.white) ),
-                ],
+              child: Padding(
+                padding: const EdgeInsets.symmetric( horizontal: 8.0 ),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text( title, style: const TextStyle( fontSize: 20, fontWeight: FontWeight.bold, color: Colors.white)),
+                    const SizedBox(height: 5),
+                    Text(subtitle, style: const TextStyle( color: Colors.white) ),
+                  ],
+                ),
               ),
             ),
-            
-            IconButton(
-              icon: const Icon( Icons.arrow_forward_ios_rounded, color: Colors.white ),
-              onPressed: onPress,
-            ),
-            const SizedBox(width: 10),
           ],
         );
   }
 
 
 
-  SizedBox _background( double borderRadius ) {
-    return SizedBox(
-      height: 200,
-      child: ClipRRect(
-        borderRadius: BorderRadius.circular(borderRadius),
-        child: Stack(
-          children: [
-            Positioned(
-              right: -20,
-              top: -20,
-              child: Icon(  icon, size: 130, color: const Color.fromRGBO(255, 255, 255, 0.2) ),
-            )
-          ],
-        ),
-      )
-    );
-  }
 
 
 

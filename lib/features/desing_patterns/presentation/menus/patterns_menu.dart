@@ -24,16 +24,19 @@ class PatternsMenu extends StatelessWidget {
         padding: const EdgeInsets.all(16),
         children: [
 
-          ..._desingPattersController.creationalPatterns.map((pattern) => 
+          ..._desingPattersController.patterns.map((pattern) => 
             BigMenuButton(
               title: pattern.name, 
               subtitle: pattern.smallDescription,
               icon: pattern.icon ?? Icons.extension,
-              onPress: (){},
+              onPress: (){
+                _desingPattersController.showSelectedPattern(pattern);
+              },
               mainColor: Colors.grey.shade900,
               secondaryColor: Colors.grey.shade600,
               borderRadius: 8,
-              height: 100,
+              height: 120,
+              imageUrl: pattern.imageUrl,
             )
           )
         ],
