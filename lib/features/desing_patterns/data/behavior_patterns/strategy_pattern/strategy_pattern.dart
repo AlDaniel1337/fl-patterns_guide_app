@@ -6,6 +6,7 @@ DesingPattern strategyPattern = DesingPattern(
   smallDescription: "Permite definir una familia de algoritmos, encapsular cada uno y hacerlos intercambiables.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/13_Strategy/strategy-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * **Sobrecarga de Implementación**: El cliente debe estar al tanto de las diferentes estrategias disponibles para poder elegir la adecuada, o la Contexto debe elegir la estrategia por el cliente.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando un sistema de **pago** para una tienda en línea. El proceso de pago (`checkout`) es constante, pero el método de pago puede ser `Tarjeta de Crédito`, `PayPal` o `Transferencia Bancaria`.
 
@@ -53,7 +52,9 @@ El cliente solo necesita establecer la estrategia y luego ejecutar la acción:
 * `carrito.checkout(150.00)`
 
 La clase `ShoppingCart` delega la llamada a la estrategia actual, sin importarle la implementación específica.
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando una clase tiene que elegir entre múltiples variantes de un algoritmo relacionado, y deseas cambiar esa elección en tiempo de ejecución.
 * Cuando deseas aislar la lógica de negocios (los diferentes algoritmos) de la clase que los utiliza, protegiendo el código cliente de los cambios en los algoritmos.

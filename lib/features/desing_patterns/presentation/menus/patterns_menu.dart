@@ -28,14 +28,14 @@ class PatternsMenu extends StatelessWidget {
             BigMenuButton(
               title: pattern.name, 
               subtitle: pattern.smallDescription,
-              icon: pattern.icon ?? Icons.extension,
+              icon: pattern.imageUrl == null ? Icons.extension : null,
               onPress: (){
                 _desingPattersController.showSelectedPattern(pattern);
               },
               mainColor: Colors.grey.shade900,
               secondaryColor: Colors.grey.shade600,
               borderRadius: 8,
-              height: 120,
+              height: 150,
               imageUrl: pattern.imageUrl,
             )
           )

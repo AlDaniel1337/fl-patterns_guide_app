@@ -6,6 +6,7 @@ DesingPattern flyweightPattern = DesingPattern(
   smallDescription: "Optimiza el uso de memoria al compartir objetos similares.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/11_Flyweight/flyweight-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * **Mayor Esfuerzo de Programación**: Requiere un diseño cuidadoso para identificar y extraer correctamente el estado intrínseco y garantizar que el estado extrínseco se pase correctamente al objeto Flyweight cuando sea necesario.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando un **editor de texto** avanzado donde cada carácter en la pantalla es un objeto. 
 * Si el documento tiene 100,000 caracteres, crear 100,000 objetos completos (con posición, color, fuente, y el valor del carácter) es ineficiente.
@@ -50,7 +49,9 @@ Imagina que estás desarrollando un **editor de texto** avanzado donde cada car�
 * **Estado Extrínseco (Único)**: La posición (fila, columna), el color o el tamaño de fuente. Estos datos son únicos para cada ubicación y deben pasarse al método del Flyweight desde el código cliente.
 
 Así, si la letra 'E' aparece 5,000 veces, solo se crea un único objeto Flyweight para 'E', y el programa simplemente le pasa las 5,000 coordenadas únicas cuando necesita dibujarlo
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando la aplicación necesita manejar un **gran número de objetos** (cientos o miles).
 * Cuando el **costo de memoria** total para almacenar todas esas instancias es inaceptablemente alto.

@@ -6,6 +6,7 @@ DesingPattern mediatorPattern = DesingPattern(
   smallDescription: "Define un objeto que encapsula cómo interactúan un conjunto de objetos. Promueve el desacoplamiento al evitar que los objetos se refieran entre sí explícitamente.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/19_Mediator/mediator-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * **Rendimiento**: En sistemas con comunicaciones extremadamente frecuentes, la capa de indirección introducida por el Mediador podría añadir una pequeña sobrecarga de rendimiento, aunque esto es generalmente insignificante.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina un sistema de **chat de grupo** donde varios usuarios (`User` o Colegas) interactúan entre sí. Sin un Mediador, cada usuario necesitaría tener una referencia a todos los demás usuarios para enviarles mensajes.
 
@@ -50,7 +49,9 @@ Imagina un sistema de **chat de grupo** donde varios usuarios (`User` o Colegas)
 * Colegas Concretos: Clases como `ChatUser`. Cuando un `ChatUser` quiere enviar un mensaje, simplemente lo envía a su Mediador: `mediator.sendMessage("Hola a todos", this)`.
 
 La clase `ChatUser` no tiene idea de cuántos otros usuarios hay, ni de cómo se maneja la difusión del mensaje; solo sabe que debe hablar con el `GroupChat` (el Mediador).
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando un conjunto de objetos se comunica de forma compleja, pero bien definida, y **las dependencias resultantes son difíciles de manejar** y modificar.
 * Cuando quieres **reutilizar un Colega** sin tener que crear subclases para adaptarlo a nuevas interacciones con otros objetos.

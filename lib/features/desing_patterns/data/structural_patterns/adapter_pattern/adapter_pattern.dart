@@ -6,6 +6,7 @@ DesingPattern adapterPattern = DesingPattern(
   smallDescription: "Permite que clases con interfaces incompatibles trabajen juntas.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/06_Adapter/adapter-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * Sobrecarga de Llamadas: La capa adicional del adaptador puede, en teoría, añadir una mínima sobrecarga de rendimiento al redirigir las llamadas.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando una aplicación de procesamiento de imágenes que solo puede manejar archivos en formato JPG a través de una interfaz ImageProcessor. 
 Un nuevo requisito es que la aplicación debe ser capaz de procesar imágenes PNG utilizando una biblioteca de terceros (PNGTool) que tiene un método llamado drawRaster(), mientras que tu interfaz espera un método llamado processImage().
@@ -49,8 +48,9 @@ Un nuevo requisito es que la aplicación debe ser capaz de procesar imágenes PN
 * Cuando el cliente llama a PNGAdapter.processImage(), el adaptador traduce esa llamada a PNGTool.drawRaster().
 
 De esta forma, la aplicación principal puede seguir utilizando la interfaz ImageProcessor para todos los formatos, y la nueva biblioteca PNG encaja perfectamente.
+""";
 
-# Cuándo usar
+String _whenToUse = """# Cuándo usar
 * Cuando quieres usar una clase existente y su interfaz no coincide con la que el resto de la aplicación espera.
 * Cuando quieres crear una clase reutilizable que coopere con clases no relacionadas o imprevistas.
 * Cuando estás integrando una biblioteca externa o un sistema heredado (legacy code) que tiene una interfaz fija e inmodificable.

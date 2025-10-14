@@ -6,6 +6,7 @@ DesingPattern prototypePattern = DesingPattern(
   smallDescription: "Crear objetos a partir de un prototipo.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/04_Prototype/prototype-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * Ciclos de Referencia: Si el objeto tiene referencias circulares a otros objetos, el proceso de clonación profunda puede volverse muy complejo o incluso imposible de manejar correctamente.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando un juego donde necesitas crear muchos monstruos o personajes con atributos iniciales idénticos (ej. un ejército de orcos). 
 * Instanciar miles de orcos con new Orc() y luego configurar sus 10 atributos uno por uno es ineficiente y tedioso.
@@ -51,7 +50,9 @@ El patrón Prototype te permite:
 * Opcionalmente, solo modificas los atributos específicos que deben ser diferentes en la copia (ej: nuevoOrco.setName("Grunt")).
 
 Esto es mucho más rápido y limpio que la creación repetida.
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando la creación de un objeto es costosa (por ejemplo, requiere una conexión a base de datos, lectura de archivos grandes, etc.) y necesitas muchas instancias similares.
 * Cuando deseas desacoplar el código de la creación de objetos de las clases concretas de los productos (creando objetos por clonación en lugar de instanciación).

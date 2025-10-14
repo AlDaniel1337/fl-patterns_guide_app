@@ -6,6 +6,7 @@ DesingPattern bridgePattern = DesingPattern(
   smallDescription: "Desacopla una interfaz de su implementación.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/07_Bridge/bridge-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * Adecuación: Solo es útil en situaciones donde realmente necesitas separar una abstracción de sus posibles implementaciones; no es adecuado para clases simples. 
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás diseñando un sistema de control remoto para varios dispositivos electrónicos (TV, Radio). Tienes dos dimensiones que varían:
 
@@ -50,8 +49,9 @@ Imagina que estás diseñando un sistema de control remoto para varios dispositi
 * La Abstracción (el control) contiene una referencia a la Implementación (el dispositivo), actuando como el "puente".
 
 Esto evita crear clases como ControlSimpleTV y ControlSimpleRadio, y en su lugar, el ControlSimple solo delega sus llamadas al objeto de dispositivo subyacente.
+""";
 
-# Cuándo usar
+String _whenToUse = """# Cuándo usar
 * Cuando quieres evitar el acoplamiento permanente entre una abstracción y su implementación, y quieres que ambas puedan ser seleccionadas o cambiadas en tiempo de ejecución.
 * Cuando ambas jerarquías (Abstracción e Implementación) deben poder extenderse de forma independiente.
 * Para gestionar combinaciones complejas de clases, previniendo una explosión exponencial de clases.

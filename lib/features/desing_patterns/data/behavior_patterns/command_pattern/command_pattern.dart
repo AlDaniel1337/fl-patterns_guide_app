@@ -6,6 +6,7 @@ DesingPattern commandPattern = DesingPattern(
   smallDescription: "Encapsula una solicitud como un objeto, lo que permite parametrizar a los clientes con diferentes solicitudes.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/15_Command/command-mini.png",
 );
@@ -39,9 +40,7 @@ String _disadvantages = """
 **Complejidad Inicial**: Aumenta la complejidad del diseño al requerir la creación de la interfaz `Command`, el `Invocador` y el `Receptor`, incluso para operaciones simples.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina un editor de texto o una aplicación con botones de interfaz de usuario. Tienes botones para "Abrir", "Guardar" e "Imprimir". La lógica de estos botones debe ser intercambiable y, además, necesitas una función de "Deshacer".
 
@@ -51,7 +50,9 @@ Imagina un editor de texto o una aplicación con botones de interfaz de usuario.
 * **Invocador**: Los botones de la interfaz de usuario. Un botón no sabe cómo "abrir" o "guardar", solo sabe que, cuando se pulsa, debe llamar a `command.execute()`.
 
 El botón puede configurarse en tiempo de ejecución para ejecutar cualquier comando, logrando flexibilidad. Además, para la función "Deshacer", la aplicación solo necesita mantener una pila de los comandos ejecutados que contienen la información necesaria para revertir su acción.
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando deseas **parametrizar objetos** con una acción a realizar, es decir, cuando un objeto no sabe exactamente qué hacer, pero sí sabe a quién preguntar.
 * Cuando necesitas **especificar, poner en cola y ejecutar solicitudes en momentos diferentes**.

@@ -6,6 +6,7 @@ DesingPattern visitorPattern = DesingPattern(
   smallDescription: "Permite agregar nuevas operaciones a objetos sin modificar su estructura.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/22_Visitor/visitor-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * **Rompe el Encapsulamiento**: Para que el Visitante pueda realizar su trabajo, a menudo necesita acceder a los datos internos de los elementos de la estructura, lo que puede requerir exponer propiedades y métodos que de otro modo serían privados o protegidos.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que tienes una aplicación de diseño geométrico con una jerarquía de formas (`Circle`, `Square`, ` `Triangle`). Inicialmente, solo necesitas un método para dibujarlas. Luego, decides que necesitas nuevas operaciones como **exportar a XML y calcular el perímetro**.
 
@@ -51,7 +50,9 @@ Imagina que tienes una aplicación de diseño geométrico con una jerarquía de 
 Cuando el cliente llama a circle.accept(xmlExporter), la llamada se delega al método `xmlExporter.visitCircle(circle)`, que contiene toda la lógica de exportación específica para un círculo.
 
 De esta forma, puedes añadir la funcionalidad de "exportar a JSON" creando simplemente una nueva clase `JSONExportVisitor`, sin tocar las clases `Circle` o `Square`.
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando necesitas **añadir nuevas operaciones** a una estructura de objetos compleja **sin modificar las clases de esos objetos**.
 * Cuando una operación necesita acceder a **datos internos** de varios tipos de objetos en la estructura y es conveniente tener toda esa lógica **centralizada en un solo lugar**.

@@ -6,6 +6,7 @@ DesingPattern mementoPattern = DesingPattern(
   smallDescription: "Permite capturar y almacenar el estado interno de un objeto sin violar su encapsulamiento, para poder restaurarlo posteriormente.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/20_Memento/memento-mini.png",
 );
@@ -39,9 +40,7 @@ String _disadvantages = """
 * **Serialización**: Si el Memento necesita ser transferido o persistido, los problemas de serialización de objetos grandes pueden surgir.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando un editor gráfico y necesitas permitir al usuario deshacer sus acciones (mover, rotar, cambiar color).
 
@@ -50,8 +49,9 @@ Imagina que estás desarrollando un editor gráfico y necesitas permitir al usua
 * **Celador (CareTaker)**: La clase `History` mantiene una pila (stack) de objetos `Snapshot`.
 * Cuando el usuario hace un cambio, el `History` pide al `Canvas` un Memento: `history.push(canvas.save())`.
 * Cuando el usuario pulsa "Deshacer", el `History` recupera el último Memento: `snapshot = history.pop()`, y el `Canvas` restaura su estado: `canvas.restore(snapshot)`.
+""";
 
-
+String _whenToUse = """
 # Cuándo usar
 * Cuando necesitas guardar instantáneas del estado de un objeto para poder **restaurarlo a un estado anterior** (por ejemplo, implementar la funcionalidad de "deshacer").
 * Cuando guardar el estado del objeto es necesario, pero **no quieres exponer** los detalles de la estructura interna de ese objeto al resto de las clases (manteniendo el encapsulamiento).

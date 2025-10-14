@@ -12,28 +12,43 @@ class DesingPattersController extends GetxController{
   final selectedIndex = 0.obs;
 
   final _showPurpose = true.obs;
+  final _showUsage = false.obs;
+  final _showExample = false.obs;
+  final _showAplicability = false.obs;
+
   bool get showPurpose => _showPurpose.value;
   void toggleShowPurpose() {
+    _cleanSelection();
     _showPurpose.value = true;
-    _showUsage.value = false;
-    _showExample.value = false;
   }
 
-  final _showUsage = false.obs;
   bool get showUsage => _showUsage.value;
   void toggleShowUsage() {
-    _showPurpose.value = false;
+    _cleanSelection();
     _showUsage.value = true;
-    _showExample.value = false;
   }
 
-  final _showExample = false.obs;
   bool get showExample => _showExample.value;
   void toggleShowExample() {
-    _showPurpose.value = false;
-    _showUsage.value = false;
+    _cleanSelection();
+    selectedIndex.value = 0;
     _showExample.value = true;
   }
+
+  bool get showAplicability => _showAplicability.value;
+  void toggleShowAplicability() {
+    _cleanSelection();
+    _showAplicability.value = true;
+  }
+
+  void _cleanSelection() {
+    _showPurpose.value = false;
+    _showUsage.value = false;
+    _showExample.value = false;
+    _showAplicability.value = false;
+  }
+
+
   
   final List<DesingPattern> _creationalPatterns = [
     builderPattern, factoryMethodPattern, abstractFactoryPattern, prototypePattern,

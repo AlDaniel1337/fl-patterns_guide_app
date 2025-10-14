@@ -6,6 +6,7 @@ DesingPattern abstractFactoryPattern = DesingPattern(
   smallDescription: "Crear familias de objetos relacionados.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/03_AbstractFactory/abstract-factory-mini.png",
 );
@@ -37,9 +38,7 @@ String _disadvantages = """
 * La adición de nuevos tipos de productos (una nueva interfaz de producto) requiere modificar tanto la interfaz de la fábrica abstracta como todas sus implementaciones concretas, lo que puede ser engorroso.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando una aplicación con una interfaz de usuario (UI) que debe poder funcionar en diferentes sistemas operativos o estilos (como temas Claros y Oscuros). Necesitas crear un conjunto de widgets (Botones, Cajas de Texto, Ventanas) que sean coherentes dentro del mismo estilo.
 El patrón Abstract Factory permite:
@@ -49,7 +48,9 @@ El patrón Abstract Factory permite:
 * Cada fábrica concreta se encarga de crear todos los productos necesarios para su estilo (ej. LightThemeFactory crea LightButton, LightTextBox, etc.).
 
 Esto significa que, para cambiar toda la UI de Claro a Oscuro, solo necesitas cambiar la instancia de la fábrica que le pasas al código que construye la UI.
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando el sistema debe ser independiente de cómo se crean, componen y representan sus productos.
 * Cuando el sistema debe poder configurarse con una de varias familias de objetos relacionados.

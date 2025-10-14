@@ -6,6 +6,7 @@ DesingPattern templateMethodPattern = DesingPattern(
   smallDescription: "Define el esqueleto de un algoritmo en una operación, delegando algunos pasos a las subclases.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/17_TemplateMethod/template-method-mini.png",
 );
@@ -39,9 +40,7 @@ String _disadvantages = """
 * **Violación de Liskov**: Si los pasos son opcionales (hook methods), la subclase podría dejar la implementación vacía, lo cual podría confundir a algunos desarrolladores.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás construyendo un sistema para procesar datos, como un archivo (`DataProcessor`). El proceso general es siempre el mismo: **Leer Datos**, **Procesar Datos**, **Escribir Resultados**. Sin embargo, la forma de leer, procesar y escribir varía si se trata de un archivo CSV o un XML.
 
@@ -56,7 +55,9 @@ templateMethod():
 * Clases Concretas: `CSVProcessor` y `XMLProcessor` heredan de `DataProcessor` y solo implementan la lógica específica para cada paso. Por ejemplo, `CSVProcessor.readData()` lee líneas separadas por comas.
 
 De esta forma, cualquier nuevo formato de archivo solo necesita heredar y llenar los "huecos" del algoritmo.
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando quieres implementar las partes invariables de un algoritmo una sola vez y dejar que las subclases implementen el comportamiento que puede variar.
 * Cuando tienes varias clases que implementan un comportamiento común con ligeras variaciones, y quieres aislar esas variaciones.

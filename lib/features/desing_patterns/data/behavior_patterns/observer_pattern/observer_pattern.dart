@@ -6,6 +6,7 @@ DesingPattern observerPattern = DesingPattern(
   smallDescription: "Permite a un objeto notificar cambios a otros objetos sin acoplarse a ellos.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/14_Observer/observer-mini.png",
 );
@@ -39,9 +40,7 @@ String _disadvantages = """
 * **Dependencias Circulares**: Es posible que las actualizaciones creen un ciclo de notificaciones si la lógica de un Observador desencadena un nuevo cambio en el Sujeto.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás construyendo una aplicación para una **bolsa de valores** donde el precio de una acción (`Stock`) debe mostrarse en varios gráficos, tablas y mensajes de texto simultáneamente.
 
@@ -50,8 +49,9 @@ Imagina que estás construyendo una aplicación para una **bolsa de valores** do
 * Observadores Concretos: Clases como ChartDisplay, TableDisplay y SMSSender, cada una de las cuales se suscribe al objeto Stock.
 
 Cuando el precio del stock cambia (`stock.setPrice(101.50)`), el objeto `Stock` llama a `notifyObservers()`, y automáticamente todos los elementos suscritos se actualizan con el nuevo precio, cada uno a su manera.
+""";
 
-# Cuándo usar
+String _whenToUse = """# Cuándo usar
 * Cuando un cambio en el estado de un objeto debe **desencadenar cambios en otros objetos**, y no sabes (o no quieres saber) cuántos objetos ni cuáles son.
 * Cuando deseas que la **dependencia entre objetos sea dinámica** y se pueda establecer en tiempo de ejecución (los observadores pueden suscribirse y desuscribirse libremente).
 * En sistemas basados en **eventos o GUI** (Interfaz Gráfica de Usuario), donde un evento de usuario (el Sujeto) debe actualizar varios componentes de la pantalla (los Observadores).

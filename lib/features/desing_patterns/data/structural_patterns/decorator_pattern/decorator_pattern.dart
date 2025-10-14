@@ -6,6 +6,7 @@ DesingPattern decoratorPattern = DesingPattern(
   smallDescription: "Permite añadir comportamientos a objetos de forma dinámica.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/09_Decorator/decorator-mini.png",
 );
@@ -39,9 +40,7 @@ String _disadvantages = """
 * Identidad de Objeto: Es difícil asegurar que un objeto envuelto es idénticamente igual al objeto original si se utiliza el operador de igualdad o de identidad.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando un sistema para una cafetería donde necesitas calcular el costo de diferentes tipos de café y sus adiciones (leche, azúcar, espuma, etc.).
 
@@ -55,7 +54,9 @@ El cliente puede componer el café que desee:
 * `miCafe = new SimpleCoffee()`
 * `miCafeConLeche = new MilkDecorator(miCafe)` // Costo: \$5 + \$1 = \$6
 * `miCafeCompleto = new SugarDecorator(miCafeConLeche)` // Costo: \$6 + \$0.50 = \$6.50
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando necesitas añadir responsabilidades o comportamientos a objetos individuales de forma transparente y dinámica sin afectar a otros objetos de la misma clase.
 * Cuando la extensión mediante herencia no es viable porque llevaría a una explosión de subclases para cubrir todas las combinaciones de características.

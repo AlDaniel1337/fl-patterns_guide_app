@@ -6,6 +6,7 @@ DesingPattern factoryMethodPattern = DesingPattern(
   smallDescription: "Delegar creación a subclases.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/02_FactoryMethod/factory-method-mini.png",
 );
@@ -42,9 +43,7 @@ String _disadvantages = """
 - Puede requerir muchas clases paralelas (una clase de fábrica concreta por cada clase de producto concreta), lo que puede complicar la estructura del proyecto.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás construyendo un juego o una aplicación que gestiona diferentes tipos de transportes (coches, camiones, bicicletas, etc.). **El código que utiliza los transportes no debería saber o preocuparse por cómo se crean; solo debería saber que pueden moverse.**
 
@@ -53,7 +52,9 @@ El patrón Factory Method permite:
 * Implementar este contrato en subclases (Concrete Creators), donde cada una se encargará de instanciar un tipo específico de objeto (Concrete Product).
 
 Esto significa que si mañana decides añadir un nuevo tipo de transporte (ej. una "Patineta"), solo necesitas crear la clase `Patineta` y una `PatinetaFactory`, dejando el código que usa los transportes completamente intacto.
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando quieres evitar el acoplamiento entre el creador y los productos concretos.
 * Cuando la clase que crea los objetos no puede anticipar qué clase de objetos necesita crear (por ejemplo, depende de la configuración o el entorno de ejecución).

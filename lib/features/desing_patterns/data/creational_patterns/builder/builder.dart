@@ -6,6 +6,7 @@ DesingPattern builderPattern = DesingPattern(
   smallDescription: "Construir objetos complejos paso a paso.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/01_Builder/builder-mini.png",
 );
@@ -39,9 +40,7 @@ String _disadvantages = """
 - No es adecuado para objetos que son simples y no requieren una construcción compleja.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Digamos que tenemos un **constructor con diez parámetros opcionales**. Invocar a semejante bestia es poco práctico, por lo que *sobrecargamos el constructor y creamos varias versiones más cortas con menos parámetros*. 
 
@@ -49,7 +48,10 @@ Esto quiere decir que el patrón Builder permite construir objetos utilizando ta
 
 * Estos constructores siguen recurriendo al principal, pasando algunos valores por defecto a cualquier parámetro omitido.
 * Una vez implementado el patrón, ya no hará falta apiñar decenas de parámetros dentro de los constructores.
+""";
 
+
+String _whenToUse = """
 # Cuándo usar
 * Con objetos con muchas combinaciones.
 * Cuando se tiene una clase compleja con múltiples constructores.

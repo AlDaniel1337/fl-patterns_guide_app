@@ -6,6 +6,7 @@ DesingPattern factoryFunctionPattern = DesingPattern(
   smallDescription: "Fabrica de funciones.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
 );
 
@@ -39,9 +40,7 @@ String _disadvantages = """
 * Gestión de Instancias: Si la función fábrica necesita asegurar que solo se cree una instancia (como un Singleton), la lógica de gestión de estado debe implementarse manualmente dentro de la función.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando un sistema de gestión de vehículos y necesitas crear diferentes tipos de vehículos (Coche, Bicicleta, Camión). La lógica para configurar cada uno (como establecer el número de ruedas, el motor o el color inicial) es compleja.
 
@@ -54,7 +53,9 @@ Imagina que estás desarrollando un sistema de gestión de vehículos y necesita
     * Devolver el objeto configurado.
 
 El cliente no tiene que saber si la creación interna utilizó una clase, un prototipo o simplemente un objeto literal.
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando necesitas una forma sencilla y directa de crear objetos en función de un parámetro de entrada o una configuración.
 * Cuando quieres evitar el uso de new y clases para la creación de objetos, prefiriendo la composición y la simplicidad de las funciones (común en JavaScript).

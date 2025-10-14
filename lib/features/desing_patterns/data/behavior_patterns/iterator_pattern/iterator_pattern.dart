@@ -6,6 +6,7 @@ DesingPattern iteratorPattern = DesingPattern(
   smallDescription: "Proporciona una forma de acceder secuencialmente a los elementos de un objeto compuesto sin exponer su representación interna.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/18_Iterator/iterator-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * **No Siempre Necesario**: En muchos lenguajes modernos, la implementación del Iterador ya está integrada en las colecciones estándar, por lo que rara vez es necesario implementarlo desde cero a menos que se esté creando una estructura de datos personalizada.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que tienes una aplicación que gestiona diferentes tipos de colecciones de empleados, como un **árbol jerárquico** para gerentes y una **lista simple** para el personal de producción. Un cliente quiere iterar sobre ambas estructuras para imprimir todos los nombres.
 
@@ -50,8 +49,9 @@ Imagina que tienes una aplicación que gestiona diferentes tipos de colecciones 
 * **Iteradores Concretos**: Clases como `TreeIterator` y `ListIterator` implementan la lógica de recorrido específica para sus respectivas estructuras de datos.
 
 El código cliente simplemente obtiene un iterador (`iterator = collection.createIterator()`) y lo utiliza (`while (iterator.hasNext()) { print(iterator.next()); }`), sin importarle si la estructura interna es una lista, un array o un árbol.
+""";
 
-# Cuándo usar
+String _whenToUse = """# Cuándo usar
 * Cuando necesitas acceder a los contenidos de un objeto agregado sin exponer su estructura interna (la forma en que se almacenan los datos).
 * Cuando necesitas soportar múltiples formas de recorrido en el mismo objeto agregado (por ejemplo, recorrido de un árbol en preorden o en postorden).
 * Cuando deseas proporcionar una interfaz uniforme para recorrer diferentes estructuras de datos heterogéneas.

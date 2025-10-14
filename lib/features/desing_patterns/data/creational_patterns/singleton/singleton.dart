@@ -6,6 +6,7 @@ DesingPattern singletonPattern = DesingPattern(
   smallDescription: "Asegura que una clase tenga una única instancia.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/05_Singleton/singleton-mini.png",
 );
@@ -41,9 +42,7 @@ String _disadvantages = """
 * Oculta Dependencias: Al ser un acceso global, puede ocultar las dependencias del código, dificultando saber qué partes de la aplicación están usando realmente el Singleton.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando el sistema de registro de errores (logging) de una aplicación. Solo quieres un objeto que se encargue de escribir todos los mensajes en un único archivo de registro. 
 * Permitir múltiples instancias podría causar problemas de concurrencia y corrupción del archivo.
@@ -56,8 +55,9 @@ El patrón Singleton te permite:
   * Si ya existe, devuelve la instancia existente.
 
 De esta manera, no importa cuántas veces se llame a `Logger.getInstance()`, siempre se recibirá el mismo objeto `Logger`.
+""";
 
-# Cuándo usar
+String _whenToUse = """# Cuándo usar
 * Cuando debe haber exactamente una instancia de una clase, y debe ser accesible para los clientes desde un punto de entrada conocido y global.
 * Cuando la instancia única debe poder extenderse por subclases (aunque esto es menos común).
 * Para controlar recursos compartidos como pools de conexiones, gestores de configuración o loggers de sistema.

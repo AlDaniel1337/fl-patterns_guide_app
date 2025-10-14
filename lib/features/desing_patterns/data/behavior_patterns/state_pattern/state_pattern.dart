@@ -6,6 +6,7 @@ DesingPattern statePattern = DesingPattern(
   smallDescription: "Permite a un objeto alterar su comportamiento cuando su estado interno cambia.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/16_State/state-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * **Sobrecarga de Delegación**: Introduce un nivel de delegación que puede hacer que el código sea un poco más difícil de seguir si no estás familiarizado con el patrón.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás modelando el comportamiento de un **cajero automático** (ATM). El cajero puede estar en diferentes estados: `Inactivo`, `InsertandoTarjeta`, `SeleccionandoOperacion`, `RetirandoDinero`. La acción de un botón (ej: "Ingresar PIN") varía drásticamente dependiendo del estado actual del cajero.
 
@@ -49,7 +48,9 @@ Imagina que estás modelando el comportamiento de un **cajero automático** (ATM
 * **Estados Concretos**: Clases como CardInsertedState, IdleState, etc. Cada una implementa los métodos de la interfaz de manera diferente y, crucialmente, maneja la transición al siguiente estado.
 
 Cuando el usuario ingresa su PIN, la clase `ATM` delega la acción: `currentState.handlePinEntry()`. El objeto de estado actual decide si el PIN es correcto y si debe cambiar el estado del `ATM` a `SelectingOperationState`
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando un objeto puede cambiar su comportamiento de manera significativa en función de su **estado interno**, y este estado es complejo.
 * Cuando tienes **grandes estructuras condicionales** (`switch` o `if/else`) que dependen del estado actual para seleccionar el comportamiento.

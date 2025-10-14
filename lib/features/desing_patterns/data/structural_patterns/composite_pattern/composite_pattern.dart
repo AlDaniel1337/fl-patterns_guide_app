@@ -6,6 +6,7 @@ DesingPattern compositePattern = DesingPattern(
   smallDescription: "Permite tratar objetos individuales y compuestos de manera uniforme.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/08_Composite/composite-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * Diseño Genérico: El precio de la uniformidad es que a veces la interfaz común podría ser demasiado genérica, obligando a los componentes a implementar métodos que no tienen sentido para ellos (aunque esto se puede mitigar con diseños cuidadosos).
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás diseñando un sistema de archivos o carpetas. Una carpeta puede contener archivos individuales (hojas) y también otras carpetas (compuestos). El cliente quiere realizar una acción, como calcular el tamaño, en cualquier elemento.
 
@@ -49,7 +48,9 @@ Imagina que estás diseñando un sistema de archivos o carpetas. Una carpeta pue
 * El Compuesto (Grupo de Objetos): La clase `Folder` implementa `getSize()` recorriendo recursivamente a todos sus hijos (archivos y otras carpetas) y sumando sus tamaños.
 
 El código cliente simplemente llama a `algunComponente.getSize()`, sin importar si `algunComponente` es un archivo individual o la carpeta raíz con miles de elementos dentro.
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando necesitas representar estructuras de objetos de tipo jerárquicas o de árbol.
 * Cuando quieres que el código cliente pueda ignorar la diferencia entre objetos individuales y composiciones de objetos.

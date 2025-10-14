@@ -6,6 +6,7 @@ DesingPattern chainOfResponsibilityPattern = DesingPattern(
   smallDescription: "Permite que varios objetos manejen una solicitud sin que el emisor conozca al receptor.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/21_ChainOfResponsibility/chain-of-responsibility-mini.png",
 );
@@ -38,9 +39,7 @@ String _disadvantages = """
 * **Latencia**: La solicitud puede tener que pasar por muchos objetos antes de ser manejada, lo que podría aumentar ligeramente el tiempo de respuesta.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina un sistema de **aprobación de solicitudes de compra** dentro de una empresa. El monto de la solicitud determina quién debe aprobarla: un empleado normal puede aprobar hasta \$100, un gerente hasta \$1000, y el director hasta \$10000.
 
@@ -49,6 +48,13 @@ Imagina un sistema de **aprobación de solicitudes de compra** dentro de una emp
 * **Cada manejador** implementa la lógica: "Si puedo manejar esta solicitud (ej: monto ≤\$100), la proceso; si no, la paso al siguiente manejador."
 
 El Cliente: El cliente crea la cadena de responsabilidad (por ejemplo: Empleado → Gerente → Director) y luego simplemente envía la solicitud al primer eslabón: `employeeHandler.handleRequest(request)`.
+""";
+
+String _whenToUse = """
+# Cuándo Usar
+* Cuando más de un objeto puede manejar una solicitud, y el manejador real debe ser determinado automáticamente en tiempo de ejecución.
+* Cuando el conjunto de objetos que pueden manejar la solicitud no es fijo y debe ser configurable.
+* En sistemas donde se requiere una secuencia de filtros o pasos de procesamiento (ej: logging, autenticación, caché, y validación).
 
 ## Contestar la siguiente pregunta
 * ¿Tengo una solicitud que potencialmente puede ser manejada por varios objetos, y necesito una forma flexible de probarlos en secuencia hasta que uno la procese?

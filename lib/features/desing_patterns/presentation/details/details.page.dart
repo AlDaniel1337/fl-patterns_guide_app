@@ -5,6 +5,8 @@ import 'package:patterns_guide_app/features/desing_patterns/domain/entities/desi
 import 'package:patterns_guide_app/features/desing_patterns/presentation/details/components/pattern_description.dart';
 import 'package:patterns_guide_app/widgets/custom_text_button.dart';
 
+import './components/pattern_menu.dart';
+
 DesingPattersController desingPattersController = Get.put(DesingPattersController());
 
 class DesingPatternsDetailsPage extends StatelessWidget {
@@ -21,8 +23,8 @@ class DesingPatternsDetailsPage extends StatelessWidget {
     return Scaffold(
    
       appBar: AppBar(
-         title: Text( selectedPattern.name ),
-         centerTitle: true,
+        title: Text( selectedPattern.name ),
+        centerTitle: true,
       ),
    
       body: Padding(
@@ -31,7 +33,7 @@ class DesingPatternsDetailsPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
                         
-            _Menu(),
+            PatternMenu(),
             const SizedBox(height: 20),
 
             Obx(() {
@@ -40,6 +42,9 @@ class DesingPatternsDetailsPage extends StatelessWidget {
               }
               if( desingPattersController.showUsage ) {
                 return PatternDescription( description: selectedPattern.whereToUse );
+              }
+              if( desingPattersController.showAplicability ) {
+                return PatternDescription( description: selectedPattern.aplicability);
               }
               if( desingPattersController.showExample ) {
                 return Column(
@@ -72,35 +77,6 @@ class DesingPatternsDetailsPage extends StatelessWidget {
           ],
         ),
       ),
-    );
-  }
-}
-
-
-class _Menu extends StatelessWidget {
-  const _Menu();
-
-  @override
-  Widget build(BuildContext context) {
-    return Row(
-      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-      children: [
-        CustomTextBtn(
-          title: "Propósito",
-          onPress: () => desingPattersController.toggleShowPurpose()
-        ),
-        CustomTextBtn(
-          title: "Uso",
-          onPress: () => desingPattersController.toggleShowUsage()
-        ),
-        CustomTextBtn(
-          title: "Ejemplo",
-          onPress: (){
-            desingPattersController.selectedIndex.value = 0;
-            desingPattersController.toggleShowExample();
-          }
-        ),
-      ],
     );
   }
 }

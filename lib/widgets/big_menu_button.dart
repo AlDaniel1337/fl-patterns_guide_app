@@ -4,7 +4,7 @@ class BigMenuButton extends StatelessWidget {
 
   final String title;
   final String subtitle;
-  final IconData icon;
+  final IconData? icon;
   final String? imageUrl;
   final VoidCallback? onPress;
   final Color mainColor;
@@ -16,8 +16,8 @@ class BigMenuButton extends StatelessWidget {
     super.key, 
     required this.title, 
     required this.subtitle, 
-    required this.icon,
     required this.onPress,
+    this.icon,
     this.mainColor = const Color.fromRGBO(19, 149, 255, 1),
     this.secondaryColor = const Color.fromRGBO(149, 207, 255, 1),
     this.borderRadius = 20,
@@ -40,7 +40,8 @@ class BigMenuButton extends StatelessWidget {
             decoration: _decoration( borderRadius ),
             child: Stack(
               children: [
-                _details( imageUrl )
+
+                _details( imageUrl: imageUrl, icon: icon ),
               ],
             )
           ),
@@ -52,11 +53,14 @@ class BigMenuButton extends StatelessWidget {
 
 
 
-  Row _details( String? imageUrl ) {
+  Row _details({ String? imageUrl, IconData? icon }) {
     return Row(
           children: [
             const SizedBox(width: 20),
-            if(imageUrl != null)
+            
+            if(icon != null)
+            Icon(icon, size: 60, color: Colors.white),
+            if(imageUrl != null && icon == null)
             Image.asset( imageUrl, width: 130, height: 130, fit: BoxFit.contain ),
 
             const SizedBox(width: 20),

@@ -6,6 +6,7 @@ DesingPattern proxyPattern = DesingPattern(
   smallDescription: "Proporciona un sustituto o marcador de otro objeto para controlar el acceso a este.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/12_Proxy/proxy-mini.png",
 );
@@ -37,9 +38,7 @@ String _disadvantages = """
 * **Complejidad**: Puede ser difícil de implementar correctamente si el Sujeto Real tiene muchos métodos, ya que el Proxy debe replicar la interfaz completa.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que tienes una clase muy costosa de inicializar, como un objeto que carga un archivo de imagen grande o establece una conexión de red pesada (`HeavyImage`). No quieres inicializar esta imagen hasta que realmente necesite ser mostrada en pantalla.
 
@@ -48,7 +47,9 @@ Imagina que tienes una clase muy costosa de inicializar, como un objeto que carg
 * Solo cuando el cliente llama a un método que requiere la carga real (ej: `image.display()`), el Proxy crea la instancia del `HeavyImage` y delega la llamada.
 
 Esto se conoce como carga perezosa (lazy loading), donde el Proxy pospone la creación y uso del objeto hasta el último momento posible. Otros tipos de Proxy incluyen el Proxy de Protección (para seguridad) y el Proxy Remoto (para comunicación de red).
+""";
 
+String _whenToUse = """
 # Cuándo usar
 * Cuando necesitas **controlar el acceso** a un objeto (Proxy de Protección, para permisos de usuario).
 * Cuando quieres **evitar inicializaciones costosas** hasta que se requiera el objeto (Proxy Virtual o de carga perezosa).

@@ -6,6 +6,7 @@ DesingPattern facadePattern = DesingPattern(
   smallDescription: "Proporciona una interfaz simplificada a un conjunto de interfaces en un subsistema.",
   description: _descriptionPattern,
   whereToUse: _whenToUse,
+  aplicability: _aplicability,
   exampleSteps: _steps,
   imageUrl: "assets/patterns/10_Facade/facade-mini.png",
 );
@@ -39,9 +40,7 @@ String _disadvantages = """
 * **Falta de Flexibilidad**: La Fachada solo ofrece un subconjunto de las funcionalidades del subsistema. Si el cliente necesita acceso a funciones más profundas o específicas, tendrá que eludir la Fachada y acceder directamente al subsistema complejo.
 """;
 
-
-
-String _whenToUse = """
+String _aplicability = """
 # Aplicabilidad
 Imagina que estás desarrollando un sistema de cine en casa (`HomeTheater`). Para ver una película, se necesita interactuar con varias clases complejas en un orden específico: `Amplificador`, `ReproductorDVD`, `Proyector`, `Luces`.
 
@@ -58,8 +57,9 @@ Imagina que estás desarrollando un sistema de cine en casa (`HomeTheater`). Par
 * Creas la clase HomeTheaterFacade con un método simple:
   * El cliente solo llama a: `fachada.verPelicula("Inception")`
   * La Fachada se encarga internamente de orquestar todas las llamadas al `Amplificador`, `ReproductorDVD`, etc., simplificando enormemente el trabajo para el usuario de la Fachada.
+""";
 
-
+String _whenToUse = """
 # Cuándo usar
 * Cuando necesitas **proporcionar una interfaz simple** a un sistema complejo que consta de muchas clases interdependientes.
 * Cuando deseas **estructurar un subsistema en capas**, donde la Fachada actúa como el punto de entrada a cada capa.
