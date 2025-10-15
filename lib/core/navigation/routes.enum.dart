@@ -6,12 +6,18 @@ import 'package:patterns_guide_app/features/home/home.dart';
 import 'package:patterns_guide_app/features/japones/presentation/pages/pages.index.dart';
 import 'package:patterns_guide_app/features/languages/japanese/presentation/pages/menus/topic_menu.page.dart';
 import 'package:patterns_guide_app/features/languages/japanese/presentation/pages/topics/tipic.page.dart';
+import 'package:patterns_guide_app/features/solid/presentation/pages/principle_details/principle_details.dart';
+import 'package:patterns_guide_app/features/solid/presentation/pages/solid.page.dart';
+
 enum Routes {
   home  (url: HomePage.route, page: HomePage() ),
   
   desingPatternsMenuPage  (url: DesingPatternsMenuPage.route, page: DesingPatternsMenuPage() ),
   desingPatternsDetailsPage  (url: DesingPatternsDetailsPage.route, page: DesingPatternsDetailsPage() ),
   patternsMenuPage  (url: PatternsMenu.route, page: PatternsMenu() ),
+
+  solidPage  (url: SolidPagePage.route, page: SolidPagePage() ),
+  principleDetailsPage  (url: PrincipleDetailsPage.route, page: PrincipleDetailsPage() ),
   
   exercisesPage  (url: ExercisesMainPage.route, page: ExercisesMainPage() ),
   
